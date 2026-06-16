@@ -1,25 +1,27 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap');
 @import 'tailwindcss';
 
-/* ── Design tokens: editorial escuro + acento laranja ── */
+/* ── Design tokens: portal financeiro azul + verde ── */
 @theme {
 	--font-serif: 'Lora', Georgia, 'Times New Roman', serif;
 	--font-sans: 'DM Sans', system-ui, -apple-system, sans-serif;
 
-	--color-bg: #0f1117;
-	--color-bg-elevated: #171a23;
-	--color-bg-card: #1e222d;
-	--color-border: #2a2f3d;
-	--color-border-subtle: #232735;
+	--color-bg: #0d1420;
+	--color-bg-elevated: #131d2e;
+	--color-bg-card: #182338;
+	--color-border: #1e3a5f;
+	--color-border-subtle: #172035;
 
 	--color-fg: #eceef2;
-	--color-muted: #949bab;
-	--color-subtle: #6b7289;
+	--color-muted: #90a4bc;
+	--color-subtle: #5f7a96;
 
-	--color-accent: #f97316;
-	--color-accent-hover: #fb923c;
-	--color-accent-muted: #c2410c;
-	--color-accent-subtle: rgba(249, 115, 22, 0.12);
+	--color-accent: #16a34a;
+	--color-accent-hover: #22c55e;
+	--color-accent-muted: #14532d;
+	--color-accent-subtle: rgba(22, 163, 74, 0.12);
+
+	--color-surface: #111827;
 
 	--width-reading: 68ch;
 }
@@ -88,7 +90,8 @@
 
 	.hero-gradient {
 		background:
-			radial-gradient(ellipse 80% 60% at 50% -10%, rgba(249, 115, 22, 0.15), transparent),
+			radial-gradient(ellipse 80% 60% at 50% -10%, rgba(22, 163, 74, 0.12), transparent),
+			radial-gradient(ellipse 60% 40% at 80% 50%, rgba(30, 58, 95, 0.3), transparent),
 			var(--color-bg);
 	}
 
@@ -99,7 +102,6 @@
 		overflow: hidden;
 	}
 
-	/* Prose editorial — artigos (~68ch) */
 	.prose-custom {
 		@apply text-fg;
 		max-width: var(--width-reading);
