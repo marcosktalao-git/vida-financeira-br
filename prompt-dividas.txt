@@ -1,0 +1,48 @@
+Você é um especialista em SEO e educação financeira brasileira, com apoio de um copywriter especialista em conversão.
+
+Crie um artigo completo em Markdown sobre "Como Sair das Dívidas" seguindo estas regras obrigatórias.
+
+Use exatamente este frontmatter, ajustando apenas os campos de conteúdo:
+---
+title: "Como Sair das Dívidas em 2026: Guia Prático Passo a Passo"
+description: "Aprenda um método prático para sair das dívidas em 2026, organizar suas contas, negociar com credores e nunca mais cair no vermelho."
+pubDate: "2026-06-20"
+updatedDate: "2026-06-20"
+tags: ["Finanças da Família", "Dívidas", "Organização Financeira"]
+keywords: ["como sair das dividas", "sair do vermelho", "negociar dividas", "quitar dividas 2026", "organizar financas"]
+heroImage: "../../assets/blog-placeholder-5.jpg"
+affiliate_cta:
+  title: "Sua dívida está te impedindo de dormir tranquilo?"
+  description: "Um curso completo de educação financeira pode te ensinar exatamente como organizar suas contas, negociar com credores e criar um plano realista para sair do vermelho em poucos meses."
+  buttonText: "Quero aprender a sair das dívidas"
+  url: "https://exemplo.com/curso-educacao-financeira"
+---
+
+ESTRUTURA DO ARTIGO:
+- Entre 1.500 e 2.500 palavras
+- Linguagem simples, acolhedora e sem julgamento
+- Escrever como um especialista explicando para um familiar de 45 anos endividado e ansioso com a situação financeira
+- Parágrafos curtos com máxima escaneabilidade
+
+ESTRUTURA OBRIGATÓRIA:
+1. Introdução direta de no máximo 3 parágrafos, acolhedora, mostrando que dívida tem solução e não é vergonha
+2. <!-- ADSENSE TOPO -->
+3. H2: Por que as pessoas entram em dívida (e por que isso não é falha de caráter)
+4. H2: Passo a passo para organizar e mapear todas as suas dívidas
+5. H2: Como negociar dívidas com bancos e credores
+6. <!-- ADSENSE MEIO -->
+7. H2: Estratégias para pagar dívidas mais rápido (bola de neve e avalanche)
+8. H2: Como evitar cair de novo no vermelho
+9. H2: Quando vale a pena buscar ajuda profissional ou jurídica
+10. <!-- ADSENSE FINAL -->
+11. <!-- AFILIADO: curso educação financeira -->
+12. FAQ com 5 perguntas reais que brasileiros endividados fazem
+13. Conclusão com CTA para o artigo sobre melhor cartão sem anuidade
+
+LINKS INTERNOS OBRIGATÓRIOS:
+- 1 link para /blog/melhor-cartao-sem-anuidade/
+- 1 link para /blog/como-abrir-um-mei/
+
+Antes de escrever, verifique a estrutura do projeto (content.config.ts e os artigos já publicados em src/content/blog/) para manter exatamente o mesmo padrão de frontmatter, marcadores de monetização e links relativos. Salve o arquivo direto em src/content/blog/como-sair-das-dividas.md
+
+Gere o artigo completo agora.
