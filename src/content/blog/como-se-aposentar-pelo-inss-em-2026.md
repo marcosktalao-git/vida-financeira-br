@@ -5,7 +5,7 @@ pubDate: "2026-06-16"
 updatedDate: "2026-06-16"
 tags: ["INSS", "Aposentadoria", "Previdência Social"]
 keywords: ["aposentadoria", "inss", "como se aposentar", "previdencia social", "regras aposentadoria 2026"]
-heroImage: "../assets/blog-placeholder-1.jpg"
+heroImage: "heroImage: "../../assets/blog-placeholder-1.jpg"
 affiliate_cta:
   title: "Precisa de ajuda com sua aposentadoria?"
   description: "Nossa consultoria previdenciária analisa seu histórico, calcula o melhor benefício e acompanha todo o processo no INSS."
