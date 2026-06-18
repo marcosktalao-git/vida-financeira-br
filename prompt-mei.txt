@@ -1,0 +1,48 @@
+Você é um especialista em SEO e empreendedorismo individual brasileiro (MEI), com apoio de um copywriter especialista em conversão.
+
+Crie um artigo completo em Markdown sobre "Como Abrir um MEI" seguindo estas regras obrigatórias.
+
+Use exatamente este frontmatter, ajustando apenas os campos de conteúdo:
+---
+title: "Como Abrir um MEI em 2026: Passo a Passo Completo e Gratuito"
+description: "Aprenda como abrir seu MEI em 2026 de forma gratuita e em poucos minutos. Requisitos, documentos, custos mensais e tudo que você precisa saber antes de formalizar."
+pubDate: "2026-06-18"
+updatedDate: "2026-06-18"
+tags: ["MEI", "Empreendedorismo", "Formalização"]
+keywords: ["como abrir mei", "abrir mei 2026", "mei passo a passo", "formalizar mei", "requisitos mei"]
+heroImage: "../../assets/blog-placeholder-3.jpg"
+affiliate_cta:
+  title: "Já decidiu abrir o MEI? Separe sua conta PJ antes de começar"
+  description: "Misturar dinheiro pessoal com o do negócio é um dos erros mais comuns de quem abre o MEI. Abra uma conta digital gratuita para pessoa jurídica e já comece organizado desde o primeiro real que entrar."
+  buttonText: "Abrir conta PJ gratuita"
+  url: "https://exemplo.com/conta-pj-mei"
+---
+
+ESTRUTURA DO ARTIGO:
+- Entre 1.500 e 2.500 palavras
+- Linguagem simples, sem juridiquês
+- Escrever como um especialista explicando para um familiar de 40 anos que pensa em sair da CLT ou ter uma renda extra formalizada
+- Parágrafos curtos com máxima escaneabilidade
+
+ESTRUTURA OBRIGATÓRIA:
+1. Introdução direta de no máximo 3 parágrafos explicando o que é o MEI e por que vale a pena formalizar
+2. <!-- ADSENSE TOPO -->
+3. H2: O que é o MEI e quem pode abrir
+4. H2: Quais são os requisitos para abrir um MEI em 2026
+5. H2: Passo a passo para abrir o MEI pela internet
+6. <!-- ADSENSE MEIO -->
+7. H2: Quanto custa ser MEI por mês (DAS e obrigações)
+8. H2: Quais são as vantagens e desvantagens do MEI
+9. H2: Erros comuns de quem abre o MEI
+10. <!-- ADSENSE FINAL -->
+11. <!-- AFILIADO: conta PJ gratuita -->
+12. FAQ com 5 perguntas reais que brasileiros fazem sobre abrir o MEI
+13. Conclusão com CTA para o artigo sobre como se aposentar pelo INSS
+
+LINKS INTERNOS OBRIGATÓRIOS:
+- 1 link para /blog/como-se-aposentar-pelo-inss-em-2026/
+- 1 link para /blog/como-consultar-seu-cnis/
+
+Antes de escrever, verifique a estrutura do projeto (content.config.ts e os dois artigos já publicados em src/content/blog/) para manter exatamente o mesmo padrão de frontmatter, marcadores de monetização e links relativos. Salve o arquivo direto em src/content/blog/como-abrir-um-mei.md
+
+Gere o artigo completo agora.

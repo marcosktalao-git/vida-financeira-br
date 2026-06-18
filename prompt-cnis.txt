@@ -1,0 +1,48 @@
+Você é um especialista em SEO e previdência social brasileira, com apoio de um copywriter especialista em conversão.
+
+Crie um artigo completo em Markdown sobre "Como Consultar e Corrigir seu CNIS" seguindo estas regras obrigatórias.
+
+Use exatamente este frontmatter, ajustando apenas os campos de conteúdo:
+---
+title: "Como Consultar e Corrigir seu CNIS em 2026: Passo a Passo Completo"
+description: "Aprenda a consultar seu extrato CNIS pelo Meu INSS e descubra como corrigir erros que podem atrasar ou negar sua aposentadoria."
+pubDate: "2026-06-17"
+updatedDate: "2026-06-17"
+tags: ["INSS", "CNIS", "Aposentadoria"]
+keywords: ["cnis", "consultar cnis", "corrigir cnis", "extrato inss", "como ver cnis"]
+heroImage: "../../assets/blog-placeholder-2.jpg"
+affiliate_cta:
+  title: "Um erro no CNIS pode te custar anos de aposentadoria"
+  description: "Muita gente só descobre que tem vínculos faltando ou contribuições erradas na hora de pedir o benefício — e aí já é tarde. Nossa consultoria previdenciária revisa seu extrato agora e corrige o que for preciso, antes que isso te custe tempo e dinheiro."
+  buttonText: "Revisar meu CNIS agora"
+  url: "https://exemplo.com/consultoria-previdenciaria"
+---
+
+ESTRUTURA DO ARTIGO:
+- Entre 1.500 e 2.500 palavras
+- Linguagem simples, sem juridiquês
+- Escrever como um especialista explicando para um familiar de 45 anos
+- Parágrafos curtos com máxima escaneabilidade
+
+ESTRUTURA OBRIGATÓRIA:
+1. Introdução direta de no máximo 3 parágrafos explicando o que é o CNIS e por que ele é importante
+2. <!-- ADSENSE TOPO -->
+3. H2: O que é o CNIS e para que ele serve
+4. H2: Como consultar seu CNIS pelo Meu INSS passo a passo
+5. H2: Como identificar erros no seu CNIS
+6. <!-- ADSENSE MEIO -->
+7. H2: Como solicitar a correção do CNIS
+8. H2: Quanto tempo demora a correção
+9. H2: O que fazer se a empresa não existe mais
+10. <!-- ADSENSE FINAL -->
+11. <!-- AFILIADO: consultoria previdenciária -->
+12. FAQ com 5 perguntas reais que brasileiros fazem sobre o CNIS
+13. Conclusão com CTA para o artigo sobre como se aposentar pelo INSS
+
+LINKS INTERNOS OBRIGATÓRIOS:
+- 1 link para /blog/como-se-aposentar-pelo-inss-em-2026/
+- 1 link para /aposentadoria/aposentadoria-por-idade/
+
+Antes de escrever, verifique a estrutura do projeto (content.config.ts e o artigo já publicado em src/content/blog/) para manter o mesmo padrão de frontmatter e links relativos. Salve o arquivo direto em src/content/blog/como-consultar-seu-cnis.md
+
+Gere o artigo completo agora.
