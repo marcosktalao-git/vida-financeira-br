@@ -1,0 +1,48 @@
+Você é um especialista em SEO e previdência social brasileira, com apoio de um copywriter especialista em conversão.
+
+Crie um artigo completo em Markdown sobre "Como Calcular Tempo de Contribuição INSS" seguindo estas regras obrigatórias.
+
+Use exatamente este frontmatter, ajustando apenas os campos de conteúdo:
+---
+title: "Como Calcular seu Tempo de Contribuição no INSS em 2026"
+description: "Aprenda a calcular seu tempo de contribuição no INSS em 2026, entenda o que conta e o que não conta, e veja como se planejar para a aposentadoria."
+pubDate: "2026-06-25"
+updatedDate: "2026-06-25"
+tags: ["INSS", "Aposentadoria", "Previdência Social"]
+keywords: ["tempo de contribuição inss", "calcular tempo contribuição", "como calcular aposentadoria", "tempo contribuição 2026", "contagem tempo inss"]
+heroImage: "../../assets/blog-placeholder-5.jpg"
+affiliate_cta:
+  title: "Quer saber exatamente quando você pode se aposentar?"
+  description: "Nossa consultoria previdenciária analisa seu histórico completo no CNIS, calcula seu tempo real de contribuição e aponta a data mais vantajosa para pedir o benefício."
+  buttonText: "Calcular minha aposentadoria"
+  url: "https://exemplo.com/consultoria-previdenciaria"
+---
+
+ESTRUTURA DO ARTIGO:
+- Entre 1.500 e 2.500 palavras
+- Linguagem simples, sem juridiquês
+- Escrever como um especialista explicando para um familiar de 50 anos que quer entender se já pode se aposentar
+- Parágrafos curtos com máxima escaneabilidade
+
+ESTRUTURA OBRIGATÓRIA:
+1. Introdução direta de no máximo 3 parágrafos explicando por que calcular o tempo de contribuição é o primeiro passo antes de pedir a aposentadoria
+2. <!-- ADSENSE TOPO -->
+3. H2: O que é o tempo de contribuição e por que ele importa
+4. H2: O que conta como tempo de contribuição no INSS
+5. H2: O que NÃO conta como tempo de contribuição
+6. <!-- ADSENSE MEIO -->
+7. H2: Como calcular seu tempo de contribuição passo a passo
+8. H2: Tempo de contribuição x carência: qual a diferença
+9. H2: Como aumentar seu tempo de contribuição se faltar pouco
+10. <!-- ADSENSE FINAL -->
+11. <!-- AFILIADO: consultoria previdenciária -->
+12. FAQ com 5 perguntas reais que brasileiros fazem sobre tempo de contribuição
+13. Conclusão com CTA para o artigo sobre como se aposentar pelo INSS
+
+LINKS INTERNOS OBRIGATÓRIOS:
+- 1 link para /blog/como-se-aposentar-pelo-inss-em-2026/
+- 1 link para /blog/como-consultar-seu-cnis/
+
+Antes de escrever, verifique a estrutura do projeto (content.config.ts e os artigos já publicados em src/content/blog/) para manter exatamente o mesmo padrão de frontmatter, marcadores de monetização e links relativos. Salve o arquivo direto em src/content/blog/como-calcular-tempo-de-contribuicao-inss.md
+
+Gere o artigo completo agora.
