@@ -1,0 +1,48 @@
+Você é um especialista em SEO e benefícios sociais brasileiros, com apoio de um copywriter especialista em conversão.
+
+Crie um artigo completo em Markdown sobre "Bolsa Família Atualizado 2026" seguindo estas regras obrigatórias.
+
+Use exatamente este frontmatter, ajustando apenas os campos de conteúdo:
+---
+title: "Bolsa Família 2026: Valores Atualizados, Regras e Como Consultar"
+description: "Veja os valores atualizados do Bolsa Família em 2026, quem tem direito, como consultar o pagamento e o calendário completo do benefício."
+pubDate: "2026-06-24"
+updatedDate: "2026-06-24"
+tags: ["Benefícios Sociais", "Bolsa Família", "Finanças da Família"]
+keywords: ["bolsa familia 2026", "valor bolsa familia", "calendario bolsa familia", "quem tem direito bolsa familia", "consultar bolsa familia"]
+heroImage: "../../assets/blog-placeholder-4.jpg"
+affiliate_cta:
+  title: "Quer aumentar sua renda além do benefício?"
+  description: "Conheça um guia prático e gratuito de como formalizar um pequeno negócio e gerar renda extra sem perder o direito ao Bolsa Família."
+  buttonText: "Quero aumentar minha renda"
+  url: "https://exemplo.com/renda-extra-guia"
+---
+
+ESTRUTURA DO ARTIGO:
+- Entre 1.500 e 2.500 palavras
+- Linguagem simples, acolhedora e respeitosa, sem estigmatizar quem recebe o benefício
+- Escrever como um especialista explicando para um familiar de 40 anos que depende do benefício e quer entender seus direitos
+- Parágrafos curtos com máxima escaneabilidade
+
+ESTRUTURA OBRIGATÓRIA:
+1. Introdução direta de no máximo 3 parágrafos contextualizando o Bolsa Família em 2026
+2. <!-- ADSENSE TOPO -->
+3. H2: O que é o Bolsa Família e como ele funciona em 2026
+4. H2: Quem tem direito ao Bolsa Família em 2026 (critérios e regras)
+5. H2: Valores atualizados do Bolsa Família em 2026 (benefício base e adicionais)
+6. <!-- ADSENSE MEIO -->
+7. H2: Calendário de pagamentos do Bolsa Família em 2026
+8. H2: Como consultar e acompanhar seu benefício
+9. H2: O que pode fazer você perder o Bolsa Família
+10. <!-- ADSENSE FINAL -->
+11. <!-- AFILIADO: renda extra guia -->
+12. FAQ com 5 perguntas reais que brasileiros fazem sobre o Bolsa Família
+13. Conclusão com CTA para o artigo sobre como abrir um MEI
+
+LINKS INTERNOS OBRIGATÓRIOS:
+- 1 link para /blog/como-abrir-um-mei/
+- 1 link para /blog/como-sair-das-dividas/
+
+Antes de escrever, verifique a estrutura do projeto (content.config.ts e os artigos já publicados em src/content/blog/) para manter exatamente o mesmo padrão de frontmatter, marcadores de monetização e links relativos. Salve o arquivo direto em src/content/blog/bolsa-familia-2026.md
+
+Gere o artigo completo agora.
