@@ -1,0 +1,48 @@
+Você é um especialista em SEO e produtos financeiros brasileiros, com apoio de um copywriter especialista em conversão.
+
+Crie um artigo completo em Markdown sobre "Melhor Conta Digital" seguindo estas regras obrigatórias.
+
+Use exatamente este frontmatter, ajustando apenas os campos de conteúdo:
+---
+title: "Melhor Conta Digital em 2026: Comparativo Completo e Imparcial"
+description: "Compare as melhores contas digitais de 2026: rendimento, taxas, cartão, limites e qual escolher de acordo com seu perfil."
+pubDate: "2026-06-22"
+updatedDate: "2026-06-22"
+tags: ["Contas Digitais", "Bancos Digitais", "Finanças Pessoais"]
+keywords: ["melhor conta digital", "conta digital 2026", "conta digital gratuita", "qual conta digital escolher", "banco digital comparativo"]
+heroImage: "../../assets/blog-placeholder-2.jpg"
+affiliate_cta:
+  title: "Pronto para escolher sua conta digital?"
+  description: "Conta 100% gratuita, sem taxa de manutenção, com rendimento automático e cartão sem anuidade. Abra a sua agora mesmo, direto pelo celular."
+  buttonText: "Abrir conta digital gratuita"
+  url: "https://exemplo.com/conta-digital-gratuita"
+---
+
+ESTRUTURA DO ARTIGO:
+- Entre 1.500 e 2.500 palavras
+- Linguagem simples, direta e imparcial (comparação real entre opções, sem favorecer uma marca específica)
+- Escrever como um especialista explicando para um familiar de 40 anos que está decidindo entre bancos digitais
+- Parágrafos curtos com máxima escaneabilidade
+
+ESTRUTURA OBRIGATÓRIA:
+1. Introdução direta de no máximo 3 parágrafos contextualizando a explosão dos bancos digitais no Brasil em 2026
+2. <!-- ADSENSE TOPO -->
+3. H2: O que considerar antes de escolher uma conta digital
+4. H2: Comparativo das principais contas digitais do Brasil em 2026 (rendimento, taxas, cartão, atendimento)
+5. H2: Conta digital é segura? Como funciona a garantia do FGC
+6. <!-- ADSENSE MEIO -->
+7. H2: Vantagens de migrar do banco tradicional para o digital
+8. H2: Quando vale a pena manter o banco tradicional também
+9. H2: Erros comuns ao escolher uma conta digital
+10. <!-- ADSENSE FINAL -->
+11. <!-- AFILIADO: conta digital gratuita -->
+12. FAQ com 5 perguntas reais que brasileiros fazem sobre contas digitais
+13. Conclusão com CTA para o artigo sobre Nubank vale a pena
+
+LINKS INTERNOS OBRIGATÓRIOS:
+- 1 link para /blog/nubank-vale-a-pena/
+- 1 link para /blog/melhor-cartao-sem-anuidade/
+
+Antes de escrever, verifique a estrutura do projeto (content.config.ts e os artigos já publicados em src/content/blog/) para manter exatamente o mesmo padrão de frontmatter, marcadores de monetização e links relativos. Salve o arquivo direto em src/content/blog/melhor-conta-digital.md
+
+Gere o artigo completo agora.
