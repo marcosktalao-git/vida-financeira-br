@@ -11,6 +11,7 @@ affiliate_cta:
   description: "Conta PJ gratuita sem mensalidade pode ser o que faltava para o seu MEI se tornar viável. Compare antes de encerrar."
   buttonText: "Abrir conta PJ grátis"
   url: "https://exemplo.com/conta-pj-mei"
+---
 
 Encerrar um MEI é mais simples do que abrir. O processo é online, gratuito e leva poucos minutos. Mas tem um detalhe importante: você precisa regularizar as pendências antes de fechar. Se tentar encerrar com dívidas, o sistema não permite.
 
