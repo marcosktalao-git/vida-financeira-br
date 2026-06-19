@@ -11,6 +11,7 @@ affiliate_cta:
   description: "Conta PJ gratuita para MEI com controle de receitas e despesas. Ideal para quem precisa planejar o período de afastamento."
   buttonText: "Abrir conta PJ grátis"
   url: "https://exemplo.com/conta-pj-mei"
+---
 
 Muitas mulheres que abrem um MEI não sabem que têm direito ao salário-maternidade. Acham que esse benefício é só para quem tem carteira assinada. Não é verdade. A MEI contribui para o INSS todo mês via DAS e, com isso, garante direitos previdenciários — incluindo o salário-maternidade.
 
