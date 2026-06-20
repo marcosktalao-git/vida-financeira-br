@@ -84,3 +84,67 @@ export function buildBreadcrumbJsonLd(
 		})),
 	};
 }
+
+export interface FaqItem {
+	question: string;
+	answer: string;
+}
+
+/**
+ * Extrai perguntas e respostas de uma seção de FAQ dentro do corpo Markdown
+ * de um artigo. Procura por um H2 contendo "pergunta" (ex: "Perguntas
+ * frequentes sobre...") seguido de blocos H3 (pergunta) + parágrafos (resposta).
+ *
+ * Single source of truth: a mesma seção que o leitor vê no artigo é a que
+ * alimenta o schema, evitando divergência entre conteúdo visível e indexado.
+ */
+export function extractFaqFromMarkdown(rawMarkdown: string): FaqItem[] {
+	const faqSectionMatch = rawMarkdown.match(
+		/^##\s+.*pergunta.*$([\s\S]*?)(?=^##\s+|\s*$(?![\s\S]))/im,
+	);
+	if (!faqSectionMatch) return [];
+
+	const faqSection = faqSectionMatch[1];
+	const items: FaqItem[] = [];
+
+	// Cada pergunta é um H3; a resposta é o texto até o próximo H3 ou H2.
+	const questionBlocks = faqSection.split(/^###\s+/m).slice(1);
+
+	for (const block of questionBlocks) {
+		const lines = block.split('\n');
+		const question = lines[0]?.trim();
+		if (!question) continue;
+
+		const answer = lines
+			.slice(1)
+			.join('\n')
+			.replace(/^##\s+[\s\S]*$/m, '') // corta se um H2 aparecer dentro do bloco
+			.replace(/\[([^\]]+)\]\([^)]+\)/g, '$1') // remove links, mantém o texto
+			.replace(/\*\*([^*]+)\*\*/g, '$1') // remove bold markdown
+			.replace(/[#*_>`]/g, '') // remove marcadores markdown remanescentes
+			.trim();
+
+		if (question && answer) {
+			items.push({ question, answer });
+		}
+	}
+
+	return items;
+}
+
+export function buildFaqJsonLd(items: FaqItem[]) {
+	if (items.length === 0) return null;
+
+	return {
+		'@context': 'https://schema.org',
+		'@type': 'FAQPage',
+		mainEntity: items.map((item) => ({
+			'@type': 'Question',
+			name: item.question,
+			acceptedAnswer: {
+				'@type': 'Answer',
+				text: item.answer,
+			},
+		})),
+	};
+}

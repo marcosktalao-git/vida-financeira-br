@@ -5,7 +5,7 @@ import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
 import SEO from '../components/SEO.astro';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
-import type { ArticleSeoData, BreadcrumbItem, SeoType } from '../utils/seo';
+import type { ArticleSeoData, BreadcrumbItem, FaqItem, SeoType } from '../utils/seo';
 
 interface Props {
 	title: string;
@@ -16,9 +16,11 @@ interface Props {
 	keywords?: string[];
 	article?: ArticleSeoData;
 	breadcrumbs?: BreadcrumbItem[];
+	faqItems?: FaqItem[];
 }
 
-const { title, description, headline, image, type, keywords, article, breadcrumbs } = Astro.props;
+const { title, description, headline, image, type, keywords, article, breadcrumbs, faqItems } =
+	Astro.props;
 ---
 
 <!doctype html>
@@ -48,6 +50,7 @@ const { title, description, headline, image, type, keywords, article, breadcrumb
 			keywords={keywords}
 			article={article}
 			breadcrumbs={breadcrumbs}
+			faqItems={faqItems}
 		/>
 	</head>
 	<body class="min-h-screen flex flex-col">
