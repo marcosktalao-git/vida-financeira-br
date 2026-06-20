@@ -1,0 +1,95 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { SITE_TITLE } from '../consts';
+---
+
+<BaseLayout
+	title={`Guia gratuito: Como consultar e corrigir seu INSS em 5 passos | ${SITE_TITLE}`}
+	description="Baixe gratuitamente o guia prático para consultar seu CNIS, identificar erros e corrigi-los antes que atrasem ou neguem sua aposentadoria."
+>
+	<section class="mx-auto max-w-3xl px-4 py-16 sm:px-6 lg:px-8 lg:py-20">
+		<header class="mb-12 text-center">
+			<p class="text-sm font-semibold tracking-widest text-accent uppercase">Guia grátis</p>
+			<h1 class="mt-3 font-serif text-3xl font-semibold text-fg sm:text-4xl">
+				Como consultar e corrigir seu INSS em 5 passos
+			</h1>
+			<p class="mt-4 text-lg text-muted">
+				Um erro simples no seu CNIS pode atrasar ou até negar sua aposentadoria. Baixe o guia
+				gratuito e descubra, passo a passo, como conferir seu extrato, identificar erros comuns e
+				corrigi-los antes de fazer seu pedido.
+			</p>
+		</header>
+
+		<div class="rounded-xl border border-border bg-bg-card p-6 sm:p-8">
+			<p class="mb-6 text-sm font-semibold text-fg">O que você vai aprender no guia:</p>
+			<ul class="mb-8 space-y-3 text-sm text-muted">
+				<li class="flex gap-2">
+					<span class="text-accent">✓</span>
+					Como acessar e baixar seu extrato CNIS pelo Meu INSS
+				</li>
+				<li class="flex gap-2">
+					<span class="text-accent">✓</span>
+					Os 5 erros mais comuns que atrasam pedidos de aposentadoria
+				</li>
+				<li class="flex gap-2">
+					<span class="text-accent">✓</span>
+					Como solicitar a correção de vínculos e contribuições
+				</li>
+				<li class="flex gap-2">
+					<span class="text-accent">✓</span>
+					Quais documentos você precisa ter em mãos
+				</li>
+				<li class="flex gap-2">
+					<span class="text-accent">✓</span>
+					O que fazer se a empresa onde você trabalhou não existe mais
+				</li>
+			</ul>
+
+			<!--
+				LEAD CAPTURE — conectado ao Formspree.
+				Substitua SEU_ID_AQUI pelo endpoint criado especificamente para este formulário.
+				Após o envio, o Formspree redireciona para a página de obrigado.
+			-->
+			<form
+				class="space-y-5"
+				method="POST"
+				action="https://formspree.io/f/xaqgwwrw"
+			>
+				<input type="hidden" name="_subject" value="Novo lead - Guia INSS 5 passos" />
+				<input type="hidden" name="_next" value="https://vida-financeira-br.vercel.app/obrigado/" />
+
+				<div>
+					<label for="nome" class="mb-1.5 block text-sm font-medium text-fg">Nome</label>
+					<input
+						type="text"
+						id="nome"
+						name="nome"
+						required
+						class="w-full rounded-lg border border-border bg-bg-elevated px-4 py-2.5 text-fg outline-none transition-colors focus:border-accent"
+						placeholder="Seu nome"
+					/>
+				</div>
+				<div>
+					<label for="email" class="mb-1.5 block text-sm font-medium text-fg">E-mail</label>
+					<input
+						type="email"
+						id="email"
+						name="email"
+						required
+						class="w-full rounded-lg border border-border bg-bg-elevated px-4 py-2.5 text-fg outline-none transition-colors focus:border-accent"
+						placeholder="seu@email.com"
+					/>
+				</div>
+				<button
+					type="submit"
+					class="w-full rounded-lg bg-accent px-6 py-3 text-sm font-semibold text-bg transition-colors hover:bg-accent-hover"
+				>
+					Quero receber o guia grátis
+				</button>
+				<p class="text-center text-xs text-subtle">
+					Você receberá o guia por e-mail. Sem spam, cancele quando quiser.
+				</p>
+			</form>
+		</div>
+	</section>
+</BaseLayout>
