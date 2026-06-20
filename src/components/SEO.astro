@@ -43,6 +43,7 @@ const canonicalUrl = absoluteUrl(Astro.url.pathname, Astro.site);
 const imageUrl = image
 	? absoluteUrl(image.src, Astro.site)
 	: absoluteUrl(FallbackImage.src, Astro.site);
+const authorUrl = absoluteUrl('/about/', Astro.site);
 
 const metaKeywords = keywords.length > 0 ? keywords.join(', ') : undefined;
 
@@ -57,6 +58,7 @@ if (type === 'article' && article) {
 			canonicalUrl,
 			pubDate: article.pubDate,
 			updatedDate: article.updatedDate,
+			authorUrl,
 		}),
 	);
 }

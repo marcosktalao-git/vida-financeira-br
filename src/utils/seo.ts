@@ -35,6 +35,7 @@ export function buildArticleJsonLd(options: {
 	pubDate: Date;
 	updatedDate?: Date;
 	author?: string;
+	authorUrl?: string;
 }) {
 	const {
 		title,
@@ -44,6 +45,7 @@ export function buildArticleJsonLd(options: {
 		pubDate,
 		updatedDate,
 		author = SITE_AUTHOR,
+		authorUrl,
 	} = options;
 
 	return {
@@ -57,6 +59,7 @@ export function buildArticleJsonLd(options: {
 		author: {
 			'@type': 'Person',
 			name: author,
+			...(authorUrl ? { url: authorUrl } : {}),
 		},
 		publisher: {
 			'@type': 'Organization',
