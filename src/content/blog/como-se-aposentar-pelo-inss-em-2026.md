@@ -135,7 +135,7 @@ Depois de enviar, você pode acompanhar tudo pelo próprio Meu INSS. A página m
 
 Alguns casos exigem agendamento presencial, como a perícia médica para aposentadoria por incapacidade. Se for seu caso, o próprio sistema agenda o atendimento.
 
-**Dica importante:** Nunca peça a aposentadoria sem antes consultar o [extrato CNIS](/inss/como-consultar-seu-cnis/). Esse documento é a base de todo o seu pedido. Qualquer erro nele pode atrasar ou até negar seu benefício.
+**Dica importante:** Nunca peça a aposentadoria sem antes consultar o [extrato CNIS](/blog/como-consultar-seu-cnis/). Esse documento é a base de todo o seu pedido. Qualquer erro nele pode atrasar ou até negar seu benefício.
 
 <!-- ADSENSE MEIO -->
 
@@ -214,7 +214,7 @@ O **Cadastro Nacional de Informações Sociais (CNIS)** é o documento que o INS
 
 Antes de solicitar a aposentadoria, faça o download do seu CNIS no Meu INSS e confira cada item. Se encontrar algo errado, corrija antes de pedir.
 
-[Saiba como consultar e corrigir seu CNIS →](/inss/como-consultar-seu-cnis/)
+[Saiba como consultar e corrigir seu CNIS →](/blog/como-consultar-seu-cnis/)
 
 ### 2. Nunca peça sem antes simular
 
@@ -268,8 +268,8 @@ O primeiro e mais importante passo é **consultar seu CNIS** para saber exatamen
 
 Depois, simule as diferentes regras de aposentadoria no Meu INSS e escolha a mais vantajosa. Junte os documentos, faça o pedido online e acompanhe tudo pelo aplicativo.
 
-Se você ainda não conferiu seu extrato, [clique aqui e veja o guia completo de como consultar seu CNIS](/inss/como-consultar-seu-cnis/).
+Se você ainda não conferiu seu extrato, [clique aqui e veja o guia completo de como consultar seu CNIS](/blog/como-consultar-seu-cnis/).
 
-E se quer entender melhor as diferenças entre os tipos de aposentadoria, leia também nosso artigo sobre [aposentadoria por idade](/aposentadoria/aposentadoria-por-idade/) — lá você encontra todos os detalhes sobre essa modalidade.
+E se quer entender melhor as diferenças entre os tipos de aposentadoria, leia também nosso artigo sobre [aposentadoria por idade](/blog/regras-atuais-inss-2026/) — lá você encontra todos os detalhes sobre essa modalidade.
 
 Planeje-se, organize seus documentos e não deixe para a última hora. Sua aposentadoria merece atenção.

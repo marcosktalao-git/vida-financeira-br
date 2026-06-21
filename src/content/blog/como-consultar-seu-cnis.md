@@ -193,4 +193,4 @@ Pare agora, acesse o Meu INSS, baixe seu extrato e confira cada linha. Se encont
 
 Quer entender melhor o processo completo de aposentadoria? Leia nosso guia sobre [como se aposentar pelo INSS em 2026](/blog/como-se-aposentar-pelo-inss-em-2026/).
 
-E se você quer saber mais sobre uma modalidade específica, confira o artigo completo sobre [aposentadoria por idade](/aposentadoria/aposentadoria-por-idade/).
+E se você quer saber mais sobre uma modalidade específica, confira o artigo completo sobre [aposentadoria por idade](/blog/regras-atuais-inss-2026/).
