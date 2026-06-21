@@ -5,7 +5,7 @@ import sitemap from '@astrojs/sitemap';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://vida-financeira-br.vercel.app',
+  site: 'https://www.vidafinanceirabr.com.br',
   integrations: [sitemap()],
   vite: {
     plugins: [tailwindcss()]
