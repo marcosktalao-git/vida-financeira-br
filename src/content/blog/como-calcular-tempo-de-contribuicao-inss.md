@@ -1,4 +1,4 @@
----
+﻿---
 title: "Como Calcular seu Tempo de Contribuição no INSS em 2026"
 description: "Aprenda a calcular seu tempo de contribuição no INSS em 2026, entenda o que conta e o que não conta, e veja como se planejar para a aposentadoria."
 pubDate: "2026-06-25"
@@ -10,7 +10,7 @@ affiliate_cta:
   title: "Quer saber exatamente quando você pode se aposentar?"
   description: "Nossa consultoria previdenciária analisa seu histórico completo no CNIS, calcula seu tempo real de contribuição e aponta a data mais vantajosa para pedir o benefício."
   buttonText: "Calcular minha aposentadoria"
-  url: "https://exemplo.com/consultoria-previdenciaria"
+  url: "https://www.vidafinanceirabr.com.br/"
 ---
 
 Antes de pedir a aposentadoria, você precisa saber uma coisa: quanto tempo você já contribuiu para o INSS. Pode parecer óbvio, mas milhares de brasileiros pedem o benefício sem fazer essa conta e descobrem só na resposta do INSS que não cumpriram o tempo mínimo.

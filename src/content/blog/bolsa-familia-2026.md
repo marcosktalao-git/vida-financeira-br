@@ -1,4 +1,4 @@
----
+﻿---
 title: "Bolsa Família 2026: Valores Atualizados, Regras e Como Consultar"
 description: "Veja os valores atualizados do Bolsa Família em 2026, quem tem direito, como consultar o pagamento e o calendário completo do benefício."
 pubDate: "2026-06-24"
@@ -10,7 +10,7 @@ affiliate_cta:
   title: "Quer aumentar sua renda além do benefício?"
   description: "Conheça um guia prático e gratuito de como formalizar um pequeno negócio e gerar renda extra sem perder o direito ao Bolsa Família."
   buttonText: "Quero aumentar minha renda"
-  url: "https://exemplo.com/renda-extra-guia"
+  url: "https://www.vidafinanceirabr.com.br/"
 ---
 
 O Bolsa Família é o maior programa de transferência de renda do Brasil. Em 2026, ele continua sendo a principal rede de proteção para milhões de famílias — um direito garantido por lei, não um favor. Se você recebe ou acha que tem direito, entender as regras é essencial para não perder o benefício.

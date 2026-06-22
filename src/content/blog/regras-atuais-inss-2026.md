@@ -1,4 +1,4 @@
----
+﻿---
 title: "Regras Atuais do INSS em 2026: O que Mudou e o que Você Precisa Saber"
 description: "Conheça as regras atuais do INSS em 2026, o que mudou com a Reforma da Previdência, alíquotas, benefícios e tudo que afeta sua aposentadoria."
 pubDate: "2026-07-02"
@@ -10,7 +10,7 @@ affiliate_cta:
   title: "As regras do INSS são complexas. Não precisa entender tudo sozinho."
   description: "Nossa consultoria previdenciária analisa seu histórico com base nas regras atuais e te mostra exatamente o que fazer para garantir o melhor benefício possível."
   buttonText: "Quero uma análise personalizada"
-  url: "https://exemplo.com/consultoria-previdenciaria"
+  url: "https://www.vidafinanceirabr.com.br/"
 ---
 
 Desde 13 de novembro de 2019, quando a Reforma da Previdência entrou em vigor, as regras para se aposentar pelo INSS mudaram completamente. Quem já contribuía antes dessa data ganhou direito a regras de transição. Quem começou a contribuir depois entrou direto no novo sistema.

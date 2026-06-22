@@ -1,4 +1,4 @@
----
+﻿---
 title: "Salário-Maternidade MEI em 2026: Como Funciona e Como Pedir"
 description: "Entenda como funciona o salário-maternidade para MEI em 2026, quem tem direito, qual o valor, a carência exigida e o passo a passo para solicitar o benefício."
 pubDate: "2026-07-08"
@@ -10,7 +10,7 @@ affiliate_cta:
   title: "MEI: organize suas finanças antes e depois da maternidade"
   description: "Conta PJ gratuita para MEI com controle de receitas e despesas. Ideal para quem precisa planejar o período de afastamento."
   buttonText: "Abrir conta PJ grátis"
-  url: "https://exemplo.com/conta-pj-mei"
+  url: "https://www.vidafinanceirabr.com.br/"
 ---
 
 Muitas mulheres que abrem um MEI não sabem que têm direito ao salário-maternidade. Acham que esse benefício é só para quem tem carteira assinada. Não é verdade. A MEI contribui para o INSS todo mês via DAS e, com isso, garante direitos previdenciários — incluindo o salário-maternidade.

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Empréstimo Consignado Vale a Pena em 2026? Guia Completo"
 description: "Entenda como funciona o empréstimo consignado em 2026, quem pode contratar, as taxas praticadas e quando realmente vale a pena usar esse crédito."
 pubDate: "2026-06-23"
@@ -10,7 +10,7 @@ affiliate_cta:
   title: "Quer simular seu consignado sem compromisso?"
   description: "Faça uma simulação gratuita e descubra as melhores taxas disponíveis para o seu perfil, seja você aposentado, pensionista ou servidor público."
   buttonText: "Simular consignado gratuito"
-  url: "https://exemplo.com/simulador-consignado"
+  url: "https://www.vidafinanceirabr.com.br/"
 ---
 
 Você já deve ter recebido aquela ligação: "oferecemos empréstimo com taxas especiais para aposentados". Provavelmente era sobre o crédito consignado. Ele aparece na TV, no rádio, no banco e até no WhatsApp. Mas será que realmente vale a pena?

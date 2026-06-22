@@ -1,4 +1,4 @@
----
+﻿---
 title: "Quanto Custa um MEI em 2026: Todos os Custos Explicados"
 description: "Veja quanto custa abrir e manter um MEI em 2026, incluindo DAS mensal, custos opcionais e o que você pode economizar se comparado a outros regimes."
 pubDate: "2026-07-05"
@@ -10,7 +10,7 @@ affiliate_cta:
   title: "Reduza os custos do seu MEI com uma conta PJ gratuita"
   description: "Sem mensalidade, sem tarifa de manutenção. Conta PJ ideal para MEI que quer manter os custos no mínimo."
   buttonText: "Abrir conta PJ grátis"
-  url: "https://exemplo.com/conta-pj-mei"
+  url: "https://www.vidafinanceirabr.com.br/"
 ---
 
 Muita gente deixa de abrir um MEI por achar que é caro. Que vai pagar uma fortuna de impostos, que precisa de contador, que a burocracia vai comer a renda. A verdade é bem diferente.

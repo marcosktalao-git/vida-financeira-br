@@ -1,4 +1,4 @@
----
+﻿---
 title: "Simulador de Aposentadoria INSS 2026: Como Usar e o Que Observar"
 description: "Aprenda a usar o simulador de aposentadoria do Meu INSS em 2026, entenda os resultados e saiba como se planejar para pedir o benefício no momento certo."
 pubDate: "2026-06-28"
@@ -10,7 +10,7 @@ affiliate_cta:
   title: "A simulação mostrou algo que não faz sentido?"
   description: "O simulador do INSS nem sempre considera todos os períodos corretamente. Nossa consultoria previdenciária faz uma análise manual completa e encontra a data e regra mais vantajosa para você."
   buttonText: "Quero uma análise completa"
-  url: "https://exemplo.com/consultoria-previdenciaria"
+  url: "https://www.vidafinanceirabr.com.br/"
 ---
 
 Antes de pedir a aposentadoria, todo trabalhador deveria fazer uma coisa: usar o simulador do Meu INSS. É uma ferramenta gratuita que calcula quanto tempo de contribuição você já tem e mostra em que data você pode se aposentar em cada regra disponível.

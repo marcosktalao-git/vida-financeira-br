@@ -1,4 +1,4 @@
----
+﻿---
 title: "Como se Aposentar pelo INSS em 2026: Guia Completo e Atualizado"
 description: "Descubra o passo a passo para se aposentar pelo INSS em 2026. Regras atualizadas, tipos de aposentadoria, documentos necessários e como dar entrada no pedido."
 pubDate: "2026-06-16"
@@ -10,7 +10,7 @@ affiliate_cta:
   title: "Precisa de ajuda com sua aposentadoria?"
   description: "Nossa consultoria previdenciária analisa seu histórico, calcula o melhor benefício e acompanha todo o processo no INSS."
   buttonText: "Falar com especialista"
-  url: "https://exemplo.com/consultoria-previdenciaria"
+  url: "https://www.vidafinanceirabr.com.br/"
 ---
 
 Se você está perto dos 60 anos ou já passou dos 65, provavelmente já ouviu falar que as regras da aposentadoria mudaram — e continuam mudando. Em 2026, não é diferente. A Reforma da Previdência de 2019 ainda está em transição, e novas exigências surgem a cada ano.

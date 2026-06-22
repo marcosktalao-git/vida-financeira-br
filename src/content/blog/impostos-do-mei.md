@@ -1,4 +1,4 @@
----
+﻿---
 title: "Quais Impostos o MEI Paga em 2026: Guia Completo e Atualizado"
 description: "Descubra quais impostos o MEI paga em 2026, os valores atualizados do DAS, como calcular e quando pagar para evitar multas e problemas com a Receita Federal."
 pubDate: "2026-07-04"
@@ -10,7 +10,7 @@ affiliate_cta:
   title: "Organize as finanças do seu MEI sem complicação"
   description: "Conta PJ gratuita com controle financeiro integrado. Emita notas, pague DAS e organize tudo em um só lugar."
   buttonText: "Abrir conta PJ grátis"
-  url: "https://exemplo.com/conta-pj-mei"
+  url: "https://www.vidafinanceirabr.com.br/"
 ---
 
 Uma das maiores dúvidas de quem pensa em abrir um MEI é sobre os impostos. "Quanto vou pagar por mês?", "É caro?", "O que está incluído nesse valor?". A resposta é mais simples do que parece.

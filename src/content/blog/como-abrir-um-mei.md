@@ -1,4 +1,4 @@
----
+﻿---
 title: "Como Abrir um MEI em 2026: Passo a Passo Completo e Gratuito"
 description: "Aprenda como abrir seu MEI em 2026 de forma gratuita e em poucos minutos. Requisitos, documentos, custos mensais e tudo que você precisa saber antes de formalizar."
 pubDate: "2026-06-18"
@@ -10,7 +10,7 @@ affiliate_cta:
   title: "Já decidiu abrir o MEI? Separe sua conta PJ antes de começar"
   description: "Misturar dinheiro pessoal com o do negócio é um dos erros mais comuns de quem abre o MEI. Abra uma conta digital gratuita para pessoa jurídica e já comece organizado desde o primeiro real que entrar."
   buttonText: "Abrir conta PJ gratuita"
-  url: "https://exemplo.com/conta-pj-mei"
+  url: "https://www.vidafinanceirabr.com.br/"
 ---
 
 Você trabalha por conta própria, vende algo ou presta serviços e quer se formalizar sem burocracia? O MEI pode ser a solução ideal.

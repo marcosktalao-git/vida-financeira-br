@@ -1,4 +1,4 @@
----
+﻿---
 title: "Como Sair das Dívidas em 2026: Guia Prático Passo a Passo"
 description: "Aprenda um método prático para sair das dívidas em 2026, organizar suas contas, negociar com credores e nunca mais cair no vermelho."
 pubDate: "2026-06-20"
@@ -10,7 +10,7 @@ affiliate_cta:
   title: "Sua dívida está te impedindo de dormir tranquilo?"
   description: "Um curso completo de educação financeira pode te ensinar exatamente como organizar suas contas, negociar com credores e criar um plano realista para sair do vermelho em poucos meses."
   buttonText: "Quero aprender a sair das dívidas"
-  url: "https://exemplo.com/curso-educacao-financeira"
+  url: "https://cakto.app/AQVQPJY/?affiliate=qbWLFHdj"
 ---
 
 Se você está endividado neste momento, quero que saiba de uma coisa: isso não faz de você uma pessoa pior. Milhões de brasileiros estão na mesma situação, e a grande maioria consegue sair.

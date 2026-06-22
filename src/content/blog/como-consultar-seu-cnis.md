@@ -1,4 +1,4 @@
----
+﻿---
 title: "Como Consultar e Corrigir seu CNIS em 2026: Passo a Passo Completo"
 description: "Aprenda a consultar seu extrato CNIS pelo Meu INSS e descubra como corrigir erros que podem atrasar ou negar sua aposentadoria."
 pubDate: "2026-06-17"
@@ -10,7 +10,7 @@ affiliate_cta:
   title: "Um erro no CNIS pode te custar anos de aposentadoria"
   description: "Muita gente só descobre que tem vínculos faltando ou contribuições erradas na hora de pedir o benefício — e aí já é tarde. Nossa consultoria previdenciária revisa seu extrato agora e corrige o que for preciso, antes que isso te custe tempo e dinheiro."
   buttonText: "Revisar meu CNIS agora"
-  url: "https://exemplo.com/consultoria-previdenciaria"
+  url: "https://www.vidafinanceirabr.com.br/"
 ---
 
 Você já ouviu falar do CNIS? Esse documento é a peça mais importante para quem vai pedir aposentadoria pelo INSS. Se ele estiver errado, seu benefício pode ser negado ou você pode receber menos do que tem direito.

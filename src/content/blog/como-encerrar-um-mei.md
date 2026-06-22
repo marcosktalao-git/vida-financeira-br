@@ -1,4 +1,4 @@
----
+﻿---
 title: "Como Encerrar um MEI em 2026: Passo a Passo para Fechar Sem Dívidas"
 description: "Aprenda como encerrar um MEI em 2026 da forma correta, evite multas, regularize as pendências e feche o CNPJ sem deixar rastros de dívida na Receita Federal."
 pubDate: "2026-07-10"
@@ -10,7 +10,7 @@ affiliate_cta:
   title: "Antes de fechar o MEI, veja se não vale continuar"
   description: "Conta PJ gratuita sem mensalidade pode ser o que faltava para o seu MEI se tornar viável. Compare antes de encerrar."
   buttonText: "Abrir conta PJ grátis"
-  url: "https://exemplo.com/conta-pj-mei"
+  url: "https://www.vidafinanceirabr.com.br/"
 ---
 
 Encerrar um MEI é mais simples do que abrir. O processo é online, gratuito e leva poucos minutos. Mas tem um detalhe importante: você precisa regularizar as pendências antes de fechar. Se tentar encerrar com dívidas, o sistema não permite.

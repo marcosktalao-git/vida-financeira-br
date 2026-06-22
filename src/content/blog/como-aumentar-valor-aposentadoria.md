@@ -1,4 +1,4 @@
----
+﻿---
 title: "Como Aumentar o Valor da Aposentadoria pelo INSS em 2026"
 description: "Descubra estratégias legais para aumentar o valor da sua aposentadoria pelo INSS em 2026, desde contribuir mais até escolher a regra certa na hora certa."
 pubDate: "2026-06-29"
@@ -10,7 +10,7 @@ affiliate_cta:
   title: "Descubra quanto você poderia receber a mais na aposentadoria"
   description: "Uma análise previdenciária completa pode mostrar estratégias que aumentam seu benefício em centenas de reais por mês. Nossa consultoria faz essa conta por você."
   buttonText: "Quero aumentar minha aposentadoria"
-  url: "https://exemplo.com/consultoria-previdenciaria"
+  url: "https://www.vidafinanceirabr.com.br/"
 ---
 
 Você sabia que milhares de brasileiros se aposentam todo mês recebendo menos do que poderiam? Não por erro do INSS, mas porque pedem o benefício antes do momento ideal ou escolhem a regra errada.

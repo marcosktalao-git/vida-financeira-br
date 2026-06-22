@@ -1,4 +1,4 @@
----
+﻿---
 title: "Contribuinte Facultativo INSS Vale a Pena em 2026?"
 description: "Entenda o que é contribuinte facultativo do INSS, quem pode ser, quanto custa e se realmente vale a pena contribuir para garantir sua aposentadoria."
 pubDate: "2026-06-27"
@@ -10,7 +10,7 @@ affiliate_cta:
   title: "Quer garantir sua aposentadoria mesmo sem emprego formal?"
   description: "Nossa consultoria previdenciária avalia seu histórico e te mostra a estratégia ideal de contribuição para chegar à aposentadoria no menor tempo e com o maior benefício possível."
   buttonText: "Quero planejar minha aposentadoria"
-  url: "https://exemplo.com/consultoria-previdenciaria"
+  url: "https://www.vidafinanceirabr.com.br/"
 ---
 
 Você está desempregado ou trabalha por conta própria sem renda fixa e está preocupado em ficar sem proteger sua aposentadoria? Existe uma alternativa que muita gente desconhece: o contribuinte facultativo do INSS.

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Melhor Cartão sem Anuidade em 2026: Comparativo Completo"
 description: "Veja os melhores cartões de crédito sem anuidade em 2026, como escolher o ideal para seu perfil e como aumentar suas chances de aprovação."
 pubDate: "2026-06-19"
@@ -10,7 +10,7 @@ affiliate_cta:
   title: "Cansado de pagar anuidade todo mês sem precisar?"
   description: "Existem cartões completos, com cashback e sem nenhuma taxa anual. Peça o seu em poucos minutos, direto pelo celular, sem burocracia e sem consulta complicada ao SPC."
   buttonText: "Pedir cartão sem anuidade"
-  url: "https://exemplo.com/cartao-sem-anuidade"
+  url: "https://www.vidafinanceirabr.com.br/"
 ---
 
 Você sabia que pode ter um cartão de crédito completo sem pagar um centavo de anuidade? Pois é. Muita gente ainda acha que cartão bom precisa ter taxa, mas isso mudou.
