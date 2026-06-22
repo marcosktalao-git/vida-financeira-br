@@ -5,7 +5,7 @@ pubDate: "2026-06-22"
 updatedDate: "2026-06-22"
 tags: ["Finanças da Família", "Orçamento Familiar"]
 keywords: ["como fazer orçamento familiar", "orçamento familiar passo a passo", "planilha de orçamento familiar", "como organizar as contas da casa"]
-heroImage: "../../assets/blog-placeholder-2.jpg"
+heroImage: "../../assets/como-fazer-orcamento-familiar.jpg"
 affiliate_cta:
   title: "Quer entender finanças de um jeito simples e visual?"
   description: "O Manual do Dinheiro, da Dinheiro Falante, é um guia ilustrado que explica orçamento, investimentos e organização financeira sem complicação. Ideal pra quem está começando."

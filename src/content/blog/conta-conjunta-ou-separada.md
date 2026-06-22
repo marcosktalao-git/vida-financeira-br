@@ -5,7 +5,7 @@ pubDate: "2026-06-25"
 updatedDate: "2026-06-25"
 tags: ["Finanças da Família", "Conta Conjunta"]
 keywords: ["conta conjunta ou separada", "conta conjunta vale a pena", "como dividir contas no casamento", "conta bancária para casais"]
-heroImage: "../../assets/blog-placeholder-2.jpg"
+heroImage: "../../assets/conta-conjunta-ou-separada.jpg"
 affiliate_cta:
   title: "Quer aprender mais sobre organização financeira do casal?"
   description: "O Manual do Dinheiro, da Dinheiro Falante, é um guia ilustrado e didático sobre finanças e investimentos, ótimo pra quem está estruturando a vida financeira a dois."

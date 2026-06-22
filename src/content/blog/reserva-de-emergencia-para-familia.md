@@ -5,7 +5,7 @@ pubDate: "2026-06-24"
 updatedDate: "2026-06-24"
 tags: ["Finanças da Família", "Reserva de Emergência"]
 keywords: ["reserva de emergência", "quanto guardar de reserva de emergência", "onde investir reserva de emergência", "reserva de emergência para família"]
-heroImage: "../../assets/blog-placeholder-2.jpg"
+heroImage: "../../assets/reserva-de-emergencia-para-familia.jpg"
 affiliate_cta:
   title: "Quer entender onde investir sua reserva de emergência?"
   description: "O Manual do Dinheiro, da Dinheiro Falante, traz de forma ilustrada os fundamentos de investimentos e organização financeira, sem complicação técnica."

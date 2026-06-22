@@ -5,7 +5,7 @@ pubDate: "2026-06-23"
 updatedDate: "2026-06-23"
 tags: ["Finanças da Família", "Finanças do Casal"]
 keywords: ["finanças do casal", "como organizar dinheiro com o parceiro", "conta conjunta ou separada", "dividir contas no casamento"]
-heroImage: "../../assets/blog-placeholder-2.jpg"
+heroImage: "../../assets/como-organizar-financas-do-casal.jpg"
 affiliate_cta:
   title: "Quer entender finanças junto com seu parceiro, de um jeito simples?"
   description: "O Manual do Dinheiro, da Dinheiro Falante, explica de forma ilustrada e didática como organizar dinheiro, investir e planejar o futuro. Ótimo pra estudar a dois."

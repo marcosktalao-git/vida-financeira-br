@@ -5,7 +5,7 @@ pubDate: "2026-06-26"
 updatedDate: "2026-06-26"
 tags: ["Finanças da Família", "Educação Financeira Infantil"]
 keywords: ["educação financeira para filhos", "como ensinar dinheiro para crianças", "mesada educação financeira", "educação financeira infantil"]
-heroImage: "../../assets/blog-placeholder-2.jpg"
+heroImage: "../../assets/como-ensinar-educacao-financeira-para-filhos.jpg"
 affiliate_cta:
   title: "Quer aprender junto com seus filhos sobre dinheiro?"
   description: "O Manual do Dinheiro, da Dinheiro Falante, usa ilustrações pra explicar finanças de um jeito simples, ótimo pra estudar em família e ensinar pelo exemplo."
