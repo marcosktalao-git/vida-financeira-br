@@ -7,10 +7,10 @@ tags: ["Finanças da Família", "Finanças do Casal"]
 keywords: ["finanças do casal", "como organizar dinheiro com o parceiro", "conta conjunta ou separada", "dividir contas no casamento"]
 heroImage: "../../assets/blog-placeholder-2.jpg"
 affiliate_cta:
-  title: "Quer organizar as finanças do casal de um jeito simples?"
-  description: "Curso prático de educação financeira pensado pra casais que querem parar de brigar por dinheiro e construir um planejamento juntos."
-  buttonText: "Conhecer o curso"
-  url: "https://www.vidafinanceirabr.com.br/"
+  title: "Quer entender finanças junto com seu parceiro, de um jeito simples?"
+  description: "O Manual do Dinheiro, da Dinheiro Falante, explica de forma ilustrada e didática como organizar dinheiro, investir e planejar o futuro. Ótimo pra estudar a dois."
+  buttonText: "Conhecer o Manual do Dinheiro"
+  url: "https://cakto.app/AQVQPJY/?affiliate=qbWLFHdj"
 ---
 
 Seu salário caiu na conta. Você pagou as contas, guardou um pouco, e sobrou uma grana para você. Aí seu parceiro chega e diz: "Você gastou tudo isso?" ou "Por que não me consultou antes?" — e pronto. A noite que poderia ser tranquila vira discussão.

@@ -7,10 +7,10 @@ tags: ["Finanças da Família", "Educação Financeira Infantil"]
 keywords: ["educação financeira para filhos", "como ensinar dinheiro para crianças", "mesada educação financeira", "educação financeira infantil"]
 heroImage: "../../assets/blog-placeholder-2.jpg"
 affiliate_cta:
-  title: "Quer um guia prático de educação financeira pra ensinar seus filhos?"
-  description: "Material com atividades e dicas por idade pra ensinar seus filhos a lidar com dinheiro desde pequenos."
-  buttonText: "Conhecer o material"
-  url: "https://www.vidafinanceirabr.com.br/"
+  title: "Quer aprender junto com seus filhos sobre dinheiro?"
+  description: "O Manual do Dinheiro, da Dinheiro Falante, usa ilustrações pra explicar finanças de um jeito simples, ótimo pra estudar em família e ensinar pelo exemplo."
+  buttonText: "Conhecer o Manual do Dinheiro"
+  url: "https://cakto.app/AQVQPJY/?affiliate=qbWLFHdj"
 ---
 
 Você não quer que seus filhos repitam os mesmos erros financeiros que você cometeu. Não quer que eles cresçam achando que dinheiro é tabu, que cartão de crédito é dinheiro infinito, ou que "quando crescer, tudo se resolve".

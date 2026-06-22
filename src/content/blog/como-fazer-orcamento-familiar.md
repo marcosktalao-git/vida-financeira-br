@@ -7,10 +7,10 @@ tags: ["Finanças da Família", "Orçamento Familiar"]
 keywords: ["como fazer orçamento familiar", "orçamento familiar passo a passo", "planilha de orçamento familiar", "como organizar as contas da casa"]
 heroImage: "../../assets/blog-placeholder-2.jpg"
 affiliate_cta:
-  title: "Quer uma planilha de orçamento familiar pronta pra usar?"
-  description: "Planilha simples e completa pra organizar receitas, gastos fixos e variáveis da sua família, sem precisar saber fórmulas complicadas."
-  buttonText: "Quero minha planilha gratuita"
-  url: "https://www.vidafinanceirabr.com.br/"
+  title: "Quer entender finanças de um jeito simples e visual?"
+  description: "O Manual do Dinheiro, da Dinheiro Falante, é um guia ilustrado que explica orçamento, investimentos e organização financeira sem complicação. Ideal pra quem está começando."
+  buttonText: "Conhecer o Manual do Dinheiro"
+  url: "https://cakto.app/AQVQPJY/?affiliate=qbWLFHdj"
 ---
 
 Você trabalhou o mês inteiro, o salário caiu na conta e, quando foi ver, já tinha acabado. O dinheiro entrou, mas você não sabe para onde foi. As contas foram pagas, mas sobrou nada ou quase nada. Se isso parece familiar, você não está sozinho.

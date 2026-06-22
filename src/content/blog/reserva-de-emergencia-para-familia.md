@@ -7,10 +7,10 @@ tags: ["Finanças da Família", "Reserva de Emergência"]
 keywords: ["reserva de emergência", "quanto guardar de reserva de emergência", "onde investir reserva de emergência", "reserva de emergência para família"]
 heroImage: "../../assets/blog-placeholder-2.jpg"
 affiliate_cta:
-  title: "Quer aprender a montar sua reserva de emergência do zero?"
-  description: "Curso de educação financeira com passo a passo prático pra calcular, guardar e investir sua reserva sem complicação."
-  buttonText: "Conhecer o curso"
-  url: "https://www.vidafinanceirabr.com.br/"
+  title: "Quer entender onde investir sua reserva de emergência?"
+  description: "O Manual do Dinheiro, da Dinheiro Falante, traz de forma ilustrada os fundamentos de investimentos e organização financeira, sem complicação técnica."
+  buttonText: "Conhecer o Manual do Dinheiro"
+  url: "https://cakto.app/AQVQPJY/?affiliate=qbWLFHdj"
 ---
 
 O carro quebrou. A geladeira pifou. Você ficou desempregado. Alguém na família precisou de uma cirurgia. Qualquer um desses imprevistos desestabiliza as contas de quem não tem uma reserva de emergência.

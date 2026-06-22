@@ -7,10 +7,10 @@ tags: ["Finanças da Família", "Conta Conjunta"]
 keywords: ["conta conjunta ou separada", "conta conjunta vale a pena", "como dividir contas no casamento", "conta bancária para casais"]
 heroImage: "../../assets/blog-placeholder-2.jpg"
 affiliate_cta:
-  title: "Quer um guia pra decidir junto com seu parceiro?"
-  description: "Curso de planejamento financeiro pra casais, com modelos prontos de divisão de contas e organização financeira a dois."
-  buttonText: "Conhecer o curso"
-  url: "https://www.vidafinanceirabr.com.br/"
+  title: "Quer aprender mais sobre organização financeira do casal?"
+  description: "O Manual do Dinheiro, da Dinheiro Falante, é um guia ilustrado e didático sobre finanças e investimentos, ótimo pra quem está estruturando a vida financeira a dois."
+  buttonText: "Conhecer o Manual do Dinheiro"
+  url: "https://cakto.app/AQVQPJY/?affiliate=qbWLFHdj"
 ---
 
 Você vai morar junto, vai casar, ou já mora junto e nunca parou para pensar nisso: conta conjunta ou separada? Cada um na sua, ou tudo no mesmo pote?
