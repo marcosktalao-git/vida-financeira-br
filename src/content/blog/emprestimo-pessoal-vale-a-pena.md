@@ -1,11 +1,11 @@
----
+﻿---
 title: "Empréstimo Pessoal Vale a Pena? Quando Faz Sentido Pegar"
 description: "Descubra quando o empréstimo pessoal vale a pena, quais os riscos, taxas médias praticadas e em que situações é melhor buscar outra alternativa."
 pubDate: "2026-06-27"
 updatedDate: "2026-06-27"
 tags: ["Empréstimos", "Empréstimo Pessoal"]
 keywords: ["emprestimo pessoal vale a pena", "emprestimo pessoal taxas", "quando pegar emprestimo", "emprestimo pessoal 2026"]
-heroImage: "../../assets/blog-placeholder-1.jpg"
+heroImage: "../../assets/emprestimo-pessoal-vale-a-pena.jpg"
 affiliate_cta:
   title: "Quer comparar opções antes de decidir?"
   description: "Entenda suas opções de crédito com mais clareza antes de assinar qualquer contrato."

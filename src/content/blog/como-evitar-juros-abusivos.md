@@ -1,11 +1,11 @@
----
+﻿---
 title: "Como Evitar Juros Abusivos em Empréstimos e Cartões"
 description: "Aprenda a identificar e evitar juros abusivos em empréstimos, cartão de crédito e cheque especial, e saiba o que fazer se já caiu nessa armadilha."
 pubDate: "2026-06-28"
 updatedDate: "2026-06-28"
 tags: ["Empréstimos", "Juros Abusivos"]
 keywords: ["juros abusivos", "como identificar juros abusivos", "juros altos emprestimo", "taxa de juros legal"]
-heroImage: "../../assets/blog-placeholder-1.jpg"
+heroImage: "../../assets/como-evitar-juros-abusivos.jpg"
 affiliate_cta:
   title: "Quer comparar opções antes de decidir?"
   description: "Entenda suas opções de crédito com mais clareza antes de assinar qualquer contrato."
