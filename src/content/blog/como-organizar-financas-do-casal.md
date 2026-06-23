@@ -3,7 +3,7 @@ title: "Como Organizar as Finanças do Casal Sem Brigar por Dinheiro"
 description: "Dinheiro é o maior motivo de briga entre casais. Veja como dividir contas, conversar sobre finanças e organizar a vida financeira a dois."
 pubDate: "2026-06-23"
 updatedDate: "2026-06-23"
-tags: ["Finanças da Família", "Finanças do Casal"]
+tags: ["Finanças Familiares", "Finanças do Casal"]
 keywords: ["finanças do casal", "como organizar dinheiro com o parceiro", "conta conjunta ou separada", "dividir contas no casamento"]
 heroImage: "../../assets/como-organizar-financas-do-casal.jpg"
 affiliate_cta:

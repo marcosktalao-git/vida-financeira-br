@@ -3,7 +3,7 @@ title: "Reserva de Emergência para Família: Quanto Guardar e Onde Deixar"
 description: "Descubra quanto sua família precisa guardar de reserva de emergência e onde deixar esse dinheiro para não perder rendimento."
 pubDate: "2026-06-24"
 updatedDate: "2026-06-24"
-tags: ["Finanças da Família", "Reserva de Emergência"]
+tags: ["Finanças Familiares", "Reserva de Emergência"]
 keywords: ["reserva de emergência", "quanto guardar de reserva de emergência", "onde investir reserva de emergência", "reserva de emergência para família"]
 heroImage: "../../assets/reserva-de-emergencia-para-familia.jpg"
 affiliate_cta:

@@ -3,7 +3,7 @@ title: "Como Ensinar Educação Financeira para os Filhos (Por Idade)"
 description: "Veja como ensinar seus filhos a lidar com dinheiro desde pequenos, com dicas práticas separadas por faixa de idade."
 pubDate: "2026-06-26"
 updatedDate: "2026-06-26"
-tags: ["Finanças da Família", "Educação Financeira Infantil"]
+tags: ["Finanças Familiares", "Educação Financeira Infantil"]
 keywords: ["educação financeira para filhos", "como ensinar dinheiro para crianças", "mesada educação financeira", "educação financeira infantil"]
 heroImage: "../../assets/como-ensinar-educacao-financeira-para-filhos.jpg"
 affiliate_cta:

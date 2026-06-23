@@ -3,7 +3,7 @@ title: "Como Fazer um Orçamento Familiar do Zero (Passo a Passo)"
 description: "Aprenda a montar um orçamento familiar simples e funcional, mesmo sem experiência com planilhas. Guia prático para organizar as contas da casa."
 pubDate: "2026-06-22"
 updatedDate: "2026-06-22"
-tags: ["Finanças da Família", "Orçamento Familiar"]
+tags: ["Finanças Familiares", "Orçamento Familiar"]
 keywords: ["como fazer orçamento familiar", "orçamento familiar passo a passo", "planilha de orçamento familiar", "como organizar as contas da casa"]
 heroImage: "../../assets/como-fazer-orcamento-familiar.jpg"
 affiliate_cta:

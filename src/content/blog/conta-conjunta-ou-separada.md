@@ -3,7 +3,7 @@ title: "Conta Conjunta ou Separada: Qual a Melhor Opção para o Casal?"
 description: "Conta conjunta, conta separada ou os dois? Veja as vantagens e desvantagens de cada modelo e descubra qual funciona melhor pra sua relação."
 pubDate: "2026-06-25"
 updatedDate: "2026-06-25"
-tags: ["Finanças da Família", "Conta Conjunta"]
+tags: ["Finanças Familiares", "Conta Conjunta"]
 keywords: ["conta conjunta ou separada", "conta conjunta vale a pena", "como dividir contas no casamento", "conta bancária para casais"]
 heroImage: "../../assets/conta-conjunta-ou-separada.jpg"
 affiliate_cta:
