@@ -3,7 +3,7 @@ title: "Bolsa Família 2026: Valores Atualizados, Regras e Como Consultar"
 description: "Veja os valores atualizados do Bolsa Família em 2026, quem tem direito, como consultar o pagamento e o calendário completo do benefício."
 pubDate: "2026-06-24"
 updatedDate: "2026-06-24"
-tags: ["Benefícios Sociais", "Bolsa Família", "Finanças da Família"]
+tags: ["Benefícios Sociais", "Bolsa Família", "Finanças Familiares"]
 keywords: ["bolsa familia 2026", "valor bolsa familia", "calendario bolsa familia", "quem tem direito bolsa familia", "consultar bolsa familia"]
 heroImage: "../../assets/blog-placeholder-4.jpg"
 affiliate_cta:
