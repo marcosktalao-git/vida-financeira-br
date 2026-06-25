@@ -1,11 +1,11 @@
----
+﻿---
 title: "Cartão de Crédito ou Débito: Qual Usar em Cada Situação"
 description: "Entenda as diferenças entre cartão de crédito e débito, quando usar cada um e como evitar armadilhas financeiras com o cartão errado."
 pubDate: "2026-07-10"
 updatedDate: "2026-07-10"
 tags: ["Cartões", "Crédito vs Débito", "Finanças Pessoais"]
 keywords: ["cartao de credito ou debito", "diferenca cartao credito debito", "quando usar cartao credito", "qual cartao usar", "credito vs debito"]
-heroImage: "../../assets/blog-placeholder-1.jpg"
+heroImage: "../../assets/cartao-credito-ou-debito.jpg"
 affiliate_cta:
   title: "Quer comparar opções de cartão antes de decidir?"
   description: "Entenda suas opções com mais clareza antes de escolher o cartão certo pro seu perfil."

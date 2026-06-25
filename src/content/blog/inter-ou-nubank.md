@@ -1,11 +1,11 @@
----
+﻿---
 title: "Inter ou Nubank: Qual Conta Digital Escolher em 2026?"
 description: "Compare Inter e Nubank lado a lado: taxas, rendimento, cartão, limite e atendimento, para escolher a conta digital certa pro seu perfil."
 pubDate: "2026-07-13"
 updatedDate: "2026-07-13"
 tags: ["Bancos Digitais", "Comparativo", "Contas Digitais"]
 keywords: ["inter ou nubank", "nubank ou inter qual melhor", "comparativo inter nubank", "melhor conta digital 2026"]
-heroImage: "../../assets/blog-placeholder-1.jpg"
+heroImage: "../../assets/inter-ou-nubank.jpg"
 affiliate_cta:
   title: "Quer comparar contas digitais antes de decidir?"
   description: "Entenda suas opções com mais clareza antes de escolher onde abrir sua conta."

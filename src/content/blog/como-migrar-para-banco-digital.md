@@ -1,11 +1,11 @@
----
+﻿---
 title: "Como Migrar do Banco Tradicional para o Banco Digital"
 description: "Veja o passo a passo seguro para migrar do banco tradicional para uma conta digital, sem perder histórico nem deixar contas penduradas."
 pubDate: "2026-07-16"
 updatedDate: "2026-07-16"
 tags: ["Bancos Digitais", "Migração Bancária", "Contas Digitais"]
 keywords: ["como migrar para banco digital", "trocar banco tradicional por digital", "mudar de banco", "fechar conta banco tradicional"]
-heroImage: "../../assets/blog-placeholder-1.jpg"
+heroImage: "../../assets/como-migrar-para-banco-digital.jpg"
 affiliate_cta:
   title: "Quer comparar contas digitais antes de decidir?"
   description: "Entenda suas opções com mais clareza antes de escolher onde abrir sua conta."

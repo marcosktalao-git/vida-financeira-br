@@ -1,11 +1,11 @@
----
+﻿---
 title: "Benefícios Sociais Disponíveis em 2026: Guia Completo"
 description: "Veja todos os benefícios sociais disponíveis em 2026 no Brasil, quem pode receber cada um e como solicitar."
 pubDate: "2026-07-05"
 updatedDate: "2026-07-05"
 tags: ["Benefícios Sociais", "Guia Geral"]
 keywords: ["beneficios sociais 2026", "beneficios sociais disponiveis", "quais beneficios posso receber", "guia beneficios sociais brasil"]
-heroImage: "../../assets/blog-placeholder-1.jpg"
+heroImage: "../../assets/beneficios-sociais-disponiveis-2026.jpg"
 affiliate_cta:
   title: "Quer entender melhor seus direitos previdenciários?"
   description: "Orientação especializada pode te ajudar a entender exatamente o que você tem direito a receber."

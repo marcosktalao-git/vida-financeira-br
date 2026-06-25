@@ -1,11 +1,11 @@
----
+﻿---
 title: "Como Cancelar Cartão de Crédito sem Prejudicar seu Score"
 description: "Veja o passo a passo para cancelar um cartão de crédito com segurança, sem prejudicar seu score de crédito nem deixar pendências."
 pubDate: "2026-07-11"
 updatedDate: "2026-07-11"
 tags: ["Cartões", "Cancelamento", "Finanças Pessoais"]
 keywords: ["como cancelar cartao de credito", "cancelar cartao prejudica score", "cancelar cartao sem anuidade", "encerrar cartao credito", "cancelar cartao de credito passo a passo"]
-heroImage: "../../assets/blog-placeholder-1.jpg"
+heroImage: "../../assets/como-cancelar-cartao-de-credito.jpg"
 affiliate_cta:
   title: "Quer comparar opções de cartão antes de decidir?"
   description: "Entenda suas opções com mais clareza antes de escolher o cartão certo pro seu perfil."

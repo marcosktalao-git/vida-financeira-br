@@ -5,7 +5,7 @@ pubDate: "2026-07-02"
 updatedDate: "2026-07-02"
 tags: ["Benefícios Sociais", "BPC LOAS"]
 keywords: ["bpc loas", "bpc loas quem tem direito", "como solicitar bpc loas", "valor bpc loas 2026"]
-heroImage: "../../assets/blog-placeholder-1.jpg"
+heroImage: "../../assets/bpc-loas-explicado.jpg"
 affiliate_cta:
   title: "Quer entender melhor seus direitos previdenciários?"
   description: "Orientação especializada pode te ajudar a entender exatamente o que você tem direito a receber."

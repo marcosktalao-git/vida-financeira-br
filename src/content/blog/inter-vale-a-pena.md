@@ -1,11 +1,11 @@
----
+﻿---
 title: "Banco Inter Vale a Pena em 2026? Análise Completa"
 description: "Descubra se o Banco Inter vale a pena em 2026: vantagens, desvantagens, taxas, cartão e para quem essa conta digital realmente faz sentido."
 pubDate: "2026-07-12"
 updatedDate: "2026-07-12"
 tags: ["Bancos Digitais", "Inter", "Contas Digitais"]
 keywords: ["inter vale a pena", "banco inter 2026", "conta inter", "cartao inter", "inter e bom"]
-heroImage: "../../assets/blog-placeholder-1.jpg"
+heroImage: "../../assets/inter-vale-a-pena.jpg"
 affiliate_cta:
   title: "Quer comparar contas digitais antes de decidir?"
   description: "Entenda suas opções com mais clareza antes de escolher onde abrir sua conta."

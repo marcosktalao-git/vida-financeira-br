@@ -1,11 +1,11 @@
----
+﻿---
 title: "Cartão com Cashback Vale a Pena? Veja Antes de Escolher"
 description: "Descubra se o cartão de crédito com cashback realmente vale a pena, como funciona o retorno em dinheiro e quando essa opção compensa mais que o cartão tradicional."
 pubDate: "2026-07-07"
 updatedDate: "2026-07-07"
 tags: ["Cartões", "Cashback", "Finanças Pessoais"]
 keywords: ["cartao com cashback", "cartao cashback vale a pena", "melhor cartao cashback", "como funciona cashback cartao", "cashback cartao de credito"]
-heroImage: "../../assets/blog-placeholder-1.jpg"
+heroImage: "../../assets/cartao-com-cashback-vale-a-pena.jpg"
 affiliate_cta:
   title: "Quer comparar opções de cartão antes de decidir?"
   description: "Entenda suas opções com mais clareza antes de escolher o cartão certo pro seu perfil."

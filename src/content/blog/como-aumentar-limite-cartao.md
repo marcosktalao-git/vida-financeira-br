@@ -1,11 +1,11 @@
----
+﻿---
 title: "Como Aumentar o Limite do Cartão de Crédito (Guia Prático)"
 description: "Veja as estratégias reais para aumentar o limite do seu cartão de crédito, o que os bancos avaliam e os erros que podem travar seu pedido."
 pubDate: "2026-07-09"
 updatedDate: "2026-07-09"
 tags: ["Cartões", "Limite de Crédito", "Finanças Pessoais"]
 keywords: ["como aumentar limite do cartao", "aumentar limite cartao credito", "limite cartao baixo", "aumentar limite nubank", "aumentar limite credito"]
-heroImage: "../../assets/blog-placeholder-1.jpg"
+heroImage: "../../assets/como-aumentar-limite-cartao.jpg"
 affiliate_cta:
   title: "Quer comparar opções de cartão antes de decidir?"
   description: "Entenda suas opções com mais clareza antes de escolher o cartão certo pro seu perfil."

@@ -1,11 +1,11 @@
----
+﻿---
 title: "Cartão de Crédito para Negativado: Como Conseguir em 2026"
 description: "Veja as opções reais de cartão de crédito para quem está negativado, os cuidados necessários e como reconstruir seu score usando o cartão certo."
 pubDate: "2026-07-08"
 updatedDate: "2026-07-08"
 tags: ["Cartões", "Negativado", "Finanças Pessoais"]
 keywords: ["cartao para negativado", "cartao de credito nome sujo", "como conseguir cartao negativado", "cartao pre-pago negativado", "cartao garantia negativado"]
-heroImage: "../../assets/blog-placeholder-1.jpg"
+heroImage: "../../assets/cartao-para-negativado.jpg"
 affiliate_cta:
   title: "Quer comparar opções de cartão antes de decidir?"
   description: "Entenda suas opções com mais clareza antes de escolher o cartão certo pro seu perfil."

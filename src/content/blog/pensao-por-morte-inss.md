@@ -1,11 +1,11 @@
----
+﻿---
 title: "Pensão por Morte INSS: Quem Tem Direito e Como Solicitar"
 description: "Entenda as regras da pensão por morte do INSS em 2026, quem são os dependentes com direito, o valor do benefício e o passo a passo para solicitar."
 pubDate: "2026-07-04"
 updatedDate: "2026-07-04"
 tags: ["Benefícios Sociais", "Pensão por Morte"]
 keywords: ["pensao por morte inss", "pensao por morte quem tem direito", "como solicitar pensao por morte", "valor pensao por morte 2026"]
-heroImage: "../../assets/blog-placeholder-1.jpg"
+heroImage: "../../assets/pensao-por-morte-inss.jpg"
 affiliate_cta:
   title: "Quer entender melhor seus direitos previdenciários?"
   description: "Orientação especializada pode te ajudar a entender exatamente o que você tem direito a receber."

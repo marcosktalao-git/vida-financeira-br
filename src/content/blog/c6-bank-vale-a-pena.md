@@ -1,11 +1,11 @@
----
+﻿---
 title: "C6 Bank Vale a Pena em 2026? Vantagens e Desvantagens"
 description: "Veja se o C6 Bank vale a pena em 2026: conta, cartão, investimentos e para quem essa conta digital faz mais sentido."
 pubDate: "2026-07-14"
 updatedDate: "2026-07-14"
 tags: ["Bancos Digitais", "C6 Bank", "Contas Digitais"]
 keywords: ["c6 bank vale a pena", "c6 bank 2026", "conta c6 bank", "cartao c6 bank", "c6 bank e bom"]
-heroImage: "../../assets/blog-placeholder-1.jpg"
+heroImage: "../../assets/c6-bank-vale-a-pena.jpg"
 affiliate_cta:
   title: "Quer comparar contas digitais antes de decidir?"
   description: "Entenda suas opções com mais clareza antes de escolher onde abrir sua conta."

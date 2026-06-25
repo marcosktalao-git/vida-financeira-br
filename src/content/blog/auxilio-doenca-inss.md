@@ -1,11 +1,11 @@
----
+﻿---
 title: "Auxílio-Doença INSS: Como Solicitar e Quem Tem Direito"
 description: "Saiba como funciona o auxílio-doença do INSS, quem pode solicitar, a documentação necessária e os erros mais comuns que levam ao indeferimento."
 pubDate: "2026-07-03"
 updatedDate: "2026-07-03"
 tags: ["Benefícios Sociais", "Auxílio-Doença"]
 keywords: ["auxilio doenca inss", "como solicitar auxilio doenca", "auxilio doenca quem tem direito", "pericia inss auxilio doenca"]
-heroImage: "../../assets/blog-placeholder-1.jpg"
+heroImage: "../../assets/auxilio-doenca-inss.jpg"
 affiliate_cta:
   title: "Quer entender melhor seus direitos previdenciários?"
   description: "Orientação especializada pode te ajudar a entender exatamente o que você tem direito a receber."
