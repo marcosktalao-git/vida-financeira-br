@@ -5,7 +5,7 @@ pubDate: "2026-07-09"
 updatedDate: "2026-07-09"
 tags: ["MEI", "Nota Fiscal", "Empreendedorismo"]
 keywords: ["como emitir nota fiscal mei", "nota fiscal mei", "nfse mei", "mei emite nota fiscal", "nota fiscal microempreendedor"]
-heroImage: "../../assets/blog-placeholder-4.jpg"
+heroImage: "../../assets/como-emitir-nota-fiscal-mei.jpg"
 affiliate_cta:
   title: "Gerencie suas notas fiscais e finanças do MEI em um só lugar"
   description: "Conta PJ gratuita com emissão de notas, controle financeiro e Pix sem custo. Ideal para MEI que quer profissionalizar o negócio."

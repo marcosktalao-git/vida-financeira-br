@@ -5,7 +5,7 @@ pubDate: "2026-06-21"
 updatedDate: "2026-06-21"
 tags: ["Bancos Digitais", "Nubank", "Contas Digitais"]
 keywords: ["nubank vale a pena", "nubank 2026", "conta nubank", "cartao nubank", "nubank e bom"]
-heroImage: "../../assets/blog-placeholder-1.jpg"
+heroImage: "../../assets/nubank-vale-a-pena.jpg"
 affiliate_cta:
   title: "Quer abrir sua conta gratuita em poucos minutos?"
   description: "Conta digital sem taxa de manutenção, cartão sem anuidade e cashback em compras selecionadas. Abra a sua direto pelo celular, sem burocracia e sem sair de casa."

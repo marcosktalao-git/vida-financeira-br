@@ -5,7 +5,7 @@ pubDate: "2026-06-25"
 updatedDate: "2026-06-25"
 tags: ["INSS", "Aposentadoria", "Previdência Social"]
 keywords: ["tempo de contribuição inss", "calcular tempo contribuição", "como calcular aposentadoria", "tempo contribuição 2026", "contagem tempo inss"]
-heroImage: "../../assets/blog-placeholder-5.jpg"
+heroImage: "../../assets/como-calcular-tempo-de-contribuicao-inss.jpg"
 affiliate_cta:
   title: "Quer saber exatamente quando você pode se aposentar?"
   description: "Nossa consultoria previdenciária analisa seu histórico completo no CNIS, calcula seu tempo real de contribuição e aponta a data mais vantajosa para pedir o benefício."

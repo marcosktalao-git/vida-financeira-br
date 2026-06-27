@@ -5,7 +5,7 @@ pubDate: "2026-06-24"
 updatedDate: "2026-06-24"
 tags: ["Benefícios Sociais", "Bolsa Família", "Finanças Familiares"]
 keywords: ["bolsa familia 2026", "valor bolsa familia", "calendario bolsa familia", "quem tem direito bolsa familia", "consultar bolsa familia"]
-heroImage: "../../assets/blog-placeholder-4.jpg"
+heroImage: "../../assets/bolsa-familia-2026.jpg"
 affiliate_cta:
   title: "Quer aumentar sua renda além do benefício?"
   description: "Conheça um guia prático e gratuito de como formalizar um pequeno negócio e gerar renda extra sem perder o direito ao Bolsa Família."

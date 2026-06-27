@@ -5,7 +5,7 @@ pubDate: "2026-07-03"
 updatedDate: "2026-07-03"
 tags: ["MEI", "Empreendedorismo", "Renda Extra"]
 keywords: ["vale a pena abrir mei", "mei vale a pena", "vantagens do mei", "desvantagens do mei", "devo abrir um mei"]
-heroImage: "../../assets/blog-placeholder-3.jpg"
+heroImage: "../../assets/vale-a-pena-abrir-um-mei.jpg"
 affiliate_cta:
   title: "Abriu seu MEI? Abra sua conta PJ sem taxa"
   description: "Conta PJ gratuita para MEI com cartão, Pix e sem mensalidade. Ideal para separar as finanças do negócio das pessoais."

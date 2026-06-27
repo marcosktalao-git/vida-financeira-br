@@ -5,7 +5,7 @@ pubDate: "2026-07-01"
 updatedDate: "2026-07-01"
 tags: ["INSS", "Previdência Social", "Autônomo"]
 keywords: ["como pagar inss por conta propria", "pagar inss autonomo", "guia inss autonomo", "gps inss", "como emitir guia inss"]
-heroImage: "../../assets/blog-placeholder-1.jpg"
+heroImage: "../../assets/como-pagar-inss-por-conta-propria.jpg"
 affiliate_cta:
   title: "Está pagando o INSS certo?"
   description: "Muitos autônomos pagam a alíquota errada ou perdem contribuições por erro no código de pagamento. Nossa consultoria verifica seu histórico e garante que nenhum mês fique de fora."

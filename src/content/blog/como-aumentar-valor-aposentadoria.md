@@ -5,7 +5,7 @@ pubDate: "2026-06-29"
 updatedDate: "2026-06-29"
 tags: ["INSS", "Aposentadoria", "Previdência Social"]
 keywords: ["como aumentar aposentadoria", "aumentar valor aposentadoria", "aposentadoria maior inss", "aumentar beneficio inss", "melhorar aposentadoria 2026"]
-heroImage: "../../assets/blog-placeholder-4.jpg"
+heroImage: "../../assets/como-aumentar-valor-aposentadoria.jpg"
 affiliate_cta:
   title: "Descubra quanto você poderia receber a mais na aposentadoria"
   description: "Uma análise previdenciária completa pode mostrar estratégias que aumentam seu benefício em centenas de reais por mês. Nossa consultoria faz essa conta por você."

@@ -5,7 +5,7 @@ pubDate: "2026-07-04"
 updatedDate: "2026-07-04"
 tags: ["MEI", "Impostos", "DAS"]
 keywords: ["impostos do mei", "quanto mei paga de imposto", "das mei 2026", "imposto mei mensal", "mei paga imposto"]
-heroImage: "../../assets/blog-placeholder-4.jpg"
+heroImage: "../../assets/impostos-do-mei.jpg"
 affiliate_cta:
   title: "Organize as finanças do seu MEI sem complicação"
   description: "Conta PJ gratuita com controle financeiro integrado. Emita notas, pague DAS e organize tudo em um só lugar."

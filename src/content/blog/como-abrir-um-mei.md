@@ -5,7 +5,7 @@ pubDate: "2026-06-18"
 updatedDate: "2026-06-18"
 tags: ["MEI", "Empreendedorismo", "Formalização"]
 keywords: ["como abrir mei", "abrir mei 2026", "mei passo a passo", "formalizar mei", "requisitos mei"]
-heroImage: "../../assets/blog-placeholder-3.jpg"
+heroImage: "../../assets/como-abrir-um-mei.jpg"
 affiliate_cta:
   title: "Já decidiu abrir o MEI? Separe sua conta PJ antes de começar"
   description: "Misturar dinheiro pessoal com o do negócio é um dos erros mais comuns de quem abre o MEI. Abra uma conta digital gratuita para pessoa jurídica e já comece organizado desde o primeiro real que entrar."

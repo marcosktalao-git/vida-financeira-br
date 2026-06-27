@@ -5,7 +5,7 @@ pubDate: "2026-07-08"
 updatedDate: "2026-07-08"
 tags: ["MEI", "Salário-Maternidade", "INSS"]
 keywords: ["salario maternidade mei", "mei salario maternidade", "maternidade microempreendedor", "mei gravidez beneficio", "como pedir salario maternidade mei"]
-heroImage: "../../assets/blog-placeholder-3.jpg"
+heroImage: "../../assets/salario-maternidade-mei.jpg"
 affiliate_cta:
   title: "MEI: organize suas finanças antes e depois da maternidade"
   description: "Conta PJ gratuita para MEI com controle de receitas e despesas. Ideal para quem precisa planejar o período de afastamento."

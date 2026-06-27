@@ -5,7 +5,7 @@ pubDate: "2026-06-20"
 updatedDate: "2026-06-20"
 tags: ["Finanças da Família", "Dívidas", "Organização Financeira"]
 keywords: ["como sair das dividas", "sair do vermelho", "negociar dividas", "quitar dividas 2026", "organizar financas"]
-heroImage: "../../assets/blog-placeholder-5.jpg"
+heroImage: "../../assets/como-sair-das-dividas.jpg"
 affiliate_cta:
   title: "Sua dívida está te impedindo de dormir tranquilo?"
   description: "Um curso completo de educação financeira pode te ensinar exatamente como organizar suas contas, negociar com credores e criar um plano realista para sair do vermelho em poucos meses."

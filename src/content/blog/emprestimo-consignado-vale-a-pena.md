@@ -5,7 +5,7 @@ pubDate: "2026-06-23"
 updatedDate: "2026-06-23"
 tags: ["Empréstimos", "Consignado", "INSS"]
 keywords: ["emprestimo consignado", "consignado vale a pena", "consignado inss", "consignado 2026", "taxa consignado"]
-heroImage: "../../assets/blog-placeholder-3.jpg"
+heroImage: "../../assets/emprestimo-consignado-vale-a-pena.jpg"
 affiliate_cta:
   title: "Quer simular seu consignado sem compromisso?"
   description: "Faça uma simulação gratuita e descubra as melhores taxas disponíveis para o seu perfil, seja você aposentado, pensionista ou servidor público."

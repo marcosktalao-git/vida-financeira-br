@@ -5,7 +5,7 @@ pubDate: "2026-06-30"
 updatedDate: "2026-06-30"
 tags: ["INSS", "Autônomo", "Previdência Social"]
 keywords: ["inss para autonomos", "contribuição autonomo inss", "autonomo inss 2026", "como pagar inss autonomo", "aliquota inss autonomo"]
-heroImage: "../../assets/blog-placeholder-5.jpg"
+heroImage: "../../assets/inss-para-autonomos.jpg"
 affiliate_cta:
   title: "Trabalha por conta própria e não sabe quanto pagar de INSS?"
   description: "Nossa consultoria previdenciária analisa seu perfil de autônomo e te mostra a alíquota certa, como pagar corretamente e como garantir sua aposentadoria sem gastar mais do que precisa."

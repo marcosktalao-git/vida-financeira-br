@@ -5,7 +5,7 @@ pubDate: "2026-06-22"
 updatedDate: "2026-06-22"
 tags: ["Contas Digitais", "Bancos Digitais", "Finanças Pessoais"]
 keywords: ["melhor conta digital", "conta digital 2026", "conta digital gratuita", "qual conta digital escolher", "banco digital comparativo"]
-heroImage: "../../assets/blog-placeholder-2.jpg"
+heroImage: "../../assets/melhor-conta-digital.jpg"
 affiliate_cta:
   title: "Pronto para escolher sua conta digital?"
   description: "Conta 100% gratuita, sem taxa de manutenção, com rendimento automático e cartão sem anuidade. Abra a sua agora mesmo, direto pelo celular."

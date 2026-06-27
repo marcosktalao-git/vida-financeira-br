@@ -5,7 +5,7 @@ pubDate: "2026-06-26"
 updatedDate: "2026-06-26"
 tags: ["INSS", "CNIS", "Aposentadoria"]
 keywords: ["corrigir erros cnis", "como corrigir cnis", "erro no cnis", "cnis incorreto", "retificar cnis"]
-heroImage: "../../assets/blog-placeholder-1.jpg"
+heroImage: "../../assets/como-corrigir-erros-no-cnis.jpg"
 affiliate_cta:
   title: "Seu CNIS tem erros e você não sabe?"
   description: "Nossa consultoria previdenciária faz uma revisão completa do seu extrato CNIS, identifica erros e te ajuda a corrigir tudo antes que prejudique sua aposentadoria."

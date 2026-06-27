@@ -5,7 +5,7 @@ pubDate: "2026-07-10"
 updatedDate: "2026-07-10"
 tags: ["MEI", "Encerramento", "Empreendedorismo"]
 keywords: ["como encerrar um mei", "fechar mei", "cancelar mei", "encerrar cnpj mei", "baixa mei 2026"]
-heroImage: "../../assets/blog-placeholder-5.jpg"
+heroImage: "../../assets/como-encerrar-um-mei.jpg"
 affiliate_cta:
   title: "Antes de fechar o MEI, veja se não vale continuar"
   description: "Conta PJ gratuita sem mensalidade pode ser o que faltava para o seu MEI se tornar viável. Compare antes de encerrar."

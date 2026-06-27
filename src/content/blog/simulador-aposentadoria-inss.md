@@ -5,7 +5,7 @@ pubDate: "2026-06-28"
 updatedDate: "2026-06-28"
 tags: ["INSS", "Aposentadoria", "Previdência Social"]
 keywords: ["simulador aposentadoria", "simular aposentadoria inss", "calcular aposentadoria online", "simulador meu inss", "quando vou me aposentar"]
-heroImage: "../../assets/blog-placeholder-3.jpg"
+heroImage: "../../assets/simulador-aposentadoria-inss.jpg"
 affiliate_cta:
   title: "A simulação mostrou algo que não faz sentido?"
   description: "O simulador do INSS nem sempre considera todos os períodos corretamente. Nossa consultoria previdenciária faz uma análise manual completa e encontra a data e regra mais vantajosa para você."

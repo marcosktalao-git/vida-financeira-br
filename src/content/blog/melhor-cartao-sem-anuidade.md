@@ -5,7 +5,7 @@ pubDate: "2026-06-19"
 updatedDate: "2026-06-19"
 tags: ["Cartões", "Cartão sem Anuidade", "Finanças Pessoais"]
 keywords: ["melhor cartao sem anuidade", "cartao sem anuidade 2026", "cartao de credito gratis", "cartao sem taxa", "como escolher cartao"]
-heroImage: "../../assets/blog-placeholder-4.jpg"
+heroImage: "../../assets/melhor-cartao-sem-anuidade.jpg"
 affiliate_cta:
   title: "Cansado de pagar anuidade todo mês sem precisar?"
   description: "Existem cartões completos, com cashback e sem nenhuma taxa anual. Peça o seu em poucos minutos, direto pelo celular, sem burocracia e sem consulta complicada ao SPC."

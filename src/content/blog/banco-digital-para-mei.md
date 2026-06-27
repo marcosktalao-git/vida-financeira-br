@@ -5,7 +5,7 @@ pubDate: "2026-07-11"
 updatedDate: "2026-07-11"
 tags: ["MEI", "Banco Digital", "Conta PJ"]
 keywords: ["banco digital para mei", "melhor banco mei", "conta pj mei gratuita", "banco mei 2026", "conta digital mei"]
-heroImage: "../../assets/blog-placeholder-1.jpg"
+heroImage: "../../assets/banco-digital-para-mei.jpg"
 affiliate_cta:
   title: "Conta PJ gratuita para MEI — sem mensalidade"
   description: "Abra sua conta PJ em minutos, sem burocracia. Pix, cartão, boleto e controle financeiro integrado para o seu MEI."

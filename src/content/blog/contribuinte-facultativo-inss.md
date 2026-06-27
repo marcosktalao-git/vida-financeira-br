@@ -5,7 +5,7 @@ pubDate: "2026-06-27"
 updatedDate: "2026-06-27"
 tags: ["INSS", "Aposentadoria", "Previdência Social"]
 keywords: ["contribuinte facultativo", "facultativo inss", "contribuinte facultativo vale a pena", "como ser facultativo inss", "contribuir inss sem trabalhar"]
-heroImage: "../../assets/blog-placeholder-2.jpg"
+heroImage: "../../assets/contribuinte-facultativo-inss.jpg"
 affiliate_cta:
   title: "Quer garantir sua aposentadoria mesmo sem emprego formal?"
   description: "Nossa consultoria previdenciária avalia seu histórico e te mostra a estratégia ideal de contribuição para chegar à aposentadoria no menor tempo e com o maior benefício possível."

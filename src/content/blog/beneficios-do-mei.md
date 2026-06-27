@@ -5,7 +5,7 @@ pubDate: "2026-07-06"
 updatedDate: "2026-07-06"
 tags: ["MEI", "Benefícios", "Previdência Social"]
 keywords: ["beneficios do mei", "direitos do mei", "mei tem direito a aposentadoria", "vantagens de ser mei", "mei inss beneficios"]
-heroImage: "../../assets/blog-placeholder-1.jpg"
+heroImage: "../../assets/beneficios-do-mei.jpg"
 affiliate_cta:
   title: "Aproveite ao máximo os benefícios do seu MEI"
   description: "Conta PJ gratuita para MEI com acesso a crédito, seguros e serviços exclusivos para quem é formalizado."

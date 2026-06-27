@@ -5,7 +5,7 @@ pubDate: "2026-07-05"
 updatedDate: "2026-07-05"
 tags: ["MEI", "Custos", "Empreendedorismo"]
 keywords: ["quanto custa um mei", "custo do mei", "mei mensal valor", "quanto paga de mei por mes", "mei 2026 valor"]
-heroImage: "../../assets/blog-placeholder-5.jpg"
+heroImage: "../../assets/quanto-custa-um-mei.jpg"
 affiliate_cta:
   title: "Reduza os custos do seu MEI com uma conta PJ gratuita"
   description: "Sem mensalidade, sem tarifa de manutenção. Conta PJ ideal para MEI que quer manter os custos no mínimo."

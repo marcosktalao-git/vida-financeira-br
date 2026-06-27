@@ -5,7 +5,7 @@ pubDate: "2026-07-02"
 updatedDate: "2026-07-02"
 tags: ["INSS", "Previdência Social", "Aposentadoria"]
 keywords: ["regras inss 2026", "regras atuais inss", "o que mudou inss", "reforma previdencia 2026", "inss atualizado"]
-heroImage: "../../assets/blog-placeholder-2.jpg"
+heroImage: "../../assets/regras-atuais-inss-2026.jpg"
 affiliate_cta:
   title: "As regras do INSS são complexas. Não precisa entender tudo sozinho."
   description: "Nossa consultoria previdenciária analisa seu histórico com base nas regras atuais e te mostra exatamente o que fazer para garantir o melhor benefício possível."

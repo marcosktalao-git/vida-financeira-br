@@ -5,7 +5,7 @@ pubDate: "2026-06-17"
 updatedDate: "2026-06-17"
 tags: ["INSS", "CNIS", "Aposentadoria"]
 keywords: ["cnis", "consultar cnis", "corrigir cnis", "extrato inss", "como ver cnis"]
-heroImage: "../../assets/blog-placeholder-2.jpg"
+heroImage: "../../assets/como-consultar-seu-cnis.jpg"
 affiliate_cta:
   title: "Um erro no CNIS pode te custar anos de aposentadoria"
   description: "Muita gente só descobre que tem vínculos faltando ou contribuições erradas na hora de pedir o benefício — e aí já é tarde. Nossa consultoria previdenciária revisa seu extrato agora e corrige o que for preciso, antes que isso te custe tempo e dinheiro."

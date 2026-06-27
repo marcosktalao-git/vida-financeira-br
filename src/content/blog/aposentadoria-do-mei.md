@@ -5,7 +5,7 @@ pubDate: "2026-07-07"
 updatedDate: "2026-07-07"
 tags: ["MEI", "Aposentadoria", "INSS"]
 keywords: ["aposentadoria do mei", "mei conta para aposentadoria", "mei aposentadoria valor", "mei inss aposentadoria", "aposentadoria microempreendedor"]
-heroImage: "../../assets/blog-placeholder-2.jpg"
+heroImage: "../../assets/aposentadoria-do-mei.jpg"
 affiliate_cta:
   title: "Quer uma aposentadoria maior do que o salário mínimo sendo MEI?"
   description: "Nossa consultoria previdenciária mostra como complementar a contribuição do MEI para garantir um benefício maior na aposentadoria."
