@@ -10,7 +10,7 @@ affiliate_cta:
   title: "Quer comparar opções antes de decidir?"
   description: "Entenda suas opções de crédito com mais clareza antes de assinar qualquer contrato."
   buttonText: "Saiba mais"
-  url: "https://www.vidafinanceirabr.com.br/"
+  url: "https://cakto.app/AQVQPJY/?affiliate=qbWLFHdj"
 ---
 
 Você abre o aplicativo do banco, digita um valor, e em 30 segundos aparece: "Empréstimo aprovado! R$ 500,00 em 12x de R$ 52,30." Parece pouco. Mas quanto você vai pagar no total? Qual a taxa de juros real? Tem seguro embutido? Se você não sabe responder, está assinando no escuro.

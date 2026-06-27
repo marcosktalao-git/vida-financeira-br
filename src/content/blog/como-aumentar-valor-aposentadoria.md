@@ -10,7 +10,7 @@ affiliate_cta:
   title: "Descubra quanto você poderia receber a mais na aposentadoria"
   description: "Uma análise previdenciária completa pode mostrar estratégias que aumentam seu benefício em centenas de reais por mês. Nossa consultoria faz essa conta por você."
   buttonText: "Quero aumentar minha aposentadoria"
-  url: "https://www.vidafinanceirabr.com.br/"
+  url: "https://cakto.app/AQVQPJY/?affiliate=qbWLFHdj"
 ---
 
 Você sabia que milhares de brasileiros se aposentam todo mês recebendo menos do que poderiam? Não por erro do INSS, mas porque pedem o benefício antes do momento ideal ou escolhem a regra errada.

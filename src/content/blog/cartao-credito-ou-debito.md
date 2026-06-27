@@ -10,7 +10,7 @@ affiliate_cta:
   title: "Quer comparar opções de cartão antes de decidir?"
   description: "Entenda suas opções com mais clareza antes de escolher o cartão certo pro seu perfil."
   buttonText: "Saiba mais"
-  url: "https://www.vidafinanceirabr.com.br/"
+  url: "https://cakto.app/AQVQPJY/?affiliate=qbWLFHdj"
 ---
 
 Você está na fila do supermercado, a maquininha pergunta "débito ou crédito?" e você hesita por alguns segundos. Qual é a escolha certa? Será que faz diferença? A resposta curta é: sim, faz toda diferença.

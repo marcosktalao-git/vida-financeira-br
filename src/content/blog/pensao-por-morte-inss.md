@@ -10,7 +10,7 @@ affiliate_cta:
   title: "Quer entender melhor seus direitos previdenciários?"
   description: "Orientação especializada pode te ajudar a entender exatamente o que você tem direito a receber."
   buttonText: "Saiba mais"
-  url: "https://www.vidafinanceirabr.com.br/"
+  url: "https://cakto.app/AQVQPJY/?affiliate=qbWLFHdj"
 ---
 
 Perder alguém da família é difícil. No meio do luto, ainda vem a preocupação financeira: como vai ficar a renda de casa? Quem dependia daquela pessoa para pagar as contas, sustentar os filhos, manter o aluguel em dia?

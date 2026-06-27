@@ -10,7 +10,7 @@ affiliate_cta:
   title: "Aproveite ao máximo os benefícios do seu MEI"
   description: "Conta PJ gratuita para MEI com acesso a crédito, seguros e serviços exclusivos para quem é formalizado."
   buttonText: "Quero uma conta PJ gratuita"
-  url: "https://www.vidafinanceirabr.com.br/"
+  url: "https://cakto.app/AQVQPJY/?affiliate=qbWLFHdj"
 ---
 
 Muita gente associa o MEI apenas à emissão de nota fiscal. "Abri meu MEI para poder emitir nota para uma empresa" é a frase mais comum entre microempreendedores. E tudo bem — a nota fiscal já vale o custo mensal. Mas o MEI oferece muito mais do que isso.

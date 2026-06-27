@@ -10,7 +10,7 @@ affiliate_cta:
   title: "Quer aumentar sua renda além do benefício?"
   description: "Conheça um guia prático e gratuito de como formalizar um pequeno negócio e gerar renda extra sem perder o direito ao Bolsa Família."
   buttonText: "Quero aumentar minha renda"
-  url: "https://www.vidafinanceirabr.com.br/"
+  url: "https://cakto.app/AQVQPJY/?affiliate=qbWLFHdj"
 ---
 
 O Bolsa Família é o maior programa de transferência de renda do Brasil. Em 2026, ele continua sendo a principal rede de proteção para milhões de famílias — um direito garantido por lei, não um favor. Se você recebe ou acha que tem direito, entender as regras é essencial para não perder o benefício.

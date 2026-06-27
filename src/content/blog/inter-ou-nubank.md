@@ -10,7 +10,7 @@ affiliate_cta:
   title: "Quer comparar contas digitais antes de decidir?"
   description: "Entenda suas opções com mais clareza antes de escolher onde abrir sua conta."
   buttonText: "Saiba mais"
-  url: "https://www.vidafinanceirabr.com.br/"
+  url: "https://cakto.app/AQVQPJY/?affiliate=qbWLFHdj"
 ---
 
 Você está entre o Inter e o Nubank e não sabe qual escolher? Não se preocupe — essa é uma das dúvidas mais comuns de quem está migrando dos bancos tradicionais para as contas digitais. Os dois estão entre as maiores fintechs do Brasil, os dois não cobram tarifa de manutenção e os dois prometem revolucionar sua relação com o dinheiro.

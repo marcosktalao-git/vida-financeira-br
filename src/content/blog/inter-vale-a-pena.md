@@ -10,7 +10,7 @@ affiliate_cta:
   title: "Quer comparar contas digitais antes de decidir?"
   description: "Entenda suas opções com mais clareza antes de escolher onde abrir sua conta."
   buttonText: "Saiba mais"
-  url: "https://www.vidafinanceirabr.com.br/"
+  url: "https://cakto.app/AQVQPJY/?affiliate=qbWLFHdj"
 ---
 
 Você já deve ter ouvido falar do Banco Inter — um dos primeiros bancos 100% digitais do Brasil, que começou como Banco Intermedium e se transformou em uma plataforma financeira completa. Em 2026, o Inter tem mais de 30 milhões de clientes e um ecossistema que vai muito além do cartão de crédito sem anuidade.

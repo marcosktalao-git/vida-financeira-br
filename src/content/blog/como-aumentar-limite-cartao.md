@@ -10,7 +10,7 @@ affiliate_cta:
   title: "Quer comparar opções de cartão antes de decidir?"
   description: "Entenda suas opções com mais clareza antes de escolher o cartão certo pro seu perfil."
   buttonText: "Saiba mais"
-  url: "https://www.vidafinanceirabr.com.br/"
+  url: "https://cakto.app/AQVQPJY/?affiliate=qbWLFHdj"
 ---
 
 Nada mais frustrante do que ir fazer uma compra e o cartão ser negado na maquininha por falta de limite. Ou então receber a mensagem "compra recusada — limite insuficiente" na hora de pagar aquela conta online. Se isso já aconteceu com você, sabe bem do que estou falando.

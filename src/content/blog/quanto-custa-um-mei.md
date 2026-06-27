@@ -10,7 +10,7 @@ affiliate_cta:
   title: "Reduza os custos do seu MEI com uma conta PJ gratuita"
   description: "Sem mensalidade, sem tarifa de manutenção. Conta PJ ideal para MEI que quer manter os custos no mínimo."
   buttonText: "Abrir conta PJ grátis"
-  url: "https://www.vidafinanceirabr.com.br/"
+  url: "https://cakto.app/AQVQPJY/?affiliate=qbWLFHdj"
 ---
 
 Muita gente deixa de abrir um MEI por achar que é caro. Que vai pagar uma fortuna de impostos, que precisa de contador, que a burocracia vai comer a renda. A verdade é bem diferente.

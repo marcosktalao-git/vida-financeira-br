@@ -10,7 +10,7 @@ affiliate_cta:
   title: "Quer comparar opções antes de decidir?"
   description: "Entenda suas opções de crédito com mais clareza antes de assinar qualquer contrato."
   buttonText: "Saiba mais"
-  url: "https://www.vidafinanceirabr.com.br/"
+  url: "https://cakto.app/AQVQPJY/?affiliate=qbWLFHdj"
 ---
 
 Você fez um empréstimo de R$ 2.000, já pagou R$ 4.000 e ainda deve R$ 3.500. Parece absurdo? Pois é a realidade de milhares de brasileiros que caem na armadilha dos juros abusivos. O pior: muitos só percebem quando já pagaram mais que o dobro do que pegaram.

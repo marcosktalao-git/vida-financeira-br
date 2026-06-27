@@ -10,7 +10,7 @@ affiliate_cta:
   title: "Quer comparar opções de cartão antes de decidir?"
   description: "Entenda suas opções com mais clareza antes de escolher o cartão certo pro seu perfil."
   buttonText: "Saiba mais"
-  url: "https://www.vidafinanceirabr.com.br/"
+  url: "https://cakto.app/AQVQPJY/?affiliate=qbWLFHdj"
 ---
 
 Aquele cartão de crédito que você fez para ganhar um brinde e acabou esquecido na gaveta. Ou o cartão antigo que cobra anuidade e você não usa mais. Em algum momento, todo mundo pensa em cancelar um cartão. Mas vem o medo: será que cancelar prejudica o score?

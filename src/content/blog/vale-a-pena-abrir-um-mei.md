@@ -10,7 +10,7 @@ affiliate_cta:
   title: "Abriu seu MEI? Abra sua conta PJ sem taxa"
   description: "Conta PJ gratuita para MEI com cartão, Pix e sem mensalidade. Ideal para separar as finanças do negócio das pessoais."
   buttonText: "Abrir conta MEI grátis"
-  url: "https://www.vidafinanceirabr.com.br/"
+  url: "https://cakto.app/AQVQPJY/?affiliate=qbWLFHdj"
 ---
 
 Se você trabalha por conta própria e ainda não é formalizado, já deve ter ouvido falar do MEI. Talvez um amigo tenha dito "abre um MEI que é melhor" e outro tenha reclamado que "só dá dor de cabeça". A verdade é que os dois podem estar certos — depende do seu caso.

@@ -10,7 +10,7 @@ affiliate_cta:
   title: "A simulação mostrou algo que não faz sentido?"
   description: "O simulador do INSS nem sempre considera todos os períodos corretamente. Nossa consultoria previdenciária faz uma análise manual completa e encontra a data e regra mais vantajosa para você."
   buttonText: "Quero uma análise completa"
-  url: "https://www.vidafinanceirabr.com.br/"
+  url: "https://cakto.app/AQVQPJY/?affiliate=qbWLFHdj"
 ---
 
 Antes de pedir a aposentadoria, todo trabalhador deveria fazer uma coisa: usar o simulador do Meu INSS. É uma ferramenta gratuita que calcula quanto tempo de contribuição você já tem e mostra em que data você pode se aposentar em cada regra disponível.

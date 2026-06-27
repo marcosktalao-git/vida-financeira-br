@@ -10,7 +10,7 @@ affiliate_cta:
   title: "Precisa de ajuda com sua aposentadoria?"
   description: "Nossa consultoria previdenciária analisa seu histórico, calcula o melhor benefício e acompanha todo o processo no INSS."
   buttonText: "Falar com especialista"
-  url: "https://www.vidafinanceirabr.com.br/"
+  url: "https://cakto.app/AQVQPJY/?affiliate=qbWLFHdj"
 ---
 
 Se você está perto dos 60 anos ou já passou dos 65, provavelmente já ouviu falar que as regras da aposentadoria mudaram — e continuam mudando. Em 2026, não é diferente. A Reforma da Previdência de 2019 ainda está em transição, e novas exigências surgem a cada ano.

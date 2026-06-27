@@ -10,7 +10,7 @@ affiliate_cta:
   title: "Quer comparar contas digitais antes de decidir?"
   description: "Entenda suas opções com mais clareza antes de escolher onde abrir sua conta."
   buttonText: "Saiba mais"
-  url: "https://www.vidafinanceirabr.com.br/"
+  url: "https://cakto.app/AQVQPJY/?affiliate=qbWLFHdj"
 ---
 
 Você provavelmente conhece o PicPay como aquela carteira digital que todo mundo usava para pagar contas e dividir despesas entre amigos. Mas em 2026, o PicPay é muito mais do que isso — virou um banco digital completo, com cartão de crédito, investimentos e até seguros.

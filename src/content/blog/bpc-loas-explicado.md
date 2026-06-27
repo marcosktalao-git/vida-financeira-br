@@ -10,7 +10,7 @@ affiliate_cta:
   title: "Quer entender melhor seus direitos previdenciários?"
   description: "Orientação especializada pode te ajudar a entender exatamente o que você tem direito a receber."
   buttonText: "Saiba mais"
-  url: "https://www.vidafinanceirabr.com.br/"
+  url: "https://cakto.app/AQVQPJY/?affiliate=qbWLFHdj"
 ---
 
 Você tem mais de 65 anos ou vive com uma deficiência e não consegue trabalho? A preocupação com as contas no fim do mês aperta, o dinheiro não sobra e a sensação é de que não há saída. Muita gente passa por isso sem saber que existe um benefício do governo pago todo mês — e que não exige ter contribuído para o INSS.

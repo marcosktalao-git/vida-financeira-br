@@ -10,7 +10,7 @@ affiliate_cta:
   title: "Quer comparar opções de cartão antes de decidir?"
   description: "Entenda suas opções com mais clareza antes de escolher o cartão certo pro seu perfil."
   buttonText: "Saiba mais"
-  url: "https://www.vidafinanceirabr.com.br/"
+  url: "https://cakto.app/AQVQPJY/?affiliate=qbWLFHdj"
 ---
 
 Você usa o cartão de crédito todo mês, paga as contas em dia, mas sente que não ganha nada com isso? Enquanto isso, você ouve falar de gente que recebe dinheiro de volta a cada compra. Essa sensação de gastar e não levar nada em troca é mais comum do que parece.

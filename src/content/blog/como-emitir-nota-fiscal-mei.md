@@ -10,7 +10,7 @@ affiliate_cta:
   title: "Gerencie suas notas fiscais e finanças do MEI em um só lugar"
   description: "Conta PJ gratuita com emissão de notas, controle financeiro e Pix sem custo. Ideal para MEI que quer profissionalizar o negócio."
   buttonText: "Abrir conta PJ grátis"
-  url: "https://www.vidafinanceirabr.com.br/"
+  url: "https://cakto.app/AQVQPJY/?affiliate=qbWLFHdj"
 ---
 
 Emitir nota fiscal parece complicado para quem nunca fez. Mas o sistema foi criado para ser simples, especialmente para o MEI. Você não precisa de contador, não precisa de certificado digital e não precisa pagar nada para emitir.

@@ -10,7 +10,7 @@ affiliate_cta:
   title: "Quer entender melhor seus direitos previdenciários?"
   description: "Orientação especializada pode te ajudar a entender exatamente o que você tem direito a receber."
   buttonText: "Saiba mais"
-  url: "https://www.vidafinanceirabr.com.br/"
+  url: "https://cakto.app/AQVQPJY/?affiliate=qbWLFHdj"
 ---
 
 Você acordou hoje e não conseguiu levantar da cama. Ou está há semanas com uma dor que não passa, um problema de saúde que te impede de trabalhar. O médico falou em afastamento, mas a conta de luz não espera, o aluguel não espera, e o medo de ficar sem renda aperta junto com a doença.

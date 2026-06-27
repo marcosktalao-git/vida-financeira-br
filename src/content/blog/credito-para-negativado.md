@@ -10,7 +10,7 @@ affiliate_cta:
   title: "Quer comparar opções antes de decidir?"
   description: "Entenda suas opções de crédito com mais clareza antes de assinar qualquer contrato."
   buttonText: "Saiba mais"
-  url: "https://www.vidafinanceirabr.com.br/"
+  url: "https://cakto.app/AQVQPJY/?affiliate=qbWLFHdj"
 ---
 
 Seu nome está negativado. Você abre o aplicativo do banco e a mensagem é sempre a mesma: "crédito indisponível para seu perfil". As portas parecem fechadas. E é aí que os golpistas aparecem — com promessas de "crédito fácil sem consulta", taxa zero e dinheiro na hora.

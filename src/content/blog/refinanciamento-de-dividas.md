@@ -10,7 +10,7 @@ affiliate_cta:
   title: "Quer comparar opções antes de decidir?"
   description: "Entenda suas opções de crédito com mais clareza antes de assinar qualquer contrato."
   buttonText: "Saiba mais"
-  url: "https://www.vidafinanceirabr.com.br/"
+  url: "https://cakto.app/AQVQPJY/?affiliate=qbWLFHdj"
 ---
 
 Você tem três dívidas: um cartão de crédito que não fecha, um empréstimo pessoal do ano passado e o cheque especial que entrou no vermelho mês passado. Nenhuma delas é inviável sozinha, mas juntas consomem metade do seu salário. Aí aparece uma proposta: "Refinancie tudo em uma parcela só, com valor menor!"

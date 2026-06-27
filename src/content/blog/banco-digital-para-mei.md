@@ -10,7 +10,7 @@ affiliate_cta:
   title: "Conta PJ gratuita para MEI — sem mensalidade"
   description: "Abra sua conta PJ em minutos, sem burocracia. Pix, cartão, boleto e controle financeiro integrado para o seu MEI."
   buttonText: "Abrir conta MEI grátis"
-  url: "https://www.vidafinanceirabr.com.br/"
+  url: "https://cakto.app/AQVQPJY/?affiliate=qbWLFHdj"
 ---
 
 Muita gente abre um MEI e continua usando a conta pessoal para receber os pagamentos do negócio. "É mais prático", "depois eu separo", "no começo não precisa" — são frases comuns. Mas misturar as contas é um dos erros mais frequentes entre MEIs.

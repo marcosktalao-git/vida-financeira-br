@@ -10,7 +10,7 @@ affiliate_cta:
   title: "Trabalha por conta própria e não sabe quanto pagar de INSS?"
   description: "Nossa consultoria previdenciária analisa seu perfil de autônomo e te mostra a alíquota certa, como pagar corretamente e como garantir sua aposentadoria sem gastar mais do que precisa."
   buttonText: "Quero entender meu INSS"
-  url: "https://www.vidafinanceirabr.com.br/"
+  url: "https://cakto.app/AQVQPJY/?affiliate=qbWLFHdj"
 ---
 
 Se você trabalha por conta própria, tem uma notícia boa e uma ruim. A ruim: ninguém desconta o INSS do seu salário automaticamente. Você precisa fazer isso sozinho. A boa: você pode escolher o valor sobre o qual contribui, tem flexibilidade para pagar quando quiser e, se contribuir direitinho, tem direito a todos os benefícios do INSS.

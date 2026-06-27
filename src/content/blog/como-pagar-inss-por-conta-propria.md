@@ -10,7 +10,7 @@ affiliate_cta:
   title: "Está pagando o INSS certo?"
   description: "Muitos autônomos pagam a alíquota errada ou perdem contribuições por erro no código de pagamento. Nossa consultoria verifica seu histórico e garante que nenhum mês fique de fora."
   buttonText: "Verificar minhas contribuições"
-  url: "https://www.vidafinanceirabr.com.br/"
+  url: "https://cakto.app/AQVQPJY/?affiliate=qbWLFHdj"
 ---
 
 Pagar o INSS por conta própria parece complicado para quem nunca fez, mas a verdade é que o processo é simples — e totalmente online. Você emite uma guia, paga em qualquer banco ou lotérica, e a contribuição entra no seu histórico.

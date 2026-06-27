@@ -10,7 +10,7 @@ affiliate_cta:
   title: "Quer comparar opções de cartão antes de decidir?"
   description: "Entenda suas opções com mais clareza antes de escolher o cartão certo pro seu perfil."
   buttonText: "Saiba mais"
-  url: "https://www.vidafinanceirabr.com.br/"
+  url: "https://cakto.app/AQVQPJY/?affiliate=qbWLFHdj"
 ---
 
 Ter o nome negativado já é difícil por si só. Quando você precisa de um cartão de crédito para fazer compras online, pagar uma assinatura ou resolver uma emergência, a porta parece fechar na sua cara. Os bancos tradicionais negam o cartão sem nem olhar seu histórico direito.

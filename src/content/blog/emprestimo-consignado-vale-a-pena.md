@@ -10,7 +10,7 @@ affiliate_cta:
   title: "Quer simular seu consignado sem compromisso?"
   description: "Faça uma simulação gratuita e descubra as melhores taxas disponíveis para o seu perfil, seja você aposentado, pensionista ou servidor público."
   buttonText: "Simular consignado gratuito"
-  url: "https://www.vidafinanceirabr.com.br/"
+  url: "https://cakto.app/AQVQPJY/?affiliate=qbWLFHdj"
 ---
 
 Você já deve ter recebido aquela ligação: "oferecemos empréstimo com taxas especiais para aposentados". Provavelmente era sobre o crédito consignado. Ele aparece na TV, no rádio, no banco e até no WhatsApp. Mas será que realmente vale a pena?

@@ -10,7 +10,7 @@ affiliate_cta:
   title: "Quer entender melhor seus direitos previdenciários?"
   description: "Orientação especializada pode te ajudar a entender exatamente o que você tem direito a receber."
   buttonText: "Saiba mais"
-  url: "https://www.vidafinanceirabr.com.br/"
+  url: "https://cakto.app/AQVQPJY/?affiliate=qbWLFHdj"
 ---
 
 Você esperou semanas ou meses pela resposta do INSS. Acompanhou o processo pelo aplicativo, conferiu cada atualização, torceu para dar certo. Até que veio a notícia: **benefício indeferido**. A frustração é enorme — e o desespero vem junto, porque você conta com aquele dinheiro para viver.

@@ -10,7 +10,7 @@ affiliate_cta:
   title: "Quer entender melhor seus direitos previdenciários?"
   description: "Orientação especializada pode te ajudar a entender exatamente o que você tem direito a receber."
   buttonText: "Saiba mais"
-  url: "https://www.vidafinanceirabr.com.br/"
+  url: "https://cakto.app/AQVQPJY/?affiliate=qbWLFHdj"
 ---
 
 Você já se perguntou se existe algum benefício do governo que você ou sua família poderiam receber? A oferta de programas sociais no Brasil é ampla, mas também confusa. São auxílios federais, estaduais e municipais, cada um com regras próprias, siglas diferentes e portas de entrada distintas.

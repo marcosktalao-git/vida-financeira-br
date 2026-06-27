@@ -10,7 +10,7 @@ affiliate_cta:
   title: "Antes de fechar o MEI, veja se não vale continuar"
   description: "Conta PJ gratuita sem mensalidade pode ser o que faltava para o seu MEI se tornar viável. Compare antes de encerrar."
   buttonText: "Abrir conta PJ grátis"
-  url: "https://www.vidafinanceirabr.com.br/"
+  url: "https://cakto.app/AQVQPJY/?affiliate=qbWLFHdj"
 ---
 
 Encerrar um MEI é mais simples do que abrir. O processo é online, gratuito e leva poucos minutos. Mas tem um detalhe importante: você precisa regularizar as pendências antes de fechar. Se tentar encerrar com dívidas, o sistema não permite.

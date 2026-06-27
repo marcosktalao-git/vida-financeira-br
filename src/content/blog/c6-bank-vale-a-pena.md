@@ -10,7 +10,7 @@ affiliate_cta:
   title: "Quer comparar contas digitais antes de decidir?"
   description: "Entenda suas opções com mais clareza antes de escolher onde abrir sua conta."
   buttonText: "Saiba mais"
-  url: "https://www.vidafinanceirabr.com.br/"
+  url: "https://cakto.app/AQVQPJY/?affiliate=qbWLFHdj"
 ---
 
 Você já deve ter ouvido falar do C6 Bank — o banco digital que virou sinônimo de cartão Black sem anuidade e parcerias de peso com programas de milhagem. Em 2026, o C6 Bank se consolidou como uma das principais alternativas para quem busca um banco digital com produtos premium sem pagar tarifas exorbitantes.

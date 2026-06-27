@@ -10,7 +10,7 @@ affiliate_cta:
   title: "Seu CNIS tem erros e você não sabe?"
   description: "Nossa consultoria previdenciária faz uma revisão completa do seu extrato CNIS, identifica erros e te ajuda a corrigir tudo antes que prejudique sua aposentadoria."
   buttonText: "Revisar meu CNIS agora"
-  url: "https://www.vidafinanceirabr.com.br/"
+  url: "https://cakto.app/AQVQPJY/?affiliate=qbWLFHdj"
 ---
 
 Você já baixou seu extrato CNIS e conferiu linha por linha? Se ainda não fez isso, prepare-se: é bem provável que encontre pelo menos um erro. Estudos internos do INSS mostram que uma parcela significativa dos extratos tem alguma divergência — vínculo que não aparece, data trocada, contribuição que sumiu.

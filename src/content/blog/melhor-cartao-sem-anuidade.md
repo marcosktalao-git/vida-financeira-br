@@ -10,7 +10,7 @@ affiliate_cta:
   title: "Cansado de pagar anuidade todo mês sem precisar?"
   description: "Existem cartões completos, com cashback e sem nenhuma taxa anual. Peça o seu em poucos minutos, direto pelo celular, sem burocracia e sem consulta complicada ao SPC."
   buttonText: "Pedir cartão sem anuidade"
-  url: "https://www.vidafinanceirabr.com.br/"
+  url: "https://cakto.app/AQVQPJY/?affiliate=qbWLFHdj"
 ---
 
 Você sabia que pode ter um cartão de crédito completo sem pagar um centavo de anuidade? Pois é. Muita gente ainda acha que cartão bom precisa ter taxa, mas isso mudou.

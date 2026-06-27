@@ -10,7 +10,7 @@ affiliate_cta:
   title: "Quer comparar contas digitais antes de decidir?"
   description: "Entenda suas opções com mais clareza antes de escolher onde abrir sua conta."
   buttonText: "Saiba mais"
-  url: "https://www.vidafinanceirabr.com.br/"
+  url: "https://cakto.app/AQVQPJY/?affiliate=qbWLFHdj"
 ---
 
 Você está cansado de pagar tarifas no banco tradicional, mas tem medo de trocar e perder débitos automáticos, cair no negativo ou complicar sua vida financeira? Se você respondeu sim, saiba que essa preocupação é normal e mais comum do que parece.

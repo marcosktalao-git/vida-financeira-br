@@ -10,7 +10,7 @@ affiliate_cta:
   title: "Quer comparar opções antes de decidir?"
   description: "Entenda suas opções de crédito com mais clareza antes de assinar qualquer contrato."
   buttonText: "Saiba mais"
-  url: "https://www.vidafinanceirabr.com.br/"
+  url: "https://cakto.app/AQVQPJY/?affiliate=qbWLFHdj"
 ---
 
 A conta do conserto do carro chegou. O cachorro precisou de uma cirurgia de emergência. Ou simplesmente a fatura do cartão ficou maior que o esperado e você precisa cobrir o buraco até o próximo salário. Nessas horas, o empréstimo pessoal parece a saída mais óbvia — e pode ser mesmo. Mas também pode virar uma bola de neve que leva anos para desfazer.

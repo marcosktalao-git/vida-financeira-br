@@ -10,7 +10,7 @@ affiliate_cta:
   title: "Quer saber exatamente quando você pode se aposentar?"
   description: "Nossa consultoria previdenciária analisa seu histórico completo no CNIS, calcula seu tempo real de contribuição e aponta a data mais vantajosa para pedir o benefício."
   buttonText: "Calcular minha aposentadoria"
-  url: "https://www.vidafinanceirabr.com.br/"
+  url: "https://cakto.app/AQVQPJY/?affiliate=qbWLFHdj"
 ---
 
 Antes de pedir a aposentadoria, você precisa saber uma coisa: quanto tempo você já contribuiu para o INSS. Pode parecer óbvio, mas milhares de brasileiros pedem o benefício sem fazer essa conta e descobrem só na resposta do INSS que não cumpriram o tempo mínimo.

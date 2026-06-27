@@ -10,7 +10,7 @@ affiliate_cta:
   title: "MEI: organize suas finanças antes e depois da maternidade"
   description: "Conta PJ gratuita para MEI com controle de receitas e despesas. Ideal para quem precisa planejar o período de afastamento."
   buttonText: "Abrir conta PJ grátis"
-  url: "https://www.vidafinanceirabr.com.br/"
+  url: "https://cakto.app/AQVQPJY/?affiliate=qbWLFHdj"
 ---
 
 Muitas mulheres que abrem um MEI não sabem que têm direito ao salário-maternidade. Acham que esse benefício é só para quem tem carteira assinada. Não é verdade. A MEI contribui para o INSS todo mês via DAS e, com isso, garante direitos previdenciários — incluindo o salário-maternidade.

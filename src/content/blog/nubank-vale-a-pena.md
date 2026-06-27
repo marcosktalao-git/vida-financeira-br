@@ -10,7 +10,7 @@ affiliate_cta:
   title: "Quer abrir sua conta gratuita em poucos minutos?"
   description: "Conta digital sem taxa de manutenção, cartão sem anuidade e cashback em compras selecionadas. Abra a sua direto pelo celular, sem burocracia e sem sair de casa."
   buttonText: "Abrir conta digital gratuita"
-  url: "https://www.vidafinanceirabr.com.br/"
+  url: "https://cakto.app/AQVQPJY/?affiliate=qbWLFHdj"
 ---
 
 Você já deve ter ouvido falar do Nubank — a fintech roxa que virou banco e hoje é uma das maiores instituições financeiras do Brasil. Em 2026, são mais de 90 milhões de clientes e um ecossistema que vai muito além do cartão de crédito sem anuidade que a popularizou.

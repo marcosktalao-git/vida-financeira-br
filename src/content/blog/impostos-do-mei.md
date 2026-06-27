@@ -10,7 +10,7 @@ affiliate_cta:
   title: "Organize as finanças do seu MEI sem complicação"
   description: "Conta PJ gratuita com controle financeiro integrado. Emita notas, pague DAS e organize tudo em um só lugar."
   buttonText: "Abrir conta PJ grátis"
-  url: "https://www.vidafinanceirabr.com.br/"
+  url: "https://cakto.app/AQVQPJY/?affiliate=qbWLFHdj"
 ---
 
 Uma das maiores dúvidas de quem pensa em abrir um MEI é sobre os impostos. "Quanto vou pagar por mês?", "É caro?", "O que está incluído nesse valor?". A resposta é mais simples do que parece.

@@ -10,7 +10,7 @@ affiliate_cta:
   title: "Quer uma aposentadoria maior do que o salário mínimo sendo MEI?"
   description: "Nossa consultoria previdenciária mostra como complementar a contribuição do MEI para garantir um benefício maior na aposentadoria."
   buttonText: "Quero aumentar minha aposentadoria"
-  url: "https://www.vidafinanceirabr.com.br/"
+  url: "https://cakto.app/AQVQPJY/?affiliate=qbWLFHdj"
 ---
 
 Ter um MEI é a forma mais barata de contribuir para o INSS. Com menos de R$ 81 por mês, você mantém seus direitos previdenciários ativos. Mas essa contribuição reduzida tem um preço: a aposentadoria do MEI tem limitações importantes.
