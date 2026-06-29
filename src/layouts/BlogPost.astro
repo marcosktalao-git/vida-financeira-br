@@ -1,4 +1,4 @@
----
+﻿---
 import { Image } from 'astro:assets';
 import type { CollectionEntry } from 'astro:content';
 import AdSenseSlot from '../components/AdSenseSlot.astro';
@@ -6,7 +6,7 @@ import AffiliateCTA from '../components/AffiliateCTA.astro';
 import EbookBanner from '../components/EbookBanner.astro';
 import FormattedDate from '../components/FormattedDate.astro';
 import BaseLayout from './BaseLayout.astro';
-import { SITE_TITLE, tagToSlug } from '../consts';
+import { CATEGORIES, SITE_TITLE, tagToSlug } from '../consts';
 import type { FaqItem } from '../utils/seo';
 
 interface Props extends CollectionEntry<'blog'>['data'] {
@@ -50,14 +50,22 @@ const breadcrumbs = [
 			{
 				tags && tags.length > 0 && (
 					<div class="mb-4 flex flex-wrap justify-center gap-2">
-						{tags.map((tag) => (
-							<a
-								href={`/categoria/${tagToSlug(tag)}/`}
-								class="rounded-full bg-accent-subtle px-3 py-1 text-xs font-medium text-accent no-underline transition-colors hover:bg-accent/20"
-							>
-								{tag}
-							</a>
-						))}
+						{tags.map((tag) => {
+const isRealCategory = CATEGORIES.some((c) => c.slug === tagToSlug(tag));
+return isRealCategory ? (
+
+<a
+href={`/categoria/${tagToSlug(tag)}/`}
+class="rounded-full bg-accent-subtle px-3 py-1 text-xs font-medium text-accent no-underline transition-colors hover:bg-accent/20"
+>
+{tag}
+</a>
+) : (
+<span class="rounded-full bg-accent-subtle px-3 py-1 text-xs font-medium text-accent">
+{tag}
+</span>
+);
+})}
 					</div>
 				)
 			}
