@@ -4,7 +4,7 @@ description: "Entenda o que é o BPC LOAS, quem pode receber, o valor do benefí
 pubDate: "2026-07-02"
 updatedDate: "2026-07-02"
 tags: ["Benefícios Sociais", "BPC LOAS"]
-keywords: ["bpc loas", "bpc loas quem tem direito", "como solicitar bpc loas", "valor bpc loas 2026"]
+keywords: ["bpc loas", "bpc loas quem tem direito", "como solicitar bpc loas", "valor bpc loas 2026", "bpc loas requisitos"]
 heroImage: "../../assets/bpc-loas-explicado.jpg"
 affiliate_cta:
   title: "Quer entender melhor seus direitos previdenciários?"

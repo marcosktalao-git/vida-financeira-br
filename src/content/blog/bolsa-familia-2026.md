@@ -182,7 +182,7 @@ Não. O Bolsa Família é um benefício social, não um empréstimo. O valor é 
 
 Você pode consultar pelo aplicativo Bolsa Família, pelo site do MDS ou pelo telefone 121. Basta informar seu CPF. Se foi aprovado, o aplicativo mostra o valor, a data de pagamento e o extrato. Se ainda está em análise, aparece a mensagem de que o cadastro está sendo processado.
 
-### Preciso de someone para me ajudar a fazer o Cadastro Único?
+### Preciso de alguém para me ajudar a fazer o Cadastro Único?
 
 Não. O cadastro é gratuito e você pode fazer sozinho no CRAS. Se tiver dificuldade, leve um familiar ou peça ajuda ao assistente social do próprio CRAS. Não pague ninguém para fazer seu cadastro — é gratuito e qualquer cobrança é golpe.
 
