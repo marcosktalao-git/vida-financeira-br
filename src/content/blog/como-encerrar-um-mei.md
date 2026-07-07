@@ -1,6 +1,6 @@
 ﻿---
 title: "Como Encerrar um MEI em 2026: Passo a Passo para Fechar Sem Dívidas"
-description: "Aprenda como encerrar um MEI em 2026 da forma correta, evite multas, regularize as pendências e feche o CNPJ sem deixar rastros de dívida na Receita Federal."
+description: "Aprenda como encerrar um MEI em 2026 de forma correta, evite multas, regularize pendências e feche o CNPJ sem deixar dívidas na Receita Federal."
 pubDate: "2026-07-10"
 updatedDate: "2026-07-10"
 tags: ["MEI", "Encerramento", "Empreendedorismo"]
@@ -27,7 +27,7 @@ Nem sempre encerrar o MEI é a melhor decisão. Mas em alguns casos, faz sentido
 
 **Você parou de trabalhar por conta própria**
 
-Se você arrumou um emprego CLT e não pretende mais trabalhar como autônomo, pode encerrar o MEI. Mas avalie antes: manter o MEI ativo custa R$ 80 mensais e mantém seus direitos previdenciários ativos. Muita gente mantém o MEI mesmo tendo emprego CLT.
+Se você arrumou um emprego CLT e não pretende mais trabalhar como autônomo, pode encerrar o MEI. Mas avalie antes: manter o MEI ativo custa de R$ 71,60 a R$ 76,60 mensais (dependendo da atividade) e mantém seus direitos previdenciários ativos. Muita gente mantém o MEI mesmo tendo emprego CLT.
 
 **O faturamento ultrapassou o teto**
 
@@ -39,7 +39,7 @@ Se você abriu o MEI, mas o negócio não vingou e você não pretende mais atua
 
 **Você vai se aposentar**
 
-Se você já tem idade para se aposentar e não pretende mais trabalhar, pode encerrar. Mas lembre-se: você pode continuar contribuindo como facultativo se quiser manter os direitos.
+Se você já tem idade para se aposentar e não pretende mais trabalhar, pode encerrar. Mas lembre-se: você pode continuar contribuindo como facultativo se quiser manter os direitos. Veja nosso guia sobre [como contribuir por conta própria ao INSS](/blog/como-pagar-inss-por-conta-propria/) para entender as opções.
 
 **Mudança de país**
 

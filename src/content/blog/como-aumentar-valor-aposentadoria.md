@@ -27,7 +27,7 @@ Antes de pensar em aumentar o valor, você precisa entender como ele é calculad
 
 **A regra geral (pós-reforma)**
 
-O INSS soma todos os seus salários de contribuição desde julho de 1994 (ou desde quando você começou a contribuir, se foi depois disso). Ele corrige cada valor pela inflação e calcula a média aritmética simples de todos eles.
+O INSS soma todos os seus salários de contribuição desde julho de 1994 (ou desde quando você começou a contribuir, se foi depois disso). Ele corrige cada valor pela inflação e calcula a média aritmética simples de todos eles, conforme a [Lei 8.213/91](https://www.planalto.gov.br/ccivil_03/leis/l8213cons.htm) e a [Emenda Constitucional 103/2019](https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc103.htm).
 
 Dessa média, você recebe:
 
@@ -76,7 +76,7 @@ O INSS calcula a média de **todas** as suas contribuições. Se você tem contr
 
 **Mas atenção: existe um teto**
 
-A contribuição máxima para o INSS em 2026 é de R$ 8.157,41. Mesmo que você ganhe R$ 20 mil por mês, sua contribuição e sua média são limitadas a esse teto. Contribuir acima disso não aumenta o valor do INSS — para isso, existe a previdência privada.
+A contribuição máxima para o INSS em 2026 é de R$ 8.157,41, conforme a [Portaria Interministerial MPS/MF que atualiza a tabela do INSS](https://www.gov.br/previdencia/pt-br). Mesmo que você ganhe R$ 20 mil por mês, sua contribuição e sua média são limitadas a esse teto. Contribuir acima disso não aumenta o valor do INSS — para isso, existe a previdência privada.
 
 ## Estratégias para aumentar o valor da aposentadoria
 
@@ -193,7 +193,7 @@ Não. O INSS calcula a média de todas as suas contribuições desde julho de 19
 
 **Mito: contribuir como MEI aumenta o valor igual a contribuir como autônomo**
 
-O MEI contribui com 5% do salário mínimo (cerca de R$ 75,90). Essa contribuição vale apenas para aposentadoria por idade de um salário mínimo. Não adianta ser MEI esperando construir um benefício alto.
+O MEI contribui com 5% do salário mínimo (cerca de R$ 75,90). Essa contribuição vale apenas para aposentadoria por idade de um salário mínimo. Não adianta ser MEI esperando construir um benefício alto. Se você é MEI, entenda melhor no guia sobre [aposentadoria do MEI](/blog/aposentadoria-do-mei/) como funciona a contagem desse tempo.
 
 **Mito: existe uma fórmula secreta para receber o teto do INSS**
 
