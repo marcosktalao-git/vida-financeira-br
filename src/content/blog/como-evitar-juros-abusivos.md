@@ -4,7 +4,7 @@ description: "Aprenda a identificar e evitar juros abusivos em empréstimos, car
 pubDate: "2026-06-28"
 updatedDate: "2026-06-28"
 tags: ["Empréstimos", "Juros Abusivos"]
-keywords: ["juros abusivos", "como identificar juros abusivos", "juros altos emprestimo", "taxa de juros legal"]
+keywords: ["juros abusivos", "como identificar juros abusivos", "juros altos emprestimo", "taxa de juros legal", "portabilidade de crédito"]
 heroImage: "../../assets/como-evitar-juros-abusivos.jpg"
 affiliate_cta:
   title: "Quer comparar opções antes de decidir?"
@@ -147,6 +147,12 @@ Se o valor envolvido for alto, vale a pena contratar um advogado. Muitos escrit�
 Infelizmente, existem golpistas que se passam por escritórios de advocacia e prometem "limpar seu nome" ou "cancelar sua dívida" mediante pagamento adiantado. Desconfie. Um bom advogado não cobra antes de analisar seu caso.
 
 <!-- AFILIADO: juros abusivos -->
+
+<div class="affiliate-cta">
+  <h3>Quer comparar opções antes de decidir?</h3>
+  <p>Entenda suas opções de crédito com mais clareza antes de assinar qualquer contrato.</p>
+  <a href="https://cakto.app/AQVQPJY/?affiliate=qbWLFHdj" class="cta-button">Saiba mais</a>
+</div>
 
 <!-- ADSENSE FINAL -->
 

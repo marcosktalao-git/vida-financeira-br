@@ -1,10 +1,10 @@
 ﻿---
 title: "Como Recorrer de Benefício Negado pelo INSS (Passo a Passo)"
-description: "Teve seu benefício do INSS negado? Veja o passo a passo completo para recorrer, os prazos e quando vale a pena buscar ajuda jurídica."
+description: "Teve seu benefício do INSS negado? Veja o passo a passo completo para recorrer da decisão, os prazos, os motivos de indeferimento e quando buscar ajuda jurídica."
 pubDate: "2026-07-06"
 updatedDate: "2026-07-06"
 tags: ["Benefícios Sociais", "Recurso INSS"]
-keywords: ["beneficio negado inss", "como recorrer inss", "recurso inss negado", "beneficio inss indeferido"]
+keywords: ["beneficio negado inss", "como recorrer inss", "recurso inss negado", "beneficio inss indeferido", "recurso administrativo inss"]
 heroImage: "../../assets/como-recorrer-beneficio-negado-inss.jpg"
 affiliate_cta:
   title: "Quer entender melhor seus direitos previdenciários?"

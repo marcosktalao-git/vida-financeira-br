@@ -1,10 +1,10 @@
 ﻿---
 title: "Como Simular um Empréstimo Antes de Contratar (Passo a Passo)"
-description: "Aprenda a simular um empréstimo corretamente antes de assinar, comparando taxas, CET e parcelas pra não cair em pegadinha."
+description: "Aprenda a simular um empréstimo corretamente antes de assinar: compare taxas, CET e parcelas em diferentes bancos para não cair em pegadinhas."
 pubDate: "2026-07-01"
 updatedDate: "2026-07-01"
 tags: ["Empréstimos", "Simulação de Crédito"]
-keywords: ["como simular emprestimo", "simulador de emprestimo", "CET emprestimo", "comparar emprestimo bancos"]
+keywords: ["como simular emprestimo", "simulador de emprestimo", "CET emprestimo", "comparar emprestimo bancos", "simular emprestimo passo a passo"]
 heroImage: "../../assets/como-simular-emprestimo-antes-de-contratar.jpg"
 affiliate_cta:
   title: "Quer comparar opções antes de decidir?"

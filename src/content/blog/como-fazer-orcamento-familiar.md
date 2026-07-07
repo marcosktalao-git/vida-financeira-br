@@ -4,7 +4,7 @@ description: "Aprenda a montar um orçamento familiar simples e funcional, mesmo
 pubDate: "2026-06-22"
 updatedDate: "2026-06-22"
 tags: ["Finanças Familiares", "Orçamento Familiar"]
-keywords: ["como fazer orçamento familiar", "orçamento familiar passo a passo", "planilha de orçamento familiar", "como organizar as contas da casa"]
+keywords: ["como fazer orçamento familiar", "orçamento familiar passo a passo", "planilha de orçamento familiar", "como organizar as contas da casa", "controle financeiro familiar"]
 heroImage: "../../assets/como-fazer-orcamento-familiar.jpg"
 affiliate_cta:
   title: "Quer entender finanças de um jeito simples e visual?"
