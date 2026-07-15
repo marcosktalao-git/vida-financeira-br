@@ -1,4 +1,4 @@
----
+﻿---
 import PostCard from '../components/PostCard.astro';
 import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
@@ -10,7 +10,7 @@ const posts = (await getCollection('blog')).sort(
 const [featured, ...rest] = posts;
 ---
 
-<BaseLayout title={SITE_TITLE} description={SITE_DESCRIPTION}>
+<BaseLayout title={`${SITE_TITLE} — INSS, Aposentadoria e MEI Explicados de Forma Simples`} description={SITE_DESCRIPTION}>
 	<section class="hero-gradient relative overflow-hidden border-b border-border-subtle">
 		<div class="pointer-events-none absolute inset-0 opacity-40" aria-hidden="true">
 			<div class="absolute -top-24 right-0 h-96 w-96 rounded-full bg-accent/20 blur-3xl"></div>
