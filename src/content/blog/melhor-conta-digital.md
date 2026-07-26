@@ -3,7 +3,7 @@ title: "Melhor Conta Digital em 2026: Comparativo Completo e Imparcial"
 description: "Compare as melhores contas digitais de 2026: rendimento, taxas, cartão, limites e qual escolher de acordo com seu perfil."
 pubDate: "2026-06-22"
 updatedDate: "2026-06-22"
-tags: ["Contas Digitais", "Bancos Digitais", "Finanças Pessoais"]
+tags: ["Bancos Digitais", "Finanças Pessoais"]
 keywords: ["melhor conta digital", "conta digital 2026", "conta digital gratuita", "qual conta digital escolher", "banco digital comparativo"]
 heroImage: "../../assets/melhor-conta-digital.jpg"
 affiliate_cta:
