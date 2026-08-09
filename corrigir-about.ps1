@@ -1,0 +1,55 @@
+$novoConteudo = @'
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { SITE_TITLE } from '../consts';
+---
+<BaseLayout
+	title={`Sobre | ${SITE_TITLE}`}
+	description="Conheça a história por trás do Vida Financeira BR e por que ajudamos brasileiros a entender o INSS, organizar o MEI e cuidar das finanças da família."
+>
+	<section class="mx-auto max-w-3xl px-4 py-16 sm:px-6 lg:px-8 lg:py-20">
+		<header class="mb-12">
+			<p class="text-sm font-semibold tracking-widest text-accent uppercase">Sobre</p>
+			<h1 class="mt-3 font-serif text-3xl font-semibold text-fg sm:text-4xl">Quem escreve aqui</h1>
+		</header>
+		<div class="prose-custom space-y-6 text-muted">
+			<p class="text-lg leading-relaxed text-fg">
+				Meu nome é Marcos, e eu criei o Vida Financeira BR depois de ver de perto quanta gente
+				próxima de mim — família, amigos, colegas de trabalho — se perdia tentando entender
+				regras de INSS, MEI e organização financeira que deveriam ser simples, mas são
+				explicadas de um jeito cheio de juridiquês.
+			</p>
+			<p>
+				Trabalho há alguns anos com marketing digital e produção de conteúdo, e decidi aplicar
+				essa experiência num problema que via repetidamente: gente que tinha direito a um
+				benefício e não sabia, gente que abria MEI sem entender os custos reais, gente que caía
+				em dívida por não ter clareza sobre juros e taxas.
+			</p>
+			<p>
+				Cada artigo aqui é escrito e revisado com base em fontes oficiais — Meu INSS, Receita
+				Federal, Banco Central — e atualizado quando as regras mudam. Não sou advogado nem
+				contador, e não substituo o trabalho de um profissional para o seu caso específico. O
+				que ofereço é um ponto de partida claro, para você chegar mais preparado a essa conversa
+				com quem pode te atender formalmente.
+			</p>
+			<div class="rounded-xl border border-border bg-bg-card p-6">
+				<p class="font-serif text-lg font-semibold text-fg">Nossa promessa</p>
+				<p class="mt-2">
+					Aqui você não vai encontrar fórmula mágica. Vai encontrar conteúdo direto, baseado em
+					regras reais do INSS e da Receita Federal, escrito pra quem não tem tempo de virar
+					especialista, só precisa resolver o problema.
+				</p>
+			</div>
+			<p>
+				Se você tiver dúvida sobre algum artigo, sugestão de tema, ou encontrar alguma informação
+				desatualizada, me manda uma mensagem pela
+				<a href="/contato/" class="text-accent underline underline-offset-2">página de contato</a>.
+				Leio e respondo pessoalmente.
+			</p>
+		</div>
+	</section>
+</BaseLayout>
+'@
+
+Set-Content -Path "src\pages\about.astro" -Value $novoConteudo -Encoding UTF8 -NoNewline
+Write-Host "Pagina about.astro atualizada com encoding correto" -ForegroundColor Green
