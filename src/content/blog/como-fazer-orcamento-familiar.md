@@ -173,7 +173,7 @@ IPVA, IPTU, material escolar, seguro, dentista, troca de pneu. Some o total anua
 
 Se um parceiro resiste, comece 30 dias só com o seu controle e apresente o resultado. Evidência convence mais que sermão.
 
-## Erros que sabotar o segundo mês
+## Erros que sabotam o segundo mês
 
 1. Categorias demais no início (comece com 6–8)
 2. Esquecer o cartão até a fatura fechar
