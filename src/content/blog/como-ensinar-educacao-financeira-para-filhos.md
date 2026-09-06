@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Como Ensinar Educação Financeira para os Filhos (Por Idade)"
 description: "Seus filhos vão repetir seus erros financeiros? Aprenda como ensinar educação financeira para crianças com dicas práticas separadas por idade, dos 6 aos 17 anos."
 pubDate: "2026-06-26"
@@ -87,7 +87,7 @@ Nessa fase, o adolescente já entende conceitos abstratos e pode ser exposto a s
 
 **Incentive o primeiro trabalho ou "primeiro negócio"**
 
-Babá, aulas de reforço, venda de doces, criação de conteúdo digital, ajuda em um pequeno negócio da família. A experiência de ganhar o próprio dinheiro é transformadora. Se o adolescente já demonstra interesse em empreender, vale a pena conversar sobre o que é ser MEI — veja nosso guia sobre se [vale a pena abrir um MEI](/blog/vale-a-pena-abrir-um-mei/) como porta de entrada para o empreendedorismo juvenil.
+Babá, aulas de reforço, venda de doces, criação de conteúdo digital, ajuda em um pequeno negócio da família. A experiência de ganhar o próprio dinheiro é transformadora. Se o adolescente já demonstra interesse em empreender, vale a pena conversar sobre o que é ser MEI — veja nosso guia sobre se [vale a pena abrir um MEI](/blog/como-abrir-um-mei/) como porta de entrada para o empreendedorismo juvenil.
 
 **Abra uma conta digital para ele**
 

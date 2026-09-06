@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Reserva de Emergência para Família: Quanto Guardar e Onde Deixar"
 description: "Descubra quanto sua família precisa guardar de reserva de emergência e onde deixar esse dinheiro para não perder rendimento."
 pubDate: "2026-06-24"
@@ -168,7 +168,7 @@ Sim. A reserva não é um gasto — é um adiantamento. Se você usou R$ 3.000 d
 
 ### O Nubank é seguro para guardar a reserva de emergência?
 
-Sim. O Nubank é registrado como banco múltiplo no Banco Central e tem garantia do FGC até R$ 250 mil. O dinheiro na NuConta rende 100% do CDI automaticamente e pode ser sacado via Pix a qualquer momento. Veja nossa análise completa sobre se o [Nubank vale a pena](/blog/nubank-vale-a-pena/) para entender todos os prós e contras.
+Sim. O Nubank é registrado como banco múltiplo no Banco Central e tem garantia do FGC até R$ 250 mil. O dinheiro na NuConta rende 100% do CDI automaticamente e pode ser sacado via Pix a qualquer momento. Veja nossa análise completa sobre se o [Nubank vale a pena](/blog/melhor-conta-digital/) para entender todos os prós e contras.
 
 ## Conclusão
 

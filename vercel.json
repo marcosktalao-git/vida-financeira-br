@@ -1,0 +1,84 @@
+{
+  "redirects": [
+    {
+      "source": "/blog/nubank-vale-a-pena",
+      "destination": "/blog/melhor-conta-digital",
+      "permanent": true
+    },
+    {
+      "source": "/blog/nubank-vale-a-pena/",
+      "destination": "/blog/melhor-conta-digital/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/inter-vale-a-pena",
+      "destination": "/blog/melhor-conta-digital",
+      "permanent": true
+    },
+    {
+      "source": "/blog/inter-vale-a-pena/",
+      "destination": "/blog/melhor-conta-digital/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/c6-bank-vale-a-pena",
+      "destination": "/blog/melhor-conta-digital",
+      "permanent": true
+    },
+    {
+      "source": "/blog/c6-bank-vale-a-pena/",
+      "destination": "/blog/melhor-conta-digital/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/picpay-vale-a-pena",
+      "destination": "/blog/melhor-conta-digital",
+      "permanent": true
+    },
+    {
+      "source": "/blog/picpay-vale-a-pena/",
+      "destination": "/blog/melhor-conta-digital/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/inter-ou-nubank",
+      "destination": "/blog/melhor-conta-digital",
+      "permanent": true
+    },
+    {
+      "source": "/blog/inter-ou-nubank/",
+      "destination": "/blog/melhor-conta-digital/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/como-corrigir-erros-no-cnis",
+      "destination": "/blog/como-consultar-seu-cnis",
+      "permanent": true
+    },
+    {
+      "source": "/blog/como-corrigir-erros-no-cnis/",
+      "destination": "/blog/como-consultar-seu-cnis/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/vale-a-pena-abrir-um-mei",
+      "destination": "/blog/como-abrir-um-mei",
+      "permanent": true
+    },
+    {
+      "source": "/blog/vale-a-pena-abrir-um-mei/",
+      "destination": "/blog/como-abrir-um-mei/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/quanto-custa-um-mei",
+      "destination": "/blog/como-abrir-um-mei",
+      "permanent": true
+    },
+    {
+      "source": "/blog/quanto-custa-um-mei/",
+      "destination": "/blog/como-abrir-um-mei/",
+      "permanent": true
+    }
+  ]
+}

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Como Emitir Nota Fiscal MEI em 2026: Passo a Passo Completo"
 description: "Aprenda como emitir nota fiscal sendo MEI em 2026, quais tipos de nota existem, quando você é obrigado a emitir e como fazer pelo portal gratuito."
 pubDate: "2026-07-09"
@@ -307,4 +307,4 @@ Emitir nota fiscal sendo MEI é simples, gratuito e necessário para quem quer c
 
 O segredo é se habilitar assim que abrir o MEI, antes mesmo do primeiro cliente pedir. Assim você evita correria e não perde negócios.
 
-Agora que você já sabe emitir nota fiscal, entenda todos os custos envolvidos em manter seu MEI. Leia nosso guia sobre [quanto custa um MEI](/blog/quanto-custa-um-mei/) e veja como planejar suas finanças. E para não errar nos impostos, confira nosso artigo completo sobre [impostos do MEI](/blog/impostos-do-mei/).
+Agora que você já sabe emitir nota fiscal, entenda todos os custos envolvidos em manter seu MEI. Leia nosso guia sobre [quanto custa um MEI](/blog/como-abrir-um-mei/) e veja como planejar suas finanças. E para não errar nos impostos, confira nosso artigo completo sobre [impostos do MEI](/blog/impostos-do-mei/).

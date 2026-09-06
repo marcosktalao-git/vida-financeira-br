@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Quais Impostos o MEI Paga em 2026: Guia Completo e Atualizado"
 description: "Descubra quais impostos o MEI paga em 2026, os valores atualizados do DAS, como calcular e quando pagar para evitar multas e problemas com a Receita Federal."
 pubDate: "2026-07-04"
@@ -280,4 +280,4 @@ O MEI paga muito pouco imposto comparado a qualquer outro regime tributário. Me
 
 A única exigência real é manter o pagamento do DAS em dia e fazer a declaração anual até maio. São duas obrigações simples que garantem seus direitos previdenciários e mantêm seu CNPJ regular.
 
-Agora que você já sabe exatamente quais impostos o MEI paga, entenda também os demais custos envolvidos. Leia nosso guia sobre [quanto custa um MEI](/blog/quanto-custa-um-mei/) e veja o panorama completo. Se ainda não abriu o seu, confira o passo a passo para [como abrir um MEI](/blog/como-abrir-um-mei/).
+Agora que você já sabe exatamente quais impostos o MEI paga, entenda também os demais custos envolvidos. Leia nosso guia sobre [quanto custa um MEI](/blog/como-abrir-um-mei/) e veja o panorama completo. Se ainda não abriu o seu, confira o passo a passo para [como abrir um MEI](/blog/como-abrir-um-mei/).

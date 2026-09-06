@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Como Encerrar um MEI em 2026: Passo a Passo para Fechar Sem Dívidas"
 description: "Aprenda como encerrar um MEI em 2026 de forma correta, evite multas, regularize pendências e feche o CNPJ sem deixar dívidas na Receita Federal."
 pubDate: "2026-07-10"
@@ -309,4 +309,4 @@ Encerrar um MEI é simples, rápido e gratuito — desde que você esteja em dia
 
 Nunca simplesmente pare de pagar o DAS. As dívidas não somem e podem trazer consequências sérias para seu CPF. Encerre oficialmente, guarde o comprovante e siga sua vida sem pendências.
 
-Antes de encerrar, reflita se o MEI realmente não faz mais sentido para você. Leia nosso artigo sobre [vale a pena abrir um MEI](/blog/vale-a-pena-abrir-um-mei/) e veja se não vale reconsiderar. E se sua decisão for encerrar, lembre-se de entender os [impostos do MEI](/blog/impostos-do-mei/) que precisam estar em dia para a baixa.
+Antes de encerrar, reflita se o MEI realmente não faz mais sentido para você. Leia nosso artigo sobre [vale a pena abrir um MEI](/blog/como-abrir-um-mei/) e veja se não vale reconsiderar. E se sua decisão for encerrar, lembre-se de entender os [impostos do MEI](/blog/impostos-do-mei/) que precisam estar em dia para a baixa.

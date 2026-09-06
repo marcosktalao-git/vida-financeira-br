@@ -2,7 +2,7 @@
 title: "Como Consultar e Corrigir seu CNIS em 2026: Passo a Passo Completo"
 description: "Aprenda a consultar seu extrato CNIS pelo Meu INSS e descubra como corrigir erros que podem atrasar ou negar sua aposentadoria."
 pubDate: "2026-06-17"
-updatedDate: "2026-06-17"
+updatedDate: "2026-09-06"
 tags: ["INSS", "CNIS", "Aposentadoria"]
 keywords: ["cnis", "consultar cnis", "corrigir cnis", "extrato inss", "como ver cnis"]
 heroImage: "../../assets/como-consultar-seu-cnis.jpg"
@@ -13,184 +13,210 @@ affiliate_cta:
   url: "https://cakto.app/AQVQPJY/?affiliate=qbWLFHdj"
 ---
 
-Você já ouviu falar do CNIS? Esse documento é a peça mais importante para quem vai pedir aposentadoria pelo INSS. Se ele estiver errado, seu benefício pode ser negado ou você pode receber menos do que tem direito.
+Em 2024, um motorista de São José dos Campos pediu aposentadoria por idade com a certeza de ter 18 anos de contribuição. O INSS reconheceu 14. Faltavam quatro anos de uma transportadora que fechou em 2009 — vínculo que nunca entrou direito no Cadastro Nacional de Informações Sociais. Ele só descobriu depois do indeferimento. Com carteira antiga, holerites amarelados e duas testemunhas, o período foi incluído meses depois. O atraso custou benefício e nervos.
 
-O CNIS — Cadastro Nacional de Informações Sociais — é o extrato que reúne todo o seu histórico de trabalho e contribuições. É com base nele que o INSS calcula seu tempo de contribuição e o valor da sua aposentadoria.
-
-Neste guia, vou te mostrar exatamente como consultar seu CNIS, identificar erros e corrigir cada um deles — sem burocracia e sem sair de casa.
+O CNIS é o extrato que o INSS trata como verdade sobre a sua vida laboral. Consultar não é burocracia de quem “já está perto de se aposentar”: é o checkup que evita surpresa quando o pedido oficial entrar na fila. Abaixo, o caminho completo em 2026 — do login no [Meu INSS](https://meu.inss.gov.br) até correção online, documentos (incluindo militar e rural) e o que fazer quando a empresa sumiu do mapa.
 
 <!-- ADSENSE TOPO -->
 
-## O que é o CNIS e para que ele serve
+## O que é o CNIS e por que ele manda no seu benefício
 
-O CNIS é um banco de dados do governo federal que reúne todas as informações sobre sua vida profissional e previdenciária desde 1976.
+O CNIS (Cadastro Nacional de Informações Sociais) concentra vínculos empregatícios, remunerações, contribuições de autônomo/facultativo, períodos de benefício e outras informações usadas pelo INSS para:
 
-Ele armazena dados como:
+- Calcular tempo de contribuição
+- Verificar carência (número mínimo de contribuições)
+- Definir o salário de benefício e a renda mensal inicial
+- Analisar auxílio-doença, salário-maternidade, pensão por morte e aposentadorias
 
-- Vínculos empregatícios registrados na carteira de trabalho
-- Contribuições como autônomo ou facultativo
-- Períodos de benefícios recebidos (auxílio-doença, salário-maternidade, afastamento por acidente)
-- Tempo de serviço militar
-- Atividade rural reconhecida
+Se um emprego não aparece no extrato, para o sistema aquele período **não existe** — até você comprovar e o INSS atualizar o cadastro.
 
-O INSS usa o CNIS como fonte oficial para praticamente tudo: calcular seu tempo de contribuição, verificar se você cumpre os requisitos da aposentadoria, definir o valor do benefício e liberar outros direitos como auxílio-doença e pensão por morte.
+**O que costuma constar no extrato:**
 
-Em outras palavras: o que está no CNIS é o que o INSS considera verdade. Se um vínculo não aparece lá, para eles você nunca trabalhou naquele lugar.
+- Empregos com carteira (CLT) e remunerações mês a mês
+- Contribuições como individual ou facultativo (carnês / GPS / DAS, conforme o caso)
+- Benefícios já recebidos (ex.: auxílio por incapacidade)
+- Indicadores e alertas (pendências, divergências, vínculos com “remuneração zerada”)
+- Em muitos casos, informações que ainda precisam de acerto manual (ex.: tempo rural ou militar não automaticamente convertidos)
 
-## Como consultar seu CNIS pelo Meu INSS passo a passo
+Regra prática: baixe o CNIS **hoje**, compare com documentos físicos e só então simule ou peça benefício. O guia de [como se aposentar pelo INSS em 2026](/blog/como-se-aposentar-pelo-inss-em-2026/) fica bem mais útil com o extrato já revisado.
 
-Consultar o CNIS é gratuito e pode ser feito inteiramente pela internet em poucos minutos. Não precisa ir a uma agência nem enfrentar filas.
+## Como consultar o CNIS no Meu INSS (passo a passo)
 
-**Passo 1 — Acesse o Meu INSS**
+A consulta é gratuita. Dá para fazer no celular ou no computador.
 
-Entre no site [meu.inss.gov.br](https://meu.inss.gov.br) ou baixe o aplicativo "Meu INSS" na Google Play ou na App Store.
+**Passo 1 — Acesse o canal oficial**  
+Entre em [meu.inss.gov.br](https://meu.inss.gov.br) ou abra o app **Meu INSS** (lojas oficiais Google Play / App Store). Evite “consultores” que pedem senha do gov.br — isso é risco de golpe.
 
-**Passo 2 — Faça login**
+**Passo 2 — Login com gov.br**  
+Use CPF e senha. Conta com verificação em dois fatores reduz chance de invasão. Se ainda não tem cadastro, crie e eleve o nível da conta se o sistema pedir.
 
-Use seu CPF e a senha do Gov.br. Se você ainda não tem conta, crie uma — o cadastro é simples e leva menos de 10 minutos.
+**Passo 3 — Abra o Extrato de Contribuições (CNIS)**  
+No menu de serviços, busque por “CNIS”, “Extrato de Contribuições” ou “Extrato previdenciário”. Toque na opção oficial do INSS.
 
-**Passo 3 — Encontre o extrato**
+**Passo 4 — Leia o extrato com calma**  
+A tela lista vínculos e competências. Observe:
 
-No menu principal, clique em "Extrato de Contribuições (CNIS)". O sistema pode pedir uma confirmação de segurança.
+- Data de início e fim de cada emprego  
+- Nome / CNPJ do empregador  
+- Sequência de remunerações (meses faltando = buraco)  
+- Contribuições avulsas (autônomo)  
+- Alertas ou pendências destacadas pelo sistema  
 
-**Passo 4 — Visualize e baixe**
+**Passo 5 — Baixe PDF e, se disponível, XML**  
+O PDF serve para arquivo pessoal e para levar a um atendimento. O XML ajuda quem for fazer análise mais detalhada (contador ou advogado previdenciário). Guarde em pasta na nuvem **e** no celular.
 
-Pronto. Seu extrato completo aparece na tela com todos os vínculos e contribuições registrados. Você pode visualizar online ou baixar em PDF. Recomendo que baixe o PDF e leia com calma em casa.
+**Passo 6 — Tire um “raio-X” em 20 minutos**  
+Separe CTPS (física ou digital), carnês, DAS (se for MEI), GPS e contracheques. Risque no papel: “bateu” / “não aparece” / “data errada” / “salário errado”. Essa lista vira o roteiro da correção.
 
-**Dica importante:** Baixe também o arquivo XML do CNIS. Esse formato é útil se você precisar de uma análise mais detalhada com um contador ou advogado previdenciário.
+**Dica de frequência:** quem está a menos de cinco anos da aposentadoria deve olhar o CNIS pelo menos uma vez por ano. Quem mudou de emprego várias vezes na vida informal ou teve empresa fechada deve olhar agora — não na semana do pedido.
 
-## Como identificar erros no seu CNIS
+## Como identificar erros (checklist do que mais aparece)
 
-Agora que você tem o extrato em mãos, é hora de colocar os óculos e conferir cada informação. Os erros mais comuns são:
+Nem todo “estranho” no extrato é erro grave, mas estes sete merecem atenção imediata:
 
-**Vínculo de trabalho que não aparece**
+**1. Vínculo que não existe no CNIS**  
+Você trabalhou 2008–2012 numa metalúrgica e não há linha nenhuma. Clássico quando a empresa não transmitiu dados ou transmitiu CPF errado.
 
-Você trabalhou em uma empresa durante anos e esse período simplesmente não está lá. Isso acontece quando a empresa não repassou os dados ao INSS ou repassou com erro.
+**2. Datas trocadas**  
+Admissão em 03/2015 no papel e 03/2016 no sistema = um ano a menos. Em regras de transição, 12 meses mudam o jogo.
 
-**Período de contribuição incorreto**
+**3. Remuneração zerada ou meses em branco no meio do contrato**  
+Vínculo aberto, mas vários meses sem salário lançado. Isso reduz a média e pode afetar o cálculo do benefício.
 
-O vínculo está registrado, mas a data de início, a data de saída ou o salário estão errados. Isso pode reduzir seu tempo de contribuição e o valor do benefício.
+**4. Contribuição de autônomo / MEI que sumiu**  
+Você pagou carnê ou DAS e a competência não aparece. Às vezes o código de pagamento ou o NIT/PIS estava divergente.
 
-**Contribuições como autônomo perdidas**
+**5. Vínculo duplicado**  
+O mesmo período em dois empregadores (ou duas vezes no mesmo). Gera inconsistência e trava análise automática.
 
-Você pagou seus carnês como contribuinte individual, mas eles não aparecem no extrato. Pode ser erro de digitação do código de pagamento ou problema no processamento da guia.
+**6. Nome, filiação ou data de nascimento divergentes**  
+Divergência cadastral atrasa tudo: o sistema “não te encontra” direito na hora de conceder.
 
-**Vínculo duplicado**
+**7. Tempo especial, rural ou militar fora do extrato útil**  
+Serviço militar, atividade rural e exposição a agentes nocivos muitas vezes **exigem pedido específico** e documentos — não entram “sozinhos” como um emprego CLT recente.
 
-O mesmo período aparece registrado duas vezes, como se você tivesse trabalhado em dois lugares ao mesmo tempo. Isso gera inconsistência e pode travar a análise do INSS.
-
-**Dados pessoais errados**
-
-Nome com grafia diferente, data de nascimento incorreta, filiação trocada. Qualquer divergência nos dados cadastrais pode gerar problemas na hora do pedido.
-
-**Como conferir:** pegue suas carteiras de trabalho antigas, carnês de contribuição e contracheques e compare cada informação com o que está no CNIS. Se algo não bater, anote o período e o tipo de erro.
+**Exemplo concreto:** Maria tem 61 anos, 16 anos claros no CNIS e mais 3 anos em firma que faliu em 2005. Sem corrigir, ela pode cair abaixo da carência ou do tempo exigido na regra escolhida. Com CTPS + testemunhas, esses 36 meses voltam ao jogo antes do requerimento.
 
 <!-- ADSENSE MEIO -->
 
-## Como solicitar a correção do CNIS
+## Como pedir a correção online pelo Meu INSS
 
-Se você encontrou algum erro, a correção pode ser feita diretamente pelo Meu INSS, sem sair de casa.
+Na maior parte dos casos de vínculo CLT com documento em mãos, o caminho começa remoto.
 
-**Correção pela internet (mais rápida)**
+**1.** Acesse [meu.inss.gov.br](https://meu.inss.gov.br) → Extrato de Contribuições (CNIS)  
+**2.** Localize a opção de **atualizar**, **corrigir** ou **solicitar alteração** (a nomenclatura na interface pode variar; o serviço segue vinculado ao CNIS / atualização de vínculos)  
+**3.** Escolha o vínculo ou a competência com problema  
+**4.** Informe o que está errado (data, empregador, remuneração, inclusão de período)  
+**5.** Anexe os arquivos (PDF/JPG legíveis, preferencialmente coloridos, sem corte na margem da carteira)  
+**6.** Envie e **anote o número do protocolo**
 
-1. Acesse o Meu INSS e vá em "Extrato de Contribuições (CNIS)"
-2. Clique em "Solicitar Alteração"
-3. Selecione o vínculo ou contribuição que está incorreto
-4. Informe os dados certos e anexe os documentos que comprovam a informação
-5. Envie a solicitação
+Acompanhe em **Meus Pedidos**. Se o INSS pedir documento complementar, responda pelo próprio canal dentro do prazo — pedido sem resposta vira indeferimento por falta de prova.
 
-O sistema gera automaticamente um número de protocolo. Guarde esse número — é com ele que você vai acompanhar o andamento.
+### Quando a correção presencial ainda entra
 
-**Correção presencial**
+- Sistema online indisponível para o tipo de acerto  
+- Exigência de justificação administrativa com oitiva de testemunhas  
+- Documentos que o digitalização não resolveu (ilegibilidade, autenticidade)  
+- Casos de tempo rural, militar ou especial com análise mais complexa  
 
-Se a solicitação online não for suficiente, o INSS pode pedir que você vá a uma agência. Nesse caso, leve todos os documentos originais e cópias.
+Agende pelo Meu INSS / Central 135 e leve originais + cópias organizadas por vínculo (uma pasta por emprego ajuda o servidor e você).
 
-**Documentos que ajudam a comprovar o vínculo:**
+## Documentos que realmente funcionam (CLT, militar, rural)
 
-- Carteira de Trabalho (CTPS) com o registro correto
-- Carnês de contribuição pagos
-- Holerites e contracheques da época
+Quanto mais contemporâneo ao fato (da época do trabalho), melhor. Hierarquia prática:
+
+### Emprego urbano (CLT)
+
+- Carteira de Trabalho (páginas de foto, qualificação e contrato)
 - Contrato de trabalho assinado
-- Declaração do empregador confirmando o vínculo
-- GPS (Guia da Previdência Social) quitadas
-- Certidão de tempo de contribuição emitida pela empresa
+- Contracheques / holerites / recibos de pagamento
+- Termo de rescisão, TRCT, comprovante de FGTS (quando houver)
+- Declaração do empregador em papel timbrado (se a empresa ainda existe)
+- Anotações de ponto, crachá, comunicação interna — como reforço, não como prova única
 
-**Importante:** se a empresa ainda existe, peça uma declaração por escrito confirmando o período trabalhado e os salários. Isso acelera muito o processo.
+### Contribuições como autônomo / individual / facultativo
 
-## Quanto tempo demora a correção
+- Carnês quitados ou GPS com autenticação bancária
+- Extratos bancários que mostrem o débito na data do pagamento
+- Comprovantes de DAS, se a contribuição veio do MEI (o tratamento previdenciário segue regras do enquadramento)
 
-O prazo depende do tipo de correção e da complexidade do caso.
+### Serviço militar
 
-**Correções simples** como atualização de dados pessoais costumam ser resolvidas em 5 a 15 dias úteis.
+- Certificado de reservista / certificações das Forças Armadas
+- Declaração ou certidão de tempo de serviço militar emitida pelo órgão competente
+- Documentos que indiquem período exato (início e fim)
 
-**Correções de vínculo com documentação completa** ficam entre 30 e 60 dias úteis.
+O tempo de serviço militar obrigatório pode ser contado para fins previdenciários mediante comprovação — não assuma que “já está no CNIS” só porque você serviu. Peça a inclusão/acerto com a certidão em mãos.
 
-**Casos que exigem análise presencial ou justificação administrativa** podem levar de 60 a 120 dias úteis.
+### Atividade rural
 
-Você pode acompanhar o andamento pelo próprio Meu INSS, na opção "Meus Pedidos". Basta informar o número do protocolo.
+- Documentos de sindicato rural, notas do produtor, contratos de arrendamento/parceria
+- Declarações de sindicatos ou órgãos oficiais no modelo exigido pelo INSS
+- Provas de residência no meio rural no período
+- Certidões de nascimento de filhos com indicação de profissão dos pais (reforço)
+- Testemunhas que trabalharam na mesma atividade/período, quando cabível
 
-**E se demorar mais que o previsto?**
+Tempo rural tem requisitos próprios (qualidade de segurado especial, etc.). Separe um dossiê só para esse período; misturar rural com urbano sem organização atrasa a análise.
 
-Ligue para a Central 135 e informe seu CPF e o número do protocolo. Se o prazo já passou, registre uma reclamação na Ouvidoria do INSS.
+### Empresa fechada, falida ou “sumida”
 
-## O que fazer se a empresa não existe mais
+Ainda dá para comprovar. Ordem sugerida:
 
-Esse é um dos casos que mais gera dúvidas e preocupação. A empresa fechou, faliu ou simplesmente sumiu. E agora?
+1. **Papéis da época:** CTPS + holerites + recibos + FGTS  
+2. **Registros públicos:** junta comercial (baixa da empresa), processos trabalhistas antigos, extratos do FGTS  
+3. **Testemunhas:** colegas com nome, CPF e telefone — preferencialmente quem não seja parente próximo, se o INSS for ouvir  
+4. **Justificação Administrativa (JA):** procedimento do INSS para colher prova testemunhal quando o documento está incompleto  
+5. **Via judicial:** se o administrativo negar e a prova for robusta, avaliação com advogado previdenciário na Justiça Federal
 
-A boa notícia é que ainda é possível comprovar o vínculo de trabalho, mesmo sem a empresa.
+**Exemplo:** João tem CTPS com admissão em 1998 e demissão sem data de saída preenchida; a firma encerrou atividades em 2003. Ele junta holerites de 1999–2002, extrato do FGTS e duas testemunhas. Na JA, o período é reconhecido. Sem os holerites, só a carteira incompleta, o risco de negativa sobe muito.
 
-**Documentos alternativos**
+## Prazos: quanto tempo a correção leva
 
-Apresente contracheques, recibos de pagamento, holerites, anotações na carteira de trabalho, registros de ponto. Qualquer documento da época que comprove que você trabalhou lá serve como prova.
+Os prazos variam conforme a fila e a complexidade:
 
-**Testemunhas**
+| Tipo de pedido | Prazo típico (estimativa) |
+| --- | --- |
+| Ajuste cadastral simples | 5 a 15 dias úteis |
+| Inclusão/acerto de vínculo com documentos claros | 30 a 60 dias úteis |
+| Justificação administrativa / prova testemunhal | 60 a 120 dias úteis (ou mais) |
+| Controvérsia com indeferimento e recurso | meses — depende da via |
 
-O INSS pode aceitar prova testemunhal. Colegas de trabalho que também estavam na empresa podem confirmar seu vínculo. Anote nome, CPF e contato de cada um.
+Se o prazo informado no protocolo estourou, ligue na **Central 135** com CPF e número do pedido. Ouvidoria do INSS e canais de atendimento ao cidadão existem para cobrança de andamento — use com o protocolo em mãos, não só com reclamação genérica.
 
-**Justificação Administrativa (JA)**
-
-Esse é um procedimento oficial do INSS para comprovar fatos quando não existem documentos. Você indica as testemunhas e elas são ouvidas formalmente. O processo é mais demorado, mas costuma funcionar.
-
-**Ação judicial**
-
-Se o INSS negar o reconhecimento do vínculo, você pode entrar com uma ação na Justiça Federal. Um advogado previdenciário pode avaliar seu caso e ingressar com o pedido.
-
-**Dica:** quanto mais provas você juntar, melhor. Comece a catar documentos antigos, fotos, contracheques, tudo que comprove que você trabalhou na empresa.
+**Não espere o dia do requerimento da aposentadoria para iniciar correção demorada.** Quem precisa de JA deve começar com antecedência de vários meses.
 
 <!-- ADSENSE FINAL -->
 
 <!-- AFILIADO: consultoria previdenciária -->
 
-## Perguntas frequentes sobre o CNIS
+## Perguntas frequentes
 
-### O que é o CNIS e como faço para consultar?
+### Consultar o CNIS custa alguma coisa?
 
-O CNIS é o Extrato de Contribuições do INSS, o documento que reúne todo seu histórico de trabalho e pagamentos à Previdência. Para consultar, acesse o aplicativo Meu INSS ou o site meu.inss.gov.br, faça login e clique em "Extrato de Contribuições (CNIS)". A consulta é gratuita.
+Não. A consulta pelo [Meu INSS](https://meu.inss.gov.br) e pelo aplicativo oficial é gratuita. Desconfie de sites que cobram só para “gerar extrato” — eles costumam repetir o que o gov.br já entrega.
 
-### Como saber se meu CNIS está correto?
+### Com que frequência eu devo olhar o CNIS?
 
-Compare cada vínculo e contribuição do extrato com seus documentos físicos: carteiras de trabalho, carnês de contribuição, contracheques e contratos. Se tudo bater, seu CNIS está correto. Se encontrar diferença, anote e solicite a correção pelo Meu INSS.
+Pelo menos uma vez por ano se você está na fase final da vida contributiva; imediatamente após demissões, períodos longos de contribuição como autônomo, serviço militar a averbação, ou quando descobrir que uma empresa antiga fechou. Depois de qualquer pedido de correção, baixe o extrato de novo para confirmar se o acerto entrou.
 
-### O que acontece se eu não corrigir o CNIS?
+### Achatei um erro: preciso de advogado?
 
-O INSS usa as informações do CNIS para calcular seu tempo de contribuição e o valor do benefício. Se houver erros, seu pedido de aposentadoria pode ser negado ou você pode receber menos do que tem direito. Quanto antes corrigir, melhor.
+Para inclusão de vínculo com CTPS e holerites claros, muita gente resolve sozinha pelo Meu INSS. Advogado previdenciário faz mais sentido quando há empresa falida sem documentos, tempo rural controverso, atividade especial, vários vínculos quebrados ou benefício já indeferido. Corrigir cedo reduz a chance de precisar de ação judicial depois.
 
-### Preciso de advogado para corrigir o CNIS?
+### Tempo de serviço militar e rural entram automaticamente?
 
-Não. Corrigir o CNIS pelo Meu INSS é simples e qualquer pessoa pode fazer. Mas se o caso for complexo, com muitos vínculos antigos ou empresas fechadas, um advogado previdenciário pode ajudar a acelerar o processo e garantir que nada seja perdido.
+Nem sempre. Militar e rural costumam exigir documentos específicos e, em vários casos, pedido de reconhecimento/acerto. Não conte esses períodos na conta mental da aposentadoria até eles aparecerem corretamente no CNIS ou estarem reconhecidos em processo administrativo.
 
-### Tem custo para corrigir o CNIS?
+### O que acontece se eu pedir aposentadoria com CNIS errado?
 
-Não. A solicitação de correção pelo Meu INSS é totalmente gratuita. Você pode ter custos apenas se precisar emitir documentos como certidões ou se contratar um advogado para auxiliar no processo.
+O INSS analisa com base no que está no sistema e nos documentos do processo. Vínculo faltando pode gerar indeferimento por falta de tempo/carência ou benefício menor. Corrigir depois é possível, mas você perde meses (ou anos) de renda. O caminho racional é: consultar → corrigir → simular → requerer.
+
+### Deu divergência de nome ou data de nascimento. Isso atrasa o benefício?
+
+Sim. Divergência cadastral é causa clássica de pendência. Ajuste os dados no Meu INSS / gov.br com documento oficial (RG, certidão) antes ou em paralelo à correção de vínculos. Benefício “quase concedido” trava por detalhe de filiação trocada ou nome abreviado diferente do CPF.
 
 ## Conclusão
 
-Seu CNIS é o documento mais importante para a sua aposentadoria. Um erro simples nele pode custar meses de espera ou até a perda do benefício.
+O CNIS não é um PDF decorativo: é a base sobre a qual o INSS decide se você tem tempo, carência e valor de benefício. Consultar no [Meu INSS](https://meu.inss.gov.br), confrontar com carteiras e carnês e corrigir vínculos — inclusive militar, rural e empregos de empresa falida — é trabalho de prevenção, não de desespero na véspera do pedido.
 
-A boa notícia é que consultar e corrigir é mais fácil do que parece. Com o passo a passo que mostrei aqui, você pode fazer tudo pelo celular ou computador, sem sair de casa.
-
-Pare agora, acesse o Meu INSS, baixe seu extrato e confira cada linha. Se encontrar algo errado, corrija antes de pedir a aposentadoria.
-
-Quer entender melhor o processo completo de aposentadoria? Leia nosso guia sobre [como se aposentar pelo INSS em 2026](/blog/como-se-aposentar-pelo-inss-em-2026/).
-
-E se você quer saber mais sobre uma modalidade específica, confira o artigo completo sobre [aposentadoria por idade](/blog/regras-atuais-inss-2026/).
+Reserve uma tarde: baixe o extrato, monte a lista de pendências, anexe provas legíveis e acompanhe o protocolo. Quando o cadastro estiver limpo, aí sim avance para o planejamento completo em [como se aposentar pelo INSS em 2026](/blog/como-se-aposentar-pelo-inss-em-2026/). Se parte das suas contribuições veio (ou virá) do MEI, mantenha o DAS em dia e, na dúvida sobre formalização, veja também [como abrir um MEI](/blog/como-abrir-um-mei/).

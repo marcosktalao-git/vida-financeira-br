@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Como Migrar do Banco Tradicional para o Banco Digital"
 description: "Veja o passo a passo seguro para migrar do banco tradicional para uma conta digital sem perder histórico, evitar tarifas e manter todos os débitos automáticos organizados."
 pubDate: "2026-07-16"
@@ -53,7 +53,7 @@ Siga esta ordem para fazer a transição sem riscos:
 
 **Passo 1 — Escolha o banco digital certo para você**
 
-Antes de qualquer coisa, pesquise qual banco digital atende melhor seu perfil. Se você quer simplicidade, o Nubank é uma ótima opção. Se quer um ecossistema completo com muitos produtos, o Inter pode ser melhor. Se quer cashback, o PicPay se destaca. Leia nossa análise sobre o [Nubank vale a pena](/blog/nubank-vale-a-pena/) para entender se ele faz sentido para você, e confira nosso guia de [melhor conta digital](/blog/melhor-conta-digital/) para comparar todas as opções.
+Antes de qualquer coisa, pesquise qual banco digital atende melhor seu perfil. Se você quer simplicidade, o Nubank é uma ótima opção. Se quer um ecossistema completo com muitos produtos, o Inter pode ser melhor. Se quer cashback, o PicPay se destaca. Leia nossa análise sobre o [Nubank vale a pena](/blog/melhor-conta-digital/) para entender se ele faz sentido para você, e confira nosso guia de [melhor conta digital](/blog/melhor-conta-digital/) para comparar todas as opções.
 
 **Passo 2 — Abra a conta digital sem fechar a antiga**
 

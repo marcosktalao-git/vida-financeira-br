@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Como Cancelar Cartão de Crédito sem Prejudicar seu Score"
 description: "Veja o passo a passo para cancelar um cartão de crédito com segurança, sem prejudicar seu score de crédito nem deixar pendências."
 pubDate: "2026-07-11"
@@ -117,7 +117,7 @@ Se o cartão não tem anuidade nem taxa de manutenção, não há pressa para ca
 
 **Congelamento temporário**
 
-Alguns bancos permitem bloquear o cartão temporariamente pelo aplicativo. Você pode "congelar" e descongelar quando quiser. É útil para evitar uso enquanto decide se vai cancelar de vez. Bancos digitais como o [Nubank](/blog/nubank-vale-a-pena/) oferecem esse recurso diretamente no app.
+Alguns bancos permitem bloquear o cartão temporariamente pelo aplicativo. Você pode "congelar" e descongelar quando quiser. É útil para evitar uso enquanto decide se vai cancelar de vez. Bancos digitais como o [Nubank](/blog/melhor-conta-digital/) oferecem esse recurso diretamente no app.
 
 Se você ainda não tem certeza do que fazer, vale a pena conferir como está seu score antes de qualquer decisão. O artigo sobre [como aumentar limite cartão](/blog/como-aumentar-limite-cartao/) mostra como um bom relacionamento com o banco pode ser mais vantajoso do que simplesmente cancelar.
 

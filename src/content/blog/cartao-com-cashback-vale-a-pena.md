@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Cartão com Cashback Vale a Pena? Veja Antes de Escolher"
 description: "Descubra se o cartão de crédito com cashback realmente vale a pena, como funciona o retorno em dinheiro e quando essa opção compensa mais que o cartão tradicional."
 pubDate: "2026-07-07"
@@ -66,7 +66,7 @@ Essa é a dúvida mais comum na hora de escolher um cartão. Tanto o cashback qu
 - Se você **não viaja com frequência** ou não quer ter trabalho com regras de programa de fidelidade, o **cashback é a melhor opção**. É simples, direto e o dinheiro volta para o seu bolso sem condições.
 - Se você **viaja ao menos duas vezes por ano** e tem disposição para aprender as regras dos programas, as **milhas podem render mais**. Você consegue passagens com desconto expressivo se planejar com antecedência.
 
-Uma estratégia intermediária é usar um cartão digital que ofereça cashback no dia a dia, como o [Nubank](/blog/nubank-vale-a-pena/) — que devolve até 1,2% nas compras — e complementar com um cartão de milhas para compras específicas quando houver promoção.
+Uma estratégia intermediária é usar um cartão digital que ofereça cashback no dia a dia, como o [Nubank](/blog/melhor-conta-digital/) — que devolve até 1,2% nas compras — e complementar com um cartão de milhas para compras específicas quando houver promoção.
 
 <!-- ADSENSE MEIO -->
 
