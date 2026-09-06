@@ -78,7 +78,7 @@ class="rounded-full bg-accent-subtle px-3 py-1 text-xs font-medium text-accent n
 				{
 					updatedDate && (
 						<span>
-							· Atualizado em <FormattedDate date={updatedDate} />
+							Â· Atualizado em <FormattedDate date={updatedDate} />
 						</span>
 					)
 				}
@@ -122,7 +122,7 @@ class="rounded-full bg-accent-subtle px-3 py-1 text-xs font-medium text-accent n
 
 				{
 					tags?.some((tag) =>
-						['INSS', 'Aposentadoria', 'Previdência Social'].includes(tag),
+						['INSS', 'Aposentadoria', 'PrevidÃªncia Social'].includes(tag),
 					) && (
 						<div class="reading-width">
 							<EbookBanner />
@@ -136,7 +136,7 @@ class="rounded-full bg-accent-subtle px-3 py-1 text-xs font-medium text-accent n
 							<p class="text-xs font-semibold tracking-widest text-subtle uppercase">
 								Palavras-chave
 							</p>
-							<p class="mt-2 text-sm text-muted">{keywords.join(' · ')}</p>
+							<p class="mt-2 text-sm text-muted">{keywords.join(' Â· ')}</p>
 						</footer>
 					)
 				}
@@ -149,7 +149,7 @@ class="rounded-full bg-accent-subtle px-3 py-1 text-xs font-medium text-accent n
 					<div class="rounded-xl border border-border bg-bg-card p-5">
 						<p class="text-xs font-semibold tracking-widest text-subtle uppercase">Neste artigo</p>
 						<p class="mt-2 text-sm leading-relaxed text-muted">
-							Conteúdo prático sobre INSS, MEI e finanças pessoais para você organizar sua vida
+							ConteÃºdo prÃ¡tico sobre INSS, MEI e finanÃ§as pessoais para vocÃª organizar sua vida
 							financeira.
 						</p>
 						<a href="/blog/" class="mt-3 inline-block text-sm font-medium no-underline">
