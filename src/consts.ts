@@ -14,20 +14,21 @@ export const NAV_LINKS = [
 ] as const;
 
 export const CATEGORIES = [
-	{ name: 'INSS', slug: 'inss' },
-	{ name: 'Aposentadoria', slug: 'aposentadoria' },
-	{ name: 'MEI', slug: 'mei' },
-	{ name: 'Finanças da Família', slug: 'financas-familiares' },
-	{ name: 'Cartões', slug: 'cartoes' },
-	{ name: 'Bancos Digitais', slug: 'bancos-digitais' },
-	{ name: 'Empréstimos', slug: 'emprestimos' },
-	{ name: 'Benefícios Sociais', slug: 'beneficios-sociais' },
+	{ name: 'INSS e Benefícios', slug: 'inss-e-beneficios', tags: ['INSS', 'Aposentadoria', 'Benefícios Sociais'] },
+	{ name: 'MEI', slug: 'mei', tags: ['MEI'] },
+	{ name: 'Finanças da Família e Crédito', slug: 'financas-e-credito', tags: ['Finanças Familiares', 'Empréstimos'] },
+	{ name: 'Bancos e Cartões', slug: 'bancos-e-cartoes', tags: ['Bancos Digitais', 'Cartões'] },
 ] as const;
 
 export function tagToSlug(tag: string): string {
 	return tag
-		.toLowerCase()
-		.normalize('NFD')
-		.replace(/[\u0300-\u036f]/g, '')
-		.replace(/\s+/g, '-');
+			.toLowerCase()
+			.normalize('NFD')
+			.replace(/[\u0300-\u036f]/g, '')
+			.replace(/\s+/g, '-');
 }
+export function postInCategory(postTags: string[], category: { tags: readonly string[] }): boolean {
+	const wanted = category.tags.map(tagToSlug);
+	return postTags.some((t) => wanted.includes(tagToSlug(t)));
+}
+

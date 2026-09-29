@@ -51,11 +51,11 @@ const breadcrumbs = [
 				tags && tags.length > 0 && (
 					<div class="mb-4 flex flex-wrap justify-center gap-2">
 						{tags.map((tag) => {
-const isRealCategory = CATEGORIES.some((c) => c.slug === tagToSlug(tag));
-return isRealCategory ? (
+const cat = CATEGORIES.find((c) => c.tags.some((t) => tagToSlug(t) === tagToSlug(tag)));
+return cat ? (
 
 <a
-href={`/categoria/${tagToSlug(tag)}/`}
+href={`/categoria/${cat.slug}/`}
 class="rounded-full bg-accent-subtle px-3 py-1 text-xs font-medium text-accent no-underline transition-colors hover:bg-accent/20"
 >
 {tag}

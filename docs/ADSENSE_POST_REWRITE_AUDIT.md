@@ -650,3 +650,206 @@ As aberturas são distintas, os H2 seguem ordens diferentes, os FAQs são único
 - Nenhuma correção obrigatória pendente.
 - **Padrão do cluster mantido:** abertura com contexto único (dado de mercado / cenário comportamental / storytelling), ordem de H2 específica do tema, FAQ próprio e seção de fechamento com título customizado.
 - Para os próximos artigos do cluster, manter a diversidade de templates: comparativo (como este cartão), análise prós/contras (como este consignado) ou tutorial (como este CNIS). Evitar dois artigos seguidos com o mesmo modelo estrutural.
+
+---
+
+# Auditoria 4 — Artigo novo do cluster MEI (mei-pode-ter-carteira-assinada.md)
+
+**Data:** 28/09/2026
+**Escopo:** 1 artigo recém-criado: `mei-pode-ter-carteira-assinada.md` — auditado contra os 3 artigos já publicados do cluster MEI (`como-abrir-um-mei.md`, `impostos-do-mei.md`, `beneficios-do-mei.md`) e contra fontes oficiais (Portal do Empreendedor/gov.br, Planalto, Sebrae, portaria do teto INSS 2026).
+**Critério principal:** originalidade entre artigos do mesmo cluster (motivo histórico da rejeição do AdSense: templates repetidos) + precisão factual e consistência dos dados 2026 usados no blog.
+
+---
+
+## RESUMO EXECUTIVO
+
+| Artigo | Silo | EEAT | SEO | Q. Editorial | Monetiz. | Frontmatter | Originalidade | Resultado |
+|---|---|---|---|---|---|---|---|---|
+| mei-pode-ter-carteira-assinada.md | MEI | 8 | 7 | 7 | 8 | Aprovado | 6 | **APROVADO COM RESSALVAS** |
+
+**Nota global: 7,2/10.**
+
+**Veredito geral:** artigo factualmente correto, bem fundamentado e com abertura/estrutura próprias — os dados 2026 usados (salário mínimo R$ 1.621, DAS R$ 81,05 → R$ 82,05/86,05/87,05, teto INSS ~R$ 8.475, limite R$ 81.000/ano) **estão corretos e batem com as fontes oficiais**. Porém: (1) a pergunta/resposta sobre contador é quase uma cópia da FAQ de `como-abrir-um-mei.md` e a pergunta "posso ter MEI e carteira assinada" já existe no FAQ do mesmo artigo (risco exato da rejeição anterior + cannibalização); (2) a afirmação sobre negativa de seguro-desemprego contradiz parcialmente o texto oficial do Portal do Empreendedor; (3) não há nenhum link cross-silo; (4) o artigo linka na conclusão para `impostos-do-mei.md` e `beneficios-do-mei.md`, que publicam DAS 2026 divergente do valor correto usado aqui. Pode ser commitado **após** as 3 correções obrigatórias.
+
+---
+
+## 1. ARTIGO: mei-pode-ter-carteira-assinada.md
+
+KEYWORD PRINCIPAL: mei com carteira assinada
+SILO: MEI
+
+PONTUAÇÃO:
+- EEAT: 8/10
+- SEO ON-PAGE: 7/10
+- QUALIDADE EDITORIAL: 7/10
+- MONETIZAÇÃO: 8/10
+- FRONTMATTER: Aprovado
+- ORIGINALIDADE ENTRE ARTIGOS: 6/10
+
+RESULTADO GERAL: **APROVADO COM RESSALVAS**
+
+### Justificativa EEAT
+Abertura com caso real de leitor (logística + bolo por encomenda no fim de semana, medo de "ser fraude") demonstra experiência com o público do blog. Cita **fonte oficial com citação literal verificada**: a linha 30 reproduce exatamente o texto do Portal do Empreendedor ("Sim. Não há impedimento de um empregado ou empregada com carteira assinada exercer também atividade econômica como MEI" — conferido em gov.br/empresas-e-negocios/pt-br/empreendedor/perguntas-frequentes). Links para Planalto (art. 482 da CLT — HTTP 200), gov.br e Resolução CGSN nº 140/2018. Profundidade real: INSS duplo e complemento (código 1910), IRPF, seguro-desemprego, pejotização, conflito de interesses, sobreposição de jornada, erros, checklist. Sem promessa de resultado irreais; reconhece limites ("é uma conta sua, não uma regra", linha 75). Desconta-se precisão: (a) linha 116 — a receita do MEI é **isenta**, logo não soma aos "rendimentos tributáveis" e não empurra a alíquota do salário para faixas mais altas; (b) linhas 71/73/256-258 — o FAQ oficial diz que o direito ao seguro-desemprego "não se dá pela existência ou ausência de MEI", mas pelo cumprimento da Lei 7.998/1990, com negativa caso a caso quando o MEI **demonstra renda própria suficiente** na DASN simplificada; o artigo afirma negativa automática "mesmo que o MEI não tenha faturado nada"; (c) linha 146 — a alínea "h" do art. 482 trata de concorrência com o empregador; "informação privilegiada/sigilosa" é a alínea "i" (e a "d" é prestar serviço a concorrente).
+
+### Justificativa SEO
+- H1 contém a keyword principal ("MEI pode ter carteira assinada ao mesmo tempo?"). ✔
+- H2/H3 cobrem subtópicos completos e variações: resposta oficial, CLT × MEI, direitos trabalhistas, INSS, imposto de renda, faturamento, 3 riscos, demissão, erros, checklist, quando não vale, FAQ. ✔
+- FAQ com **9 perguntas reais** (mínimo exigido: 4). ✔
+- Meta description: **158 caracteres** (dentro da faixa 140–160). ✔
+- Links internos do mesmo silo: `/blog/salario-maternidade-mei/`, `/blog/aposentadoria-do-mei/`, `/blog/impostos-do-mei/`, `/blog/beneficios-do-mei/`, `/blog/como-abrir-um-mei/` (todos existem). ✔
+- **Link cruzado para outro silo: NENHUM** — os 5 links internos são todos do silo MEI; os demais são externos (gov.br, Planalto). ✖ (requisito do eeat-auditor: pelo menos 1 silo diferente)
+- Ressalva de cannibalização: a FAQ "Posso ter MEI e carteira assinada ao mesmo tempo?" (linha 240) disputa a mesma query da FAQ "Posso ter MEI e trabalhar de carteira assinada?" de `como-abrir-um-mei.md` (linha 233).
+
+### Justificativa Qualidade Editorial
+Linguagem simples e direta, sem juridiquês (explica CLT, pejotização, DASN em palavras do dia a dia). Texto escaneável: 2 tabelas, 4 listas numeradas, 13 H2 + 12 H3, parágrafos curtos. Dados numéricos concretos em praticamente todo bloco (R$ 3.200 + R$ 1.800 → ~R$ 1.014 líquidos; R$ 6.750/mês; R$ 40.500 em julho; 20% vs 5%; R$ 81,05; R$ 8.475). **Porém: ~3.030 palavras no corpo** (contagem por script, sem frontmatter/comentários; o mesmo método dá 2.078 para `como-abrir-um-mei`, publicado como 2.480 na Auditoria 1 — ou seja, a contagem real tende a ser ainda maior), **acima do teto de 2.500 da faixa 1.500–2.500** em qualquer método.
+
+### Justificativa Monetização
+3 blocos AdSense corretamente posicionados nos comentários: `<!-- ADSENSE TOPO -->` (linha 24), `<!-- ADSENSE MEIO -->` (linha 138), `<!-- ADSENSE FINAL -->` (linha 234) + `<!-- AFILIADO -->` (linha 236). CTA de afiliado contextual (dupla contribuição CLT+MEI → revisão previdenciária), sem agressividade, posicionado antes do FAQ. Ressalva: a copy promete "consultoria previdenciária", mas o link (cakto.app/AQVQPJY) é o produto Manual do Dinheiro (curso/guia) — mesma inconsistência apontada na Auditoria 2 para melhor-conta-digital.md.
+
+### Frontmatter
+Todos os campos preenchidos: title (com keyword), description (**158 caracteres** ✔), pubDate/updatedDate 2026-09-28 ✔, tags `["MEI", "CLT", "Renda Extra"]` — primeira tag = "MEI" (silo exato) ✔, **6 keywords** (mínimo 5) ✔, heroImage `../../assets/mei-pode-ter-carteira-assinada.jpg` (**arquivo existe** ✔), affiliate_cta completo com URL real do afiliado (não vazia, não "#") ✔. **FRONTMATTER: Aprovado.**
+
+### Verificação de dados 2026 (consistência × fontes oficiais × outros artigos do blog)
+
+| Dado | Artigo-alvo | Fonte oficial | Outros artigos do blog | Situação |
+|---|---|---|---|---|
+| Salário mínimo 2026 | R$ 1.621,00 (implícito: 5% = R$ 81,05, linhas 85/98) | R$ 1.621,00 — Decreto 12.797/2025 (IBGE/Sebrae) | `como-abrir-um-mei.md:26` R$ 1.621,00 ✔ | **Correto** |
+| DAS INSS (5%) | R$ 81,05 (linhas 85, 98) | Sebrae: R$ 81,05 | `impostos-do-mei.md:52` R$ 75,90 sobre mínimo R$ 1.518,00 ✖; `aposentadoria-do-mei.md:30` R$ 75,90 ✖; `salario-maternidade-mei.md:60-77` R$ 1.518 ✖ | **Correto aqui; divergente em 3+ artigos vinculados** |
+| DAS comércio/serviço/misto | R$ 82,05 / 86,05 / 87,05 (linhas 85, 128, 282) | Sebrae/Portal do Empreendedor: 81,05 + ICMS 1 / ISS 5 → **82,05 / 86,05 / 87,05** | `como-abrir-um-mei.md:153-155` ✔ idêntico; `impostos-do-mei.md:18,91-96` R$ 76,90/80,90/81,90 ✖ (valores de 2025 rotulados como 2026); `beneficios-do-mei.md:109` "R$ 77 a R$ 82" ✖ e `:20` "R$ 80 mensais" ✖; `como-encerrar-um-mei.md` "R$ 71,60 a R$ 76,60" ✖ | **Correto aqui; conflito grave com o silo** |
+| Teto INSS 2026 | "cerca de R$ 8.475" (linha 83) | **R$ 8.475,55** — Portaria Interministerial MPS/MF nº 13/2026 (+3,9% sobre R$ 8.157,41) | `como-se-aposentar-pelo-inss-em-2026.md:16` R$ 8.475 ✔; `aposentadoria-do-mei.md:163`, `auxilio-doenca-inss.md:182`, `contribuinte-facultativo-inss.md:75`, `inss-para-autonomos.md:53`, `regras-atuais-inss-2026.md:106`, `como-aumentar-valor-aposentadoria.md:79` = **R$ 8.157,41 (teto de 2025) ✖** | **Correto aqui; 6 artigos desatualizados** |
+| Limite MEI 2026 | R$ 81.000/ano = R$ 6.750/mês; proporcional (R$ 40.500 em julho) — linhas 32, 106, 132, 201, 217, 226, 266 | R$ 81.000 confirmado pelo MEMP para 2026 (gov.br/memp/pt-br/teto-do-mei); R$ 6.750 e R$ 40.500 conferidos | Mesmo valor nos 3 artigos do cluster ✔ | **Correto** |
+| Exemplo Marina (linhas 122-130) | 1.800 − 86,05 − 700 = **1.013,95 ≈ R$ 1.014** | aritmética confere | — | **Correto** |
+| Portal do Empreendedor (linha 30) | Citação literal | **Idêntica** ao texto oficial (verificado) | — | **Correto** |
+| Seguro-desemprego (linhas 71/73/258) | "CNPJ ativo → benefício pode ser negado, mesmo sem faturamento" | FAQ oficial: direito "não se dá pela existência ou ausência de MEI" (Lei 7.998); negativa caso a caso se o MEI demonstrar renda própria na DASN simplificada; "suspensão" + recurso nos postos do MTE | — | **Parcialmente divergente** |
+
+PROBLEMAS ENCONTRADOS:
+- FAQ "Preciso de contador..." (linhas 268-270) é praticamente uma cópia da FAQ "MEI precisa de contador?" de `como-abrir-um-mei.md` (linhas 225-227) — ver Originalidade.
+- Pergunta de FAQ duplicada no cluster: "Posso ter MEI e carteira assinada ao mesmo tempo?" (linha 240) × "Posso ter MEI e trabalhar de carteira assinada?" (`como-abrir-um-mei.md:233`) — cannibalização da keyword-alvo.
+- Seguro-desemprego (linhas 69-75 e 256-258): afirmação de negativa automática "mesmo sem faturamento" não corresponde ao texto oficial do Portal do Empreendedor.
+- Nenhum link interno para silo diferente (0 cross-silo).
+- ~3.030 palavras — acima do teto de 2.500.
+- Linha 116: receita isenta do MEI não entra nos rendimentos tributáveis e não eleva a alíquota do salário.
+- Sobreposição estrutural com `como-abrir-um-mei.md`: listas "O que NÃO pode" × "Quem não pode ser MEI", "Erros comuns" (7 × 7 itens, 4 temas paralelos) e frases quase iguais ("R$ 82 a R$ 87 em 2026, conforme a atividade"; "planeje a migração... com antecedência. Não espere a Receita notificar/cobrar").
+- Tabela CLT × MEI (linhas 53-61) cobre o mesmo conjunto FGTS/13º/férias/seguro-desemprego de `beneficios-do-mei.md:224-243`; código 1910 (linha 98) repete `beneficios-do-mei.md:222`.
+- affiliate_cta promete "consultoria previdenciária" para o produto Manual do Dinheiro (curso).
+- Seção final genérica "Conclusão" (linha 276), padrão que as Auditorias 1-3 recomendam evitar.
+
+CORREÇÕES OBRIGATÓRIAS (antes do commit):
+1. **Reescrever a FAQ "Preciso de contador para ter MEI trabalhando de carteira assinada?" (linhas 268-270)** com ângulo próprio do artigo (ex.: quando o contador compensa quem tem dois vínculos — conferência de folha × DAS, validação de CNAE x contrato de trabalho, cálculo de complemento 1910 perto do teto) e remover a estrutura "Não é obrigatório... foram desenhados para o próprio empreendedor... faturamento... limite... dúvida de CNAE... migrar para ME", idêntica a `como-abrir-um-mei.md:225-227`.
+2. **Corrigir a seção de seguro-desemprego (linhas 69-75) e a FAQ (256-258)** para refletir a fonte oficial: a existência de CNPJ, por si só, **não** impede o benefício; o que pode gerar negativa/suspensão é o MEI demonstrar renda própria suficiente (avaliação caso a caso do Ministério do Trabalho e Previdência, com recurso nos postos de atendimento) — mantendo o link oficial como evidência.
+3. **Adicionar pelo menos 1 link cross-silo**: sugerido `/blog/inss-para-autonomos/` ou `/blog/como-pagar-inss-por-conta-propria/` (silo INSS) no bloco do complemento 1910 (linhas 98-100); alternativa `/blog/como-sair-das-dividas/` (Finanças Familiares) na seção "Quanto dá para faturar".
+
+CORREÇÕES RECOMENDADAS (não obrigatórias):
+- Reduzir o texto para até ~2.500 palavras: fundir "E se o empregador descobrir?" (178-195) em "Os três riscos reais" e enxugar "Quando o MEI não é a melhor saída" (222-232).
+- Reescrever a linha 116: a receita do MEI isenta não soma aos rendimentos tributáveis — o que pode gerar ajuste são outros rendimentos tributáveis gerados com o dinheiro do negócio (aplicações, aluguel) ou a perda da isenção acima do teto.
+- Diferenciar os erros comuns (linhas 199-207) dos 7 erros de `como-abrir-um-mei.md:175-196` — hoje 4 dos 7 itens são paralelos (ocupação errada, misturar contas, limite de R$ 81 mil, DAS atrasado).
+- Trocar a frase final da linha 282 ("entre R$ 82 e R$ 87 em 2026, conforme a atividade") — é praticamente a de `como-abrir-um-mei.md:215`.
+- Renomear "Conclusão" (linha 276) por título próprio (ex.: "Seu emprego e seu CNPJ, lado a lado").
+- Alinhar a copy do affiliate_cta ao produto real (guia/curso Manual do Dinheiro), conforme recomendado na Auditoria 2.
+- Corrigir linha 146: as alíneas "d" e "h" tratam de serviço a concorrente e concorrência; informação sigilosa é a alínea "i".
+- Fonte para o PIS/abono salarial (linha 77) e destino mais específico para o link do "Anexo XI da Resolução CGSN nº 140/2018" (linha 41 — hoje aponta para a home do Portal do Empreendedor).
+
+---
+
+## ANÁLISE DE ORIGINALIDADE (artigo novo × 3 artigos publicados do cluster MEI)
+
+### Aberturas (2–3 primeiras frases)
+- **mei-pode-ter-carteira-assinada:** caso de leitor narrado (logística, bolo por encomenda, medo de fraude). ✔ única
+- **como-abrir-um-mei:** caso real (manicure de Campinas, R$ 4.200/mês, 12 minutos no portal). ✔ única
+- **impostos-do-mei:** coloca perguntas do público ("Quanto vou pagar por mês?"). ✔ única
+- **beneficios-do-mei:** frase comum do dia a dia ("Abri meu MEI para emitir nota"). ✔ única
+
+4 aberturas estruturalmente distintas (relato de leitor vs. caso de sucesso vs. perguntas vs. fala comum). Nenhuma frase se repete entre elas.
+
+### Ordem e títulos dos H2
+| # | mei-pode-ter-carteira-assinada (novo) | como-abrir-um-mei | impostos-do-mei | beneficios-do-mei |
+|---|---|---|---|---|
+| 1 | A resposta oficial: o governo permite manter os dois | O que é o MEI na prática | O que é o DAS | Benefícios previdenciários |
+| 2 | MEI não é uma "segunda carteira assinada" | Quando vale a pena / não vale | Valores do DAS em 2026 | Comerciais e financeiros |
+| 3 | O que muda nos seus direitos trabalhistas | Requisitos para abrir | Como calcular e emitir | Fiscais |
+| 4 | INSS: contribuir duas vezes soma ou atrapalha? | Passo a passo | O que se não pagar o DAS | Para a família |
+| 5 | Imposto de renda com salário CLT e receita MEI | Quanto custa (tabela DAS) | Impostos que o MEI NÃO paga | Acesso a crédito |
+| 6 | Quanto dá para faturar de verdade | Erros comuns na abertura | Declaração anual | O que o MEI NÃO tem direito |
+| 7 | Os três riscos reais | Checklist 30 dias | FAQ | FAQ |
+| 8 | E se o empregador descobrir? | FAQ | Conclusão | Conclusão |
+| 9 | Erros comuns de quem tem CLT e MEI | Conclusão | — | — |
+| 10 | Checklist antes de abrir estando CLT | — | — | — |
+| 11 | Quando o MEI não é a melhor saída | — | — | — |
+| 12 | FAQ | — | — | — |
+| 13 | Conclusão | — | — | — |
+
+**Conclusão:** a sequência de H2 **não é clonada**. O artigo novo é o único com blocos "direitos trabalhistas", "INSS duplo", "IR com dois vínculos", "3 riscos", "empregador descobrir" e "quando não vale a renda extra". Não usa "passo a passo", "requisitos" nem "quanto custa" — os blocos-título de `como-abrir-um-mei`.
+
+### Sobreposição por artigo (estimativa)
+
+| Artigo do cluster | Sobreposição de conteúdo (estimada) | Trechos/estruturas em comum (verbatim verificado por 6-gramas) |
+|---|---|---|
+| **como-abrir-um-mei.md** | **~12–15%** | 9/3.581 seis-gramas idênticos = **0,25% literal**. Porém 5 zonas de sobreposição: (1) **FAQ de contador quase idêntica** — novo: "Não é obrigatório. O DAS, a DASN-SIMEI e o controle de faturamento foram desenhados para o próprio empreendedor. Contador passa a valer a pena quando o faturamento chega perto do limite, quando existe dúvida de CNAE ou quando você começa a faturar como ME em vez de MEI" × como-abrir: "Não é obrigatório. DAS, DASN e relatório mensal foram desenhados para o próprio empreendedor. Contador ajuda se o faturamento está no limite, se há dúvida de CNAE ou se você vai migrar para ME"; (2) **frase final** — novo "entre R$ 82 e R$ 87 em 2026, conforme a atividade" × como-abrir "cerca de R$ 82 a R$ 87 em 2026, conforme a atividade"; (3) **teto** — novo "planeje a migração para Microempresa no Simples Nacional com antecedência. Não espere a Receita notificar" × como-abrir "planeje a migração para Microempresa com antecedência. Não espere a Receita cobrar para agir"; (4) **lista de impedimentos** — novo "Quem já é sócio, administrador ou titular de outra empresa" × como-abrir "Quem já possui outro CNPJ como sócio, administrador ou titular"; (5) **"Erros comuns" 7 × 7** com 4 temas paralelos (ocupação errada, misturar contas, limite de R$ 81 mil, DAS/DASN atrasado) |
+| **impostos-do-mei.md** | **~8–10%** | 2/3.581 seis-gramas = **0,06% literal** ("dentro do limite de R$ 81 mil"). Sobreposição factual: DAS no dia 20, DASN até 31/05, consequências de atraso (multa, juros, bloqueio do próximo mês, perda de meses de contribuição, cancelamento do CNPJ), teto R$ 81 mil/R$ 6.750 — redação própria no artigo novo. **Atenção: divergência de valores, não duplicação** (ver tabela de dados 2026). |
+| **beneficios-do-mei.md** | **~10–12%** | 0 seis-gramas literais. Sobreposição: (1) conjunto FGTS/13º/férias/seguro-desemprego — novo tabela "CLT × MEI" (53-61) × lista "O que o MEI NÃO tem direito" (`beneficios-do-mei.md:224-243`); (2) complemento previdenciário — novo "código 1910, pagando a diferença de 15%" (98) × "código GPS 1910 (15% sobre o valor excedente)" (`:222`); (3) aposentadoria no piso. Formatos diferentes (tabela × lista) e ângulos diferentes (CLT afetado × direitos do MEI). |
+
+### Perguntas de FAQ
+25 perguntas no total entre os 4 artigos (9 + 6 + 5 + 5). **2 tópicos duplicados**, ambos entre o artigo novo e `como-abrir-um-mei.md`:
+1. "Posso ter MEI e carteira assinada ao mesmo tempo?" (novo, 240) × "Posso ter MEI e trabalhar de carteira assinada?" (`como-abrir-um-mei.md:233`) — mesma keyword.
+2. "Preciso de contador..." (novo, 268) × "MEI precisa de contador?" (`como-abrir-um-mei.md:225`) — respostas quase iguais.
+As demais 23 perguntas são distintas.
+
+### Frases e trechos
+Nenhuma frase com mais de 6 palavras se repete literalmente entre o artigo novo e `impostos-do-mei`/`beneficios-do-mei`. As duplicações verificadas estão todas contra `como-abrir-um-mei` (5 zonas listadas acima; os 6-gramas compartilhados incluem "foram desenhados para o próprio empreendedor", "com antecedência não espere a receita" e "87 em 2026 conforme a atividade"). Marcadores de infraestrutura (`<!-- ADSENSE... -->`, `<!-- AFILIADO... -->`) não contam como conteúdo.
+
+### Nota de originalidade
+**6/10.** A abertura, a ordem de H2 e o corpo principal (riscos trabalhistas, pejotização, INSS duplo, IR com dois vínculos) são **únicos do cluster** — o template não está clonado. Mas o artigo **reaproveita dois blocos inteiros de `como-abrir-um-mei.md`** (FAQ de contador e padrão "Erros comuns" 7 itens, além de 2 frases quase iguais) e **repete 2 perguntas de FAQ do cluster** — exatamente o padrão de "reuso de blocos" que motivou a rejeição anterior. Por isso a nota fica em 6 (faixa de "aprovação com ressalvas") em vez de 9.
+
+---
+
+## PROBLEMAS POR PRIORIDADE
+
+### CRÍTICO (0)
+- Nenhum. O artigo não tem dado oficial errado, frontmatter quebrado, bloco AdSense ausente nem link interno morto.
+
+### ALTO (4)
+1. **Reuso de FAQ/blocos com `como-abrir-um-mei.md`** (linhas 268-270 ≈ `como-abrir-um-mei.md:225-227`; perguntas duplicadas nas linhas 240 e 268) → reescrever as duas respostas com ângulo próprio CLT+MEI.
+2. **Seguro-desemprego com afirmação mais forte que a fonte** (linhas 71, 73, 258) → nuancar conforme o FAQ oficial (Lei 7.998, caso a caso, renda declarada na DASN, recurso no MTE).
+3. **Zero links cross-silo** (5/5 internos são MEI) → inserir ≥1 link para silo INSS/Finanças Familiares (critério obrigatório do eeat-auditor).
+4. **Divergência de dados 2026 com artigos linkados**: a conclusão (linha 284) leva o leitor para `impostos-do-mei.md` (DAS R$ 76,90–81,90, mínimo R$ 1.518,00 — linhas 18/52/91-96) e `beneficios-do-mei.md` (R$ 77–82 — linha 109), que contradizem os R$ 82,05–87,05 corretos deste artigo → atualizar os 2 artigos (fora deste arquivo) e, no mínimo, revisar a âncora do link.
+
+### MÉDIO (4)
+5. **Tamanho ~3.030 palavras**, acima da faixa 1.500–2.500 (corpo inteiro, linhas 16-284) → podar ~500 palavras.
+6. **Linha 116** — a receita isenta do MEI não empurra o salário para faixas mais altas do IR → reescrever.
+7. **Sobreposição estrutural com `como-abrir-um-mei.md`**: "Erros comuns" 7×7 (4 temas paralelos, linhas 199-207 × 175-196), "O que NÃO pode" (36-41 × 102-109), frases das linhas 136 e 282.
+8. **Copy do affiliate_cta ≠ produto real** (consultoria previdenciária × Manual do Dinheiro) — mesma ressalva da Auditoria 2.
+
+### BAIXO (4)
+9. Linha 146: atribuição imprecisa da alínea "h" do art. 482 da CLT ("informação privilegiada" é a alínea "i").
+10. Linha 276: seção final "Conclusão" genérica (padrão a evitar nas auditorias anteriores).
+11. Linha 77: PIS/abono salarial sem fonte.
+12. Oportunidade de frescor (E-E-A-T): citar que há proposta em tramitação para elevar o teto de R$ 81 mil (PLP 186/2026, faixa de R$ 130–140 mil em 2027–2028, ainda não aprovada) — reforça autoridade e atualidade.
+
+---
+
+## NOTAS FINAIS
+
+| Critério | Nota |
+|---|---|
+| EEAT | 8/10 |
+| SEO ON-PAGE | 7/10 |
+| Qualidade Editorial | 7/10 |
+| Monetização | 8/10 |
+| Frontmatter | Aprovado (10) |
+| Originalidade entre artigos | 6/10 |
+| **NOTA GLOBAL** | **7,2/10** |
+
+**Veredito: APROVADO COM RESSALVAS (Aprovado com correções).** Pode ser commitado após as 3 correções obrigatórias (FAQ do contador, nuance do seguro-desemprego, link cross-silo). As demais são de alto valor mas não bloqueiam.
+
+---
+
+## RECOMENDAÇÃO FINAL
+
+- **Commit permitido após as 3 correções obrigatórias** deste artigo.
+- **Ações fora deste arquivo, de prioridade alta para o cluster MEI:**
+  1. `impostos-do-mei.md` — atualizar valores para 2026 (mínimo R$ 1.621,00; INSS R$ 81,05; DAS R$ 82,05/86,05/87,05). Hoje publica R$ 76,90–81,90 rotulados como 2026 e é linkado pelo artigo novo.
+  2. `beneficios-do-mei.md` — atualizar "R$ 77 a R$ 82" e "R$ 80 mensais" (linhas 20, 109, 276).
+  3. `como-abrir-um-mei.md` — apontar a FAQ "Posso ter MEI e trabalhar de carteira assinada?" (linha 233) para o novo artigo, resolvendo o cannibalização.
+  4. `aposentadoria-do-mei.md`, `auxilio-doenca-inss.md`, `contribuinte-facultativo-inss.md`, `inss-para-autonomos.md`, `regras-atuais-inss-2026.md`, `como-aumentar-valor-aposentadoria.md` — teto 2026 é **R$ 8.475,55** (Portaria MPS/MF 13/2026), não R$ 8.157,41 (valor de 2025).
+  5. `salario-maternidade-mei.md` (linkado na linha 94 do artigo novo) ainda usa salário mínimo R$ 1.518,00 (linhas 60-77).
+- **Padrão a manter nos próximos artigos do cluster MEI:** nunca reaproveitar blocos de FAQ, listas "Erros comuns" ou frases de fechamento de artigos já publicados do mesmo silo — reescrever com dados e ângulos próprios (a rejeição anterior do AdSense foi exatamente por isso).

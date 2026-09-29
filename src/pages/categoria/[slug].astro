@@ -2,8 +2,7 @@
 import PostCard from '../../components/PostCard.astro';
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
-import { CATEGORIES, SITE_TITLE, tagToSlug } from '../../consts';
-
+import { CATEGORIES, SITE_TITLE, postInCategory } from '../../consts';
 export async function getStaticPaths() {
 	return CATEGORIES.map(({ slug }) => ({ params: { slug } }));
 }
@@ -16,7 +15,7 @@ if (!category) {
 }
 
 const posts = (await getCollection('blog'))
-	.filter((post) => post.data.tags.some((tag) => tagToSlug(tag) === slug))
+	.filter((post) => postInCategory(post.data.tags, category))
 	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 ---
 

@@ -79,6 +79,76 @@
       "source": "/blog/quanto-custa-um-mei/",
       "destination": "/blog/como-abrir-um-mei/",
       "permanent": true
+    },
+    {
+      "source": "/categoria/inss",
+      "destination": "/categoria/inss-e-beneficios",
+      "permanent": true
+    },
+    {
+      "source": "/categoria/inss/",
+      "destination": "/categoria/inss-e-beneficios/",
+      "permanent": true
+    },
+    {
+      "source": "/categoria/aposentadoria",
+      "destination": "/categoria/inss-e-beneficios",
+      "permanent": true
+    },
+    {
+      "source": "/categoria/aposentadoria/",
+      "destination": "/categoria/inss-e-beneficios/",
+      "permanent": true
+    },
+    {
+      "source": "/categoria/beneficios-sociais",
+      "destination": "/categoria/inss-e-beneficios",
+      "permanent": true
+    },
+    {
+      "source": "/categoria/beneficios-sociais/",
+      "destination": "/categoria/inss-e-beneficios/",
+      "permanent": true
+    },
+    {
+      "source": "/categoria/financas-familiares",
+      "destination": "/categoria/financas-e-credito",
+      "permanent": true
+    },
+    {
+      "source": "/categoria/financas-familiares/",
+      "destination": "/categoria/financas-e-credito/",
+      "permanent": true
+    },
+    {
+      "source": "/categoria/emprestimos",
+      "destination": "/categoria/financas-e-credito",
+      "permanent": true
+    },
+    {
+      "source": "/categoria/emprestimos/",
+      "destination": "/categoria/financas-e-credito/",
+      "permanent": true
+    },
+    {
+      "source": "/categoria/cartoes",
+      "destination": "/categoria/bancos-e-cartoes",
+      "permanent": true
+    },
+    {
+      "source": "/categoria/cartoes/",
+      "destination": "/categoria/bancos-e-cartoes/",
+      "permanent": true
+    },
+    {
+      "source": "/categoria/bancos-digitais",
+      "destination": "/categoria/bancos-e-cartoes",
+      "permanent": true
+    },
+    {
+      "source": "/categoria/bancos-digitais/",
+      "destination": "/categoria/bancos-e-cartoes/",
+      "permanent": true
     }
   ]
 }
