@@ -853,3 +853,304 @@ Nenhuma frase com mais de 6 palavras se repete literalmente entre o artigo novo 
   4. `aposentadoria-do-mei.md`, `auxilio-doenca-inss.md`, `contribuinte-facultativo-inss.md`, `inss-para-autonomos.md`, `regras-atuais-inss-2026.md`, `como-aumentar-valor-aposentadoria.md` — teto 2026 é **R$ 8.475,55** (Portaria MPS/MF 13/2026), não R$ 8.157,41 (valor de 2025).
   5. `salario-maternidade-mei.md` (linkado na linha 94 do artigo novo) ainda usa salário mínimo R$ 1.518,00 (linhas 60-77).
 - **Padrão a manter nos próximos artigos do cluster MEI:** nunca reaproveitar blocos de FAQ, listas "Erros comuns" ou frases de fechamento de artigos já publicados do mesmo silo — reescrever com dados e ângulos próprios (a rejeição anterior do AdSense foi exatamente por isso).
+
+---
+
+# Auditoria 5 — Artigo novo do cluster MEI (quanto-mei-pode-faturar-por-mes.md)
+
+**Data:** 01/10/2026
+**Escopo:** 1 artigo recém-criado: `quanto-mei-pode-faturar-por-mes.md` — auditado contra os 4 artigos do cluster MEI (`como-abrir-um-mei.md`, `impostos-do-mei.md`, `beneficios-do-mei.md`, `mei-pode-ter-carteira-assinada.md`, este último o mais recente) e contra fontes oficiais (notícia da Receita Federal de 02/01/2026, Manual DASN-SIMEI, Manual do Desenquadramento do SIMEI, gov.br/memp — Teto do MEI, LC 188/2021, Resolução CGSN nº 140/2018).
+**Critério principal:** originalidade dentro do cluster (motivo histórico da rejeição do AdSense) + precisão dos valores de DAS/teto 2026 (R$ 81,05 / R$ 82,05 / R$ 86,05 / R$ 87,05, teto R$ 81.000, salário mínimo R$ 1.621).
+
+---
+
+## RESUMO EXECUTIVO
+
+| Artigo | Silo | EEAT | SEO | Q. Editorial | Monetiz. | Frontmatter | Originalidade | Resultado |
+|---|---|---|---|---|---|---|---|---|
+| quanto-mei-pode-faturar-por-mes.md | MEI | 7 | 7 | 7 | 8 | **Corrigir** (description + heroImage) | 7 | **APROVADO COM RESSALVAS** |
+
+**Nota global: 7,2/10.**
+
+**Veredito geral:** artigo com estrutura própria (bloco de "5 sinais", faixas de consequência com cálculo, checklist de decisão de migração e planilha — nenhum desses blocos existe nos outros 4 artigos do silo), linguagem boa e **os valores de DAS/teto 2026 pedidos na auditoria estão 100% corretos** (conferidos na notícia oficial da Receita de 02/01/2026). Porém: (1) a seção "Na prática: quanto custa estourar?" calcula o imposto do excesso com **base e percentual errados** (aplica 6% sobre a receita total em vez do percentual oficial sobre a parcela excedente) e ainda soma uma **multa de 20% que não é automática** — superestima o custo em ~9× (R$ 5.600 vs. ~R$ 645 reais); (2) heroImage referenciada não existe em `src/assets/`; (3) meta description com 195 caracteres; (4) **zero links cross-silo**. Pode ser commitado **após** as 5 correções obrigatórias.
+
+---
+
+## 1. ARTIGO: quanto-mei-pode-faturar-por-mes.md
+
+KEYWORD PRINCIPAL: quanto mei pode faturar por mes
+SILO: MEI
+
+PONTUAÇÃO:
+- EEAT: 7/10
+- SEO ON-PAGE: 7/10
+- QUALIDADE EDITORIAL: 7/10
+- MONETIZAÇÃO: 8/10
+- FRONTMATTER: **Corrigir** (2 falhas)
+- ORIGINALIDADE ENTRE ARTIGOS: 7/10
+
+RESULTADO GERAL: **APROVADO COM RESSALVAS**
+
+### Justificativa EEAT
+Abertura com caso narrado (motorista de aplicativo de Belo Horizonte, R$ 7.200/mês → R$ 86.400/ano) e números ancorados logo no primeiro parágrafo. Tabela proporcional de 12 linhas conferida linha a linha, faixas de desenquadramento (até 20% / acima de 20%) conferidas na Resolução CGSN nº 140/2018 e no gov.br/memp, e o MEI Caminhoneiro (R$ 251.600, INSS 12% = R$ 194,52) conferido na LC 188/2021 e na notícia da Receita — todos corretos. Honestidade editorial boa (diz que o DAS não muda com faturamento, alerta sobre sonegação, trata a migração como sinal de sucesso). **Porém:** (a) **nenhuma fonte oficial é citada com link no corpo do artigo** — 0 URLs externas (Portal do Empreendedor, Receita, gov.br) frente a 3+ nos outros artigos do cluster; em tema fiscal (YMYL) isso derruba a demonstração de autoridade; (b) o exemplo "quanto custa estourar" está **factualmente errado** (ver dados 2026); (c) não menciona a oportunidade de frescor mais relevante do tema — o PLP nº 186/2026 (teto proposto de R$ 110 mil em 2027 e R$ 140 mil em 2028, ainda em tramitação, conforme página "Teto do MEI" do gov.br/memp atualizada em 16/09/2026), exatamente a informação que quem planeja faturamento quer saber.
+
+### Justificativa SEO
+- H1 contém a keyword principal. ✔
+- H2/H3 cobrem subtópicos completos: limite mensal proporcional, abertura no meio do ano, sinais de estouro, consequências, checklist de migração, planilha, FAQ. ✔
+- Keyword aparece no título, no H1 e na primeira frase do corpo. ✔
+- FAQ com **6 perguntas reais** (mínimo: 4). ✔
+- Meta description: **195 caracteres** — 35 acima do teto de 160. ✖
+- Links internos: 5 no total (`como-abrir-um-mei`, `impostos-do-mei`, `beneficios-do-mei`, `banco-digital-para-mei`, `aposentadoria-do-mei`) — **todos do mesmo silo MEI; NENHUM cross-silo.** ✖ (requisito obrigatório do eeat-auditor)
+- Ressalva de cannibalização: o núcleo do artigo (R$ 6.750/mês, proporcional R$ 40.500 em julho, bruto × líquido) já existe em versão curta em `mei-pode-ter-carteira-assinada.md:132-138` e na FAQ `:268`, sem link entre os dois artigos.
+
+### Justificativa Qualidade Editorial
+~2.270 palavras no corpo (contagem por script; método da Auditoria 4) — **dentro da faixa 1.500–2.500** ✔. Linguagem simples e direta, 7 tabelas, listas numeradas, fórmulas prontas para planilha, dados numéricos em praticamente todo parágrafo. Escaneável (14 H2/H3). **Porém:** contém 3 erros operacionais que comprometem a utilidade prática: (1) exemplo de custo do excesso errado; (2) fórmula `=SOMASE(E:E;"Jan/26";D:D)` aponta para a coluna errada (E = "Nota Emitida?", o filtro de mês está na coluna G); (3) rótulo "R$ 72.000 (90% do teto)" — 90% de R$ 81.000 = R$ 72.900.
+
+### Justificativa Monetização
+3 blocos AdSense corretamente posicionados: `<!-- ADSENSE TOPO -->` (linha 20), `<!-- ADSENSE MEIO -->` (linha 104), `<!-- ADSENSE FINAL -->` (linha 193, antes do FAQ). ✔
+**Porém:** há **2 marcadores `<!-- AFILIADO -->`** (linhas 106 e 195) — o padrão do cluster é 1 só, após o ADSENSE FINAL (conforme `como-abrir-um-mei:209`, `impostos-do-mei:253`, `beneficios-do-mei:250`, `mei-pode-ter-carteira-assinada:238`). E a copy do affiliate_cta promete "Conta PJ com controle de faturamento automático" enquanto o link (cakto.app/AQVQPJY) é o produto Manual do Dinheiro (curso/guia) — **mesma inconsistência já apontada nas Auditorias 2 e 4**.
+
+### Frontmatter
+- title com keyword ✔ | pubDate/updatedDate 2026-10-01 ✔ | tags `["MEI", ...]` — primeira tag = silo ✔ | **5 keywords** ✔ | affiliate_cta completo com URL real ✔
+- **description: 195 caracteres** (faixa 140–160) ✖
+- **heroImage `../../assets/quanto-mei-pode-faturar-por-mes.jpg` — ARQUIVO NÃO EXISTE** em `src/assets/` ✖ (verificado por listagem: existem `como-abrir-um-mei.jpg`, `impostos-do-mei.jpg`, `beneficios-do-mei.jpg`, `mei-pode-ter-carteira-assinada.jpg` etc., mas não o deste artigo)
+
+**FRONTMATTER: Corrigir** (2 campos).
+
+### Verificação de dados 2026 (consistência × fontes oficiais × cluster)
+
+| Dado | Artigo-alvo | Fonte oficial | Cluster MEI | Situação |
+|---|---|---|---|---|
+| Salário mínimo 2026 | R$ 1.621,00 (linha 47) | Decreto nº 12.797/2025 — notícia da Receita "MEI - atualização de valores devidos em 2026" (02/01/2026) | `como-abrir-um-mei:26` ✔ | **Correto** |
+| INSS MEI (5%) | R$ 81,05 (linhas 47-51) | Receita: "R$ 81,05 de INSS (5% do salário-mínimo, de R$ 1.621,00)" | `como-abrir-um-mei:153` ✔; `mei-pode-ter-carteira:85` ✔ | **Correto** |
+| DAS comércio/serviço/misto | **R$ 82,05 / 86,05 / 87,05** (linhas 49-51) | Receita 02/01/2026: 81,05 + ICMS R$ 1,00 + ISS R$ 5,00 | `como-abrir-um-mei:153-155` ✔; `mei-pode-ter-carteira:85` ✔; `impostos-do-mei:18,91-96` = 76,90/80,90/81,90 ✖; `beneficios-do-mei:20,109` = "R$ 80"/"R$ 77 a R$ 82" ✖ | **Correto aqui** (não copiou os valores antigos, conforme instrução); divergente nos 2 artigos linkados na conclusão |
+| Teto MEI 2026 | R$ 81.000/ano (várias linhas) | gov.br/memp "Teto do MEI": "permanece válido o limite anual de R$ 81 mil" | Mesmo valor nos 4 artigos do cluster ✔ | **Correto** |
+| Média mensal | R$ 6.750,00 (linha 26) | gov.br/memp: "o valor proporcional corresponde a R$ 6.750 por mês de atividade" | `como-abrir-um-mei:61`; `impostos-do-mei:275`; `carteira:132,268` ✔ | **Correto** |
+| Tabela proporcional (12 meses de abertura) | linhas 61-74 (6.750 × nº de meses) | LC 123/2006 art. 18-A §2 + gov.br/memp (fração de mês = mês cheio) | `carteira:132` (só julho) | **Correto — todos os 12 valores conferidos** (ex.: 6 × 6.750 = 40.500; 7 × 6.750 = 47.250) |
+| Exemplo julho | 6 meses × R$ 7.000 = R$ 42.000 > R$ 40.500 (linha 76) | aritmética confere | — | **Correto** |
+| Faixas de excesso | Até 20% → R$ 97.200; efeitos a partir de 1º/jan seguinte. Acima de 20% → retroativo a 1º/jan do ano do excesso (linhas 112-123) | Resolução CGSN nº 140/2018 (art. 115) e gov.br/memp: "Mais de 20% acima do teto (acima de R$ 97.200): o desenquadramento é retroativo ao início do ano" | `como-abrir-um-mei:231` (genérico) | **Correto** |
+| **Base do cálculo do DAS de excesso** | **"Simples Nacional (Anexo III, ~6% sobre R$ 95.000) = ~R$ 5.700"** (linha 132) | **Manual DASN-SIMEI, item 4.7 (Receita): "Valor do principal = Valor que ultrapassou o limite de Receita Bruta × Percentual aplicado"** — incide **só sobre a parcela excedente** (R$ 14.000), percentuais do item 4.7.1: **1,66% sem ICMS/ISS; 3,02% com ICMS; 4,61% com ISS** | — | **ERRADO** — usa a lógica do cenário >20% (reapuração do ano inteiro) no cenário ≤20%; superestima em ~9× (correto: R$ 14.000 × 4,61% ≈ **R$ 645**) |
+| **Multa sobre o excesso** | **"Multa de 2% ao mês sobre a diferença, limitada a 20%"** (linha 115) e **"Multa (20% sobre diferença) ~R$ 933,48"** (linha 134); FAQ linha 221 "pague a diferença + multa" | Multa de 2%/mês limitada a 20% = **atraso de entrega da DASN-SIMEI** (sobre o valor total dos tributos declarados, incluindo o DAS de excesso); falta de comunicar desenquadramento no prazo = **multa fixa de R$ 50**. "Se você não atrasar o pagamento e entregar a declaração dentro do prazo, não há multa por ultrapassar o faturamento, apenas imposto adicional" (Contabilizei, alinhado ao manual). Manual: DAS de excesso vence no PA janeiro/ano seguinte (20/02) e é atualizado por multa/juros **apenas se transmitido/t pago fora do prazo** | — | **ERRADO/IMPRECISO** — apresenta multa como automática; na verdade é evitável transmitindo a DASN em tempo (até ~20/02) |
+| Prazo de comunicação do desenquadramento | Ausente (FAQ linha 222 sugere "desenquadrar em janeiro do ano seguinte") | Res. CGSN nº 140/2018, art. 115: comunicar **até o último dia útil do mês seguinte** à ocorrência do excesso (efeitos valem de 1º/jan seguinte no cenário ≤20%) | — | **OMISSÃO** — informação acionável e com multa própria (R$ 50) |
+| MEI Caminhoneiro | Teto R$ 251.600/ano; INSS 12% = R$ 194,52 (linha 227) | LC 188/2021, art. 18-F I e III; Receita 02/01/2026: "R$ 194,52 (12% do valor do salário-mínimo)" | — | **Correto** |
+| Migração: Anexo III ~6% → ~R$ 210/mês sobre R$ 3.500 (linha 160) | Anexo III 1ª faixa = 6%; 6% × 3.500 = 210; diferença 210 − 86,05 ≈ 124 (linha 162) | aritmética confere | — | **Correto** |
+| "Projeção anual acima de R$ 72.000 (90% do teto)" (linha 148) | 90% de 81.000 = **72.900** | — | — | **Erro de aritmética menor** |
+| Sonegação = Lei 8.137/90 (linha 212) | Lei 8.137/90 = crimes contra a ordem tributária | — | — | **Correto** |
+| DASN até 31/05 | mencionado | — | Mesmo valor no cluster ✔ | **Correto** |
+
+PROBLEMAS ENCONTRADOS:
+- **Seção "Na prática: quanto custa estourar?" (linhas 125-137) errada em 2 eixos**: base (6% × R$ 95.000 em vez de percentual × R$ 14.000) e multa automática inexistente. A tabela "Total extra ~R$ 5.600" e a comparação "economia de R$ 933 só de multa" (linha 137) desmoronam — com o cálculo oficial o custo do excesso é ~R$ 645, ou seja, **o cenário real inverte a conclusão implícita** (estourar até 20% sai ~9× mais barato em imposto do que já ser ME; o custo real é a migração obrigatória seguinte e a burocracia, não a conta).
+- Faixa 1 (linha 115) e FAQ (linha 221) reforçam a multa automática de 20%.
+- heroImage inexistente; meta description 195 caracteres; 0 links cross-silo; 2 marcadores AFILIADO; copy do CTA ≠ produto real.
+- Fórmula da planilha (linha 187) filtra a coluna errada (E em vez de G).
+- Frase contraditória (linhas 57-59): "O limite **não é proporcional automático**... **Mas**... no ano de abertura, o limite **é** proporcional".
+- Limiares internos inconsistentes: linha 41 diz que R$ 6.000 de média é seguro com "colchão"; linha 96 diz que recorrente acima de R$ 6.000 torna o teto "questão de tempo"; `como-abrir-um-mei:61` usa "passa de R$ 7.000 com frequência".
+- Zero links de fonte oficial (0 URLs externas) e menção ausente ao PLP 186/2026.
+- A conclusão (linhas 250-254) leva o leitor para `impostos-do-mei.md` e `beneficios-do-mei.md`, que publicam DAS divergente do valor correto usado aqui (pendência externa já registrada na Auditoria 4).
+
+CORREÇÕES OBRIGATÓRIAS (antes do commit):
+1. **Reescrever a seção "Na prática: quanto custa estourar?" (linhas 125-137)** pelo método oficial do Manual DASN-SIMEI (item 4.7): usar o termo oficial **"DAS de excesso de receita"**; base = **parcela que ultrapassou o limite × percentual do item 4.7.1 (1,66% sem ICMS/ISS; 3,02% com ICMS; 4,61% com ISS)**; recalcular o exemplo (R$ 14.000 × 4,61% ≈ **R$ 645**); **remover** a linha "Multa (20% sobre diferença) ~R$ 933,48", o "Total extra ~R$ 5.600" e a comparação de "economia de R$ 933"; explicar que o DAS de excesso é gerado na transmissão da DASN-SIMEI, com vencimento no PA janeiro/ano seguinte (20/02) **sem acréscimos se antecipado** (multa/juros só incidem se fora do prazo) e que o custo real de estourar é a migração obrigatória no ano seguinte.
+2. **Corrigir a Faixa 1 (linha 115) e a FAQ "E se eu estourar sem querer no primeiro ano?" (linhas 218-223)**: multa de 2% ao mês limitada a 20% vale para **atraso da DASN**, não pelo excesso em si (falta de comunicar desenquadramento no prazo = multa de R$ 50); incluir o prazo real: **comunicar o desenquadramento até o último dia útil do mês seguinte à ocorrência do excesso**, com efeitos a partir de 1º de janeiro do ano seguinte (≤20%) ou retroativos (>20%) — fonte: Resolução CGSN nº 140/2018, art. 115.
+3. **Criar a heroImage** `src/assets/quanto-mei-pode-faturar-por-mes.jpg` (ou trocar o caminho por imagem existente).
+4. **Encurtar a meta description de 195 → 140–160 caracteres** (ex.: "Limite mensal do MEI em 2026: quanto faturar sem estourar R$ 81 mil, limite proporcional se abrir no meio do ano, sinais de estouro e quando migrar para ME.").
+5. **Adicionar pelo menos 1 link cross-silo**: sugerido `/blog/reserva-de-emergencia-para-familia/` (Finanças Familiares) no bloco de planejamento da migração, ou `/blog/inss-para-autonomos/` (INSS) no trecho da aposentadoria no piso (linha 160).
+
+CORREÇÕES RECOMENDADAS (não obrigatórias):
+- **Citar com link as fontes oficiais** no corpo: Portal do Empreendedor/gov.br (teto), Manual DASN-SIMEI da Receita (regra do excesso), gov.br/memp (teto do MEI) — recupera o ponto de EEAT.
+- **Incluir frescor (E-E-A-T):** o PLP nº 186/2026 propõe elevar o teto para **R$ 110 mil em 2027 e R$ 140 mil em 2028**, ainda em tramitação e sem vigência (gov.br/memp — "Teto do MEI", atualizado em 16/09/2026). Para um artigo de *planejamento* de faturamento, essa é a pergunta que mais cresce — e o artigo está desatualizado nesse ponto por não citá-la.
+- Renomear a seção final "Conclusão" por título próprio (padrão recomendado nas Auditorias 1–3; ex.: "R$ 6.750 por mês: o número que resolve o seu ano").
+- Consolidar **1 único marcador `<!-- AFILIADO -->`** após o ADSENSE FINAL (remover o da linha 106), seguindo o padrão dos 4 artigos do cluster.
+- Corrigir a fórmula da linha 187: `=SOMASE(G:G;"Jan/26";D:D)` (coluna G = Mês Competência; E = Nota Emitida?).
+- Corrigir a linha 148: 90% de R$ 81.000 = R$ 72.900 (ou renomear o rótulo para "R$ 72.000, ~89% do teto").
+- Reescrever as linhas 57-59 para eliminar a contradição ("não é proporcional automático... mas é proporcional").
+- Alinhar o limiar de migração: artigo novo usa R$ 6.000, `como-abrir-um-mei:61` usa R$ 7.000 — manter um critério único ou justificar a diferença (colchão vs. limite).
+- Alinhar a copy do affiliate_cta ao produto real (link = Manual do Dinheiro, não "conta PJ"), conforme Auditorias 2 e 4.
+- **Cross-link com `mei-pode-ter-carteira-assinada.md`**: linkar a seção "Quanto dá para faturar" (linha 118) para cá e linkar de volta — resolve a sobreposição de tópico (R$ 6.750 / R$ 40.500 / bruto × líquido) e evita cannibalização entre os dois.
+- Na dica de "encerrar o MEI em dezembro" (linha 83), linkar `/blog/como-encerrar-um-mei/` (artigo existe).
+- Pendência externa (já registrada na Auditoria 4): atualizar `impostos-do-mei.md` e `beneficios-do-mei.md` para os valores 2026, pois este artigo os linka na conclusão.
+
+---
+
+## ANÁLISE DE ORIGINALIDADE (artigo novo × os 4 artigos do cluster MEI)
+
+### Aberturas (2–3 primeiras frases)
+- **quanto-mei (novo):** "Na segunda-feira passada, um motorista de aplicativo de Belo Horizonte me perguntou..." — narrativa de pergunta recebida. ✔ única em conteúdo
+- **como-abrir-um-mei:** "Na semana passada, uma manicure de Campinas me mandou mensagem..." — **mesma casca sintática** ("Na [período], [profissional] de [cidade] me [verbo]").
+- **mei-pode-ter-carteira-assinada:** "Um leitor do blog me mandou uma mensagem que já recebi dezenas de vezes..." — também "alguém me mandou/perguntou".
+- **impostos-do-mei:** coloca perguntas do público. ✔ única
+- **beneficios-do-mei:** fala comum do dia a dia ("Abri meu MEI para emitir nota"). ✔ única
+
+**Ressalva:** nenhuma frase literal se repete, mas **3 dos 5 artigos do silo abram com "alguém me perguntou/mandou mensagem"** — e o novo repete a casca exata da abertura do artigo mais forte do cluster (`como-abrir-um-mei`). O conteúdo do caso (projeção R$ 7.200 → R$ 86.400) é próprio e eficaz, mas o tipo de abertura é o padrão mais saturado do silo.
+
+### Ordem e títulos dos H2
+| # | quanto-mei (novo) | como-abrir-um-mei | impostos-do-mei | beneficios-do-mei | carteira-assinada |
+|---|---|---|---|---|---|
+| 1 | O limite mensal proporcional | O que é o MEI na prática | O que é o DAS | Benefícios previdenciários | A resposta oficial |
+| 2 | Abriu no meio do ano? | Quando vale / não vale | Valores do DAS em 2026 | Comerciais e financeiros | MEI não é 2ª carteira |
+| 3 | 5 sinais de que vai estourar | Requisitos para abrir | Como calcular e emitir | Fiscais | Direitos trabalhistas |
+| 4 | O que acontece se ultrapassar | Passo a passo | Se não pagar o DAS | Para a família | INSS duplo |
+| 5 | Quando migrar (checklist) | Quanto custa (tabela DAS) | Impostos que NÃO paga | Acesso a crédito | IR com dois vínculos |
+| 6 | Planilha de controle | Erros comuns na abertura | Declaração anual | O que NÃO tem direito | Quanto dá para faturar |
+| 7 | FAQ | Checklist 30 dias | FAQ | FAQ | 3 riscos reais |
+| 8 | Conclusão | FAQ | Conclusão | Conclusão | Checklist / Quando não vale / FAQ / Conclusão |
+
+**Conclusão:** a sequência de H2 **não é clonada**. O artigo novo é o único com blocos "**5 sinais**" (alerta antecipado), "**faixas de consequência com cálculo de custo**", "**checklist de decisão de migração para ME**" e "**planilha com fórmulas**". Não usa "passo a passo", "requisitos", "erros comuns" nem "quanto custa" como H2 — justamente os blocos-título de `como-abrir-um-mei`.
+
+### Sobreposição por artigo (estimativa)
+
+| Artigo do cluster | Sobreposição de conteúdo (estimada) | Trechos/estruturas em comum (verbatim verificado) |
+|---|---|---|
+| **mei-pode-ter-carteira-assinada.md** | **~12–15%** | MAIOR sobreposição do cluster: a seção "Quanto dá para faturar de verdade com CLT e MEI" (linhas 118-138) já contém o núcleo deste artigo em versão curta — "O limite de R$ 81.000 por ano equivale a R$ 6.750 por mês... em julho... o limite cai para R$ 40.500" (132), "o limite é sobre faturamento bruto, não sobre lucro" (134), "planeje a migração... Não espere a Receita notificar" (138) e a FAQ "Qual o limite de faturamento do MEI em 2026?" (266-268). Redação própria e formato diferente (artigo dedicado vs. seção curta), mas **os dois artigos não se linkam** → risco de cannibalização na mesma família de queries. |
+| **como-abrir-um-mei.md** | **~8–10%** | (1) "Regra prática: média mensal até cerca de R$ 6.750... planeje a migração para Microempresa (ME) antes de estourar o limite" (61) × "Regra prática para CLT... média passa de R$ 6.000... comece a planejar a migração" (41); (2) FAQ "O que acontece se eu ultrapassar R$ 81 mil no ano?" (231) × H2 "O que acontece se ultrapassar os R$ 81.000" — o novo **aprofunda** o que lá é uma resposta de 3 linhas (diferencial legítimo, não duplicação); (3) "R$ 82 a R$ 87... por mês" (53, 245) × "R$ 82 a R$ 87 em 2026" (215, 239); (4) "Não espere..." (81, 243) × "Não espere a Receita cobrar para agir" (231). Sem listas nem FAQs copiadas — **muito melhor que o da Auditoria 4**. |
+| **impostos-do-mei.md** | **~4–5%** | Conceito de DAS fixo independente do faturamento: novo (45-53) × "Você paga o mesmo valor todo mês, quer fature R$ 500 ou R$ 6.750" (275). Redação própria. A sobreposição de **dados** é de divergência (artigo antigo com valores 2025), não de texto — o novo não copiou. |
+| **beneficios-do-mei.md** | **~3–4%** | Só menções à aposentadoria no piso (160) e ao teto de R$ 81 mil (246 do artigo antigo). Nenhum bloco compartilhado. |
+
+### Perguntas de FAQ
+31 perguntas no total entre os 5 artigos (6 + 6 + 5 + 5 + 9... conferindo: novo 6, como-abrir 6, impostos 5, beneficios 5, carteira 9). **Nenhuma pergunta se repete literalmente.**
+- **Adjacências aceitáveis (2):** novo "E se eu estourar sem querer no primeiro ano?" × `como-abrir-um-mei` "O que acontece se eu ultrapassar R$ 81 mil no ano?" (mesma família de query, mas a ângulo — proporcional do 1º ano × regra geral — e as respostas são distintas); novo "O limite é bruto ou líquido?" × trecho de corpo de `carteira-assinada:134`.
+- **Exclusivas do artigo novo (4):** faturamento bruto × líquido; não emitir nota não esconde faturamento; dois MEIs; MEI Caminhoneiro; ficar "no limite" para pagar menos. ✔
+
+### Frases e trechos
+Nenhuma frase com mais de 6 palavras se repete literalmente entre o artigo novo e os 4 do cluster. Padrões repetidos (não literais, tema/redação próprios mas ecos):
+- "R$ 82 a R$ 87" aparece em 3 dos 5 artigos (novo, como-abrir, carteira) — número factual, mas a formulação "custo mais barato do Brasil... entre R$ 82 e R$ 87" (novo: 245) ecoa `carteira-assinada:284` ("o custo mensal mais baixo do Brasil: entre R$ 82 e R$ 87").
+- Construção "Não espere X..." em 3 artigos (novo: "Não espere estourar", "Não espere a DASN de maio"; como-abrir: "Não espere a Receita cobrar"; carteira: "Não espere a Receita notificar").
+- Marcadores de infraestrutura (`<!-- ADSENSE... -->`, `<!-- AFILIADO... -->`) não contam como conteúdo.
+
+### Nota de originalidade
+**7/10.** A **estrutura é genuinamente nova** dentro do silo: nenhum dos 4 artigos publicados tem blocos de "sinais de alerta", "faixas de consequência com cálculo", "checklist de decisão de migração" ou "planilha com fórmulas" — e o artigo evitou os erros da Auditoria 4 (não copiou FAQ, nem lista de "Erros comuns", nem frases de fechamento). O que segura a nota em 7 (e não 9): (1) a abertura repete a casca narrativa de `como-abrir-um-mei` — 3 dos 5 artigos do silo abram com "alguém me perguntou"; (2) o núcleo temático sobrepõe a seção "Quanto dá para faturar" de `mei-pode-ter-carteira-assinada` sem linkagem entre os dois; (3) eco de fechamento "R$ 82 a R$ 87 / custo mais barato do Brasil".
+
+---
+
+## PROBLEMAS POR PRIORIDADE
+
+### CRÍTICO (1)
+1. **Seção "Na prática: quanto custa estourar?" (linhas 125-137) com cálculo oficial errado** — aplica 6% sobre a receita total (R$ 5.700) em vez do percentual do item 4.7.1 do Manual DASN-SIMEI sobre a parcela excedente (4,61% × R$ 14.000 ≈ R$ 645), e soma multa automática de 20% que não existe se tudo for pago no prazo. Superestima o custo em ~9× e a comparação de "economia de R$ 933" (linha 137) fica sem base. Correção obrigatória nº 1.
+
+### ALTO (4)
+2. **heroImage inexistente** (`src/assets/quanto-mei-pode-faturar-por-mes.jpg`) → post quebrado/sem imagem. Correção obrigatória nº 3.
+3. **Meta description com 195 caracteres** (faixa 140–160). Correção obrigatória nº 4.
+4. **Zero links cross-silo** (5/5 internos são do silo MEI) — critério obrigatório do eeat-auditor. Correção obrigatória nº 5.
+5. **Prazo/multa do desenquadramento imprecisos** (linhas 115, 221-223): multa apresentada como automática; omite que a comunicação é até o último dia útil do mês seguinte ao excesso (Res. CGSN 140/2018, art. 115, multa de R$ 50). Correção obrigatória nº 2.
+
+### MÉDIO (5)
+6. **Zero fontes oficiais com link** no corpo (0 URLs externas) — para tema fiscal, derruba a demonstração de experiência/autoridade; incluir Portal do Empreendedor, Manual DASN-SIMEI e gov.br/memp.
+7. **Falta o frescor do PLP 186/2026** (R$ 110 mil em 2027 / R$ 140 mil em 2028, em tramitação — gov.br/memp, 16/09/2026): informação central para o público que lê justamente para planejar o teto.
+8. **Fórmula da planilha filtra coluna errada** (linha 187: SOMASE em E, deveria ser G).
+9. **Limiares de migração internamente contraditórios** (R$ 6.000 seguro × R$ 6.000 "questão de tempo" × R$ 7.000 de `como-abrir-um-mei`) e frase contraditória das linhas 57-59.
+10. **Copy do affiliate_cta ≠ produto real** (promete conta PJ; link é o Manual do Dinheiro) — pendência recorrente das Auditorias 2 e 4.
+
+### BAIXO (4)
+11. Linha 148: "R$ 72.000 (90% do teto)" — 90% = R$ 72.900.
+12. 2 marcadores `<!-- AFILIADO -->` (linhas 106 e 195) — padrão do cluster é 1, após o ADSENSE FINAL.
+13. Seção final "Conclusão" genérica (padrão a evitar desde a Auditoria 1).
+14. Sem cross-link com `mei-pode-ter-carteira-assinada.md` (sobreposição de tópico) e sem link para `/blog/como-encerrar-um-mei/` na dica de dezembro (linha 83).
+
+---
+
+## NOTAS FINAIS
+
+| Critério | Nota |
+|---|---|
+| EEAT | 7/10 |
+| SEO ON-PAGE | 7/10 |
+| Qualidade Editorial | 7/10 |
+| Monetização | 8/10 |
+| Frontmatter | **Corrigir** (description 195 chars + heroImage inexistente) |
+| Originalidade entre artigos | 7/10 |
+| **NOTA GLOBAL** | **7,2/10** |
+
+**Dados de DAS/teto 2026 solicitados na auditoria — resultado: 100% CORRETOS.** Salário mínimo R$ 1.621,00 ✔; INSS R$ 81,05 ✔; DAS R$ 82,05 (comércio) / R$ 86,05 (serviços) / R$ 87,05 (misto) ✔; teto R$ 81.000/ano e média R$ 6.750/mês ✔; tabela proporcional dos 12 meses ✔; MEI Caminhoneiro R$ 251.600 e R$ 194,52 ✔ — todos conferidos na notícia da Receita Federal de 02/01/2026 e no gov.br/memp. O artigo **não copiou** os valores antigos de `impostos-do-mei.md` (R$ 76,90–81,90) nem de `beneficios-do-mei.md` (R$ 77–82), conforme instrução. O único erro numérico relevante está no **método de cálculo do excesso** (cenário ≤20%), não nos valores de DAS/teto.
+
+**Veredito: APROVADO COM RESSALVAS.** Pode ser commitado **apenas após** as 5 correções obrigatórias — com prioridade absoluta para a nº 1 (cálculo do custo do excesso), que é o tópico central prometido no título do artigo.
+
+---
+
+## RECOMENDAÇÃO FINAL
+
+- **Commit permitido após as 5 correções obrigatórias** deste artigo (cálculo do excesso pelo Manual DASN-SIMEI; prazo/multa do desenquadramento; heroImage; meta description; link cross-silo).
+- **Ações fora deste arquivo, encadeadas da Auditoria 4 (pendências do cluster, já abertas):**
+  1. `impostos-do-mei.md` — atualizar DAS para 2026 (R$ 81,05 → 82,05/86,05/87,05; mínimo R$ 1.621) — linkado por este artigo.
+  2. `beneficios-do-mei.md` — atualizar "R$ 77 a R$ 82" e "R$ 80 mensais" — linkado por este artigo.
+  3. `mei-pode-ter-carteira-assinada.md` — adicionar link para este artigo na seção "Quanto dá para faturar" (linha 132) e no FAQ da linha 266, fechando a cannibalização.
+  4. `como-abrir-um-mei.md` — apontar a regra de excedente (FAQ linha 231) para este artigo, que agora é a referência detalhada do cluster.
+- **Padrão a manter nos próximos artigos do cluster MEI:**
+  1. Nunca reaproveitar abertura com a casca "Na semana X, [profissional] de [cidade] me perguntou/mandou mensagem" — já usada em `como-abrir-um-mei` e neste artigo; diversificar o tipo de abertura (número de mercado, cenário, contraste).
+  2. Todo cálculo tributário num exemplo precisa da **base, do percentual e do prazo conferidos no manual oficial** (Receita/Sebrae) — superestimar custo de penalidade é erro de substância, pior que erro de forma.
+  3. HeroImage e meta description conferidas **antes** de entregar o artigo (2 falhas de frontmatter seguidas: Auditoria 4 aprovou com todas as imagens; este artigo falhou as duas).
+   4. Todo artigo novo do silo deve linkar **pelo menos 1 cross-silo** e **1 artigo irmão de tópico próximo** (no caso, `mei-pode-ter-carteira-assinada`), para não competir consigo mesmo na mesma query.
+
+---
+
+# REAUDITORIA — quanto-mei-pode-faturar-por-mes.md (pós-correções)
+
+**Data:** 03/10/2026
+**Escopo:** reauditoria das **5 correções obrigatórias** apontadas na Auditoria 5 (01/10/2026) + veredito sobre o CTA de afiliado.
+**Arquivo:** `src/content/blog/quanto-mei-pode-faturar-por-mes.md` (266 linhas; ~2.265 palavras no corpo — faixa 1.500–2.500 ✔)
+
+## STATUS DAS 5 CORREÇÕES OBRIGATÓRIAS
+
+| # | Correção obrigatória (Auditoria 5) | Status |
+|---|---|---|
+| 1 | Recalcular "Na prática: quanto custa estourar?" pelo item 4.7 do Manual DASN-SIMEI | **RESOLVIDO** (com ressalva menor) |
+| 2 | Corrigir Faixa 1 + FAQ: prazo/multa do desenquadramento | **RESOLVIDO** |
+| 3 | Criar/trocar a heroImage | **NÃO RESOLVIDO** |
+| 4 | Meta description 195 → 140–160 caracteres | **RESOLVIDO** |
+| 5 | Adicionar ≥1 link cross-silo | **RESOLVIDO** |
+
+### Item 1 — Cálculo do excesso (Manual DASN-SIMEI, item 4.7): **RESOLVIDO** ✔
+Evidência no artigo atual:
+- **Linha 118:** "Paga o **DAS de excesso**, gerado automaticamente na entrega da DASN-SIMEI: percentual fixo (1,66% sem ICMS/ISS; 3,02% com ICMS; **4,61% com ISS**) aplicado **somente sobre o valor que ultrapassou o limite**" — base e percentuais agora corretos.
+- **Linhas 130–140:** exemplo recalculado — excedente R$ 14.000 × 4,61% = **~R$ 645,40**; "Multa sobre o excesso (se pago no prazo) | **R$ 0,00**"; "Total extra | **~R$ 645**". O "Total extra ~R$ 5.600" e a "multa de R$ 933,48" **foram removidos**.
+- **Linha 132:** cita a fonte — "o **item 4.7 do Manual DASN-SIMEI da Receita**".
+- **Linha 142:** "Comparação honesta: quem já está como ME pagaria cerca de R$ 5.700 no ano (6% sobre R$ 95.000)" — o R$ 5.700 permanece **apenas como comparação legítima** de quem já é ME (não como cálculo do excesso) e a conclusão foi invertida para a correta: "estourar até 20% **não custa uma fortuna em imposto** — o estrago real é a migração obrigatória".
+- **Linha 144:** "**E a multa?** Ela **não é automática**… só incide sobre atraso".
+- **Ressalva menor (não bloqueante):** o artigo não informa o vencimento do DAS de excesso no PA janeiro/ano seguinte (20/02) sem acréscimos se recolhido no prazo, e usa o termo curto "DAS de excesso" em vez do oficial "DAS de excesso de receita".
+
+### Item 2 — Prazo/multa do desenquadramento (Faixa 1 + FAQ): **RESOLVIDO** ✔
+Evidência:
+- **Linhas 115–117 (Faixa 1):** "**Desenquadramento obrigatório**, com efeitos a partir de 1º de janeiro do ano seguinte"; "Comunique o desenquadramento no Portal do Simples Nacional **até o último dia útil do mês seguinte ao mês em que o excesso ocorreu** — perder o prazo gera multa de **R$ 50,00**".
+- **Linha 124 (Faixa 2):** juros Selic e "multa de 2% ao mês (limitada a 20%) **por ser pagamento em atraso**".
+- **Linha 144:** "Multa de 2% ao mês (limitada a 20%) só incide sobre atraso — de entrega da DASN-SIMEI ou de pagamento do DAS de excesso. Perder o prazo de comunicação do desenquadramento custa multa fixa de **R$ 50,00**".
+- **Linha 146:** "o desenquadramento não é opcional… até o fim do mês seguinte".
+- **FAQ (linhas 230–232):** passo 1 com prazo + multa de R$ 50; passo 2 com DAS de excesso só sobre o valor acima do limite; passo 3 com efeitos a partir de 1º de janeiro do ano seguinte. A antiga "pague a diferença + multa" automática **não existe mais**.
+- **Ressalva menor (não bloqueante):** a fonte Resolução CGSN nº 140/2018, art. 115 não é citada nominalmente (está na lista de *recomendadas*).
+
+### Item 3 — heroImage: **NÃO RESOLVIDO** ✖
+- O campo **`heroImage` está ausente do frontmatter** do artigo (linhas 1–13: apenas title, description, pubDate, updatedDate, tags, keywords, affiliate_cta).
+- O arquivo **`src/assets/quanto-mei-pode-faturar-por-mes.jpg` NÃO existe** (verificado por listagem: existe apenas `quanto-custa-um-mei.jpg`, de outro artigo).
+- O schema torna o campo opcional (`src/content.config.ts:20` — `z.optional(image())`), então o build **não quebra**, mas o post publica **sem imagem destacada** e o critério de frontmatter do eeat-auditor exige heroImage com caminho válido. Os **outros 45 artigos do blog** todos possuem heroImage.
+- **Ação necessária:** criar `src/assets/quanto-mei-pode-faturar-por-mes.jpg` e declarar `heroImage: "../../assets/quanto-mei-pode-faturar-por-mes.jpg"` (ou apontar para imagem existente).
+
+### Item 4 — Meta description: **RESOLVIDO** ✔
+- **Linha 3 (description):** "Limite mensal do MEI em 2026: quanto faturar sem estourar R$ 81 mil/ano, regra proporcional se abrir no meio do ano, sinais de estouro e quando migrar para ME." — medido programaticamente: **159 caracteres** (era 195), dentro da faixa 140–160.
+
+### Item 5 — Link cross-silo: **RESOLVIDO** ✔
+- **Linha 171:** link para `/blog/inss-para-autonomos/` (**silo INSS** — "o guia de INSS para autônomos explica esse cálculo") **e** para `/blog/reserva-de-emergencia-para-familia/` (**silo Finanças Familiares**).
+- Reforçado nos "Próximos passos" (linhas 265–266), mesmos dois links.
+- Ambos os arquivos de destino existem em `src/content/blog/` (verificado). Requisito de ≥1 cross-silo **atendido com 2**.
+
+## VEREDITO DO CTA DE AFILIADO — **ALINHADO** ✔
+- **Destino:** `https://cakto.app/AQVQPJY/?affiliate=qbWLFHdj` (frontmatter, linha 12) — **idêntico ao usado nas 45 publicações** do blog (verificado por varredura: todas as 45 ocorrências de `url:` apontam para este mesmo link). Trata-se do afiliado principal do repositório: **Manual do Dinheiro** (Dinheiro Falante), um curso/guia de educação financeira vendido na Cakto.
+- **Produto promovido × copy:** a copy foi reescrita e agora descreve o produto real — title "Seu MEI está crescendo? Aprenda a organizar as finanças antes de migrar para ME"; description "**Curso de educação financeira** para controlar o faturamento mês a mês, separar dinheiro pessoal do da empresa e preparar a reserva antes da mudança de regime"; buttonText "Quero organizar as finanças do meu MEI". **Nenhuma promessa de produto que o link não entrega** — as cópias antigas apontadas nas Auditorias 2/4/5 ("Conta PJ com controle de faturamento automático", "consultoria previdenciária") **foram removidas**.
+- **Renderização:** o bloco é renderizado **uma única vez** pelo `src/layouts/BlogPost.astro:116-121` a partir do frontmatter, com disclosure "Link de afiliado" e `rel="sponsored"` (`src/components/AffiliateCTA.astro:19,25`) — adequado às políticas do AdSense.
+- **CTA não agressivo:** um único bloco, texto contextual ao tema, sem interrupção da leitura no meio do artigo.
+- **Ressalva (não bloqueante):** ainda existem **2 marcadores internos** `<!-- AFILIADO: consultoria MEI -->` (linha 109) e `<!-- AFILIADO: planilha/consultoria MEI -->` (linha 204) — rótulos que ainda dizem "consultoria" (produto errado) e fogem do padrão do cluster (1 marcador, após o ADSENSE FINAL). São comentários HTML **invisíveis** na página (não afetam o leitor nem o AdSense), mas devem ser unificados e renomeados para "curso Manual do Dinheiro".
+
+## CORREÇÕES RECOMENDADAS — status rápido
+- ✔ **Frescor/PLP 186/2026** incluído (linhas 42–44) com link oficial `gov.br/memp/pt-br/teto-do-mei` (R$ 110 mil em 2027 / R$ 140 mil em 2028, em tramitação).
+- ✔ **"R$ 72.000 (~89% do teto)"** — rótulo corrigido (linha 155; era "90%").
+- ✔ **Link de fonte oficial externa:** 1 URL externa no corpo (era 0).
+- ✖ Fórmula da planilha ainda filtra a coluna errada (linha 196: `=SOMASE(E:E;…)` deveria ser `G:G` — coluna "Mês Competência").
+- ✖ Ainda 2 marcadores `<!-- AFILIADO -->` (linhas 109 e 204) em vez de 1.
+- ✖ Sem cross-link para `mei-pode-ter-carteira-assinada.md` (sobreposição de tópico R$ 6.750 / R$ 40.500) e sem link para `/blog/como-encerrar-um-mei/` na dica de dezembro (linha 86).
+- ✖ Seção final ainda se chama "Conclusão" genérica (linha 249).
+- ✖ Contradição das linhas 60–62 persiste ("O limite **não é proporcional automático**… **Mas**… o limite **é** proporcional").
+- ✖ Somente 1 fonte oficial com link (gov.br/memp); faltam Portal do Empreendedor e Manual DASN-SIMEI como links.
+
+## CONCLUSÃO GERAL (03/10/2026)
+
+**4 das 5 correções obrigatórias foram RESOLVIDAS** (cálculo do excesso, prazo/multa do desenquadramento, meta description e cross-silo) e o **CTA de afiliado está ALINHADO ao produto real** (Manual do Dinheiro, link único do blog, copy de curso, disclosure de afiliado presente).
+
+**PENDÊNCIA RESTANTE (bloqueante): item 3 — heroImage.** O artigo está publicável **após** adicionar `heroImage` ao frontmatter com arquivo real em `src/assets/` (ou apontando para imagem existente). Enquanto isso, **NÃO liberar para submissão/revisão do Google AdSense** — é a 3ª falha de frontmatter seguida do cluster (Auditorias 4 e 5 aprovaram outras imagens; este artigo falhou description + heroImage).
+
+**Veredito: APROVADO COM 1 PENDÊNCIA ÚNICA** — liberar para AdSense assim que a heroImage for criada e declarada; as correções recomendadas acima (fórmula SOMASE, 1 único marcador AFILIADO, cross-link com `mei-pode-ter-carteira-assinada`, título da conclusão) elevam a nota mas não bloqueiam.
