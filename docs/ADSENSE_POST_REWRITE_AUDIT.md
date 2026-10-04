@@ -1154,3 +1154,206 @@ Evidência:
 **PENDÊNCIA RESTANTE (bloqueante): item 3 — heroImage.** O artigo está publicável **após** adicionar `heroImage` ao frontmatter com arquivo real em `src/assets/` (ou apontando para imagem existente). Enquanto isso, **NÃO liberar para submissão/revisão do Google AdSense** — é a 3ª falha de frontmatter seguida do cluster (Auditorias 4 e 5 aprovaram outras imagens; este artigo falhou description + heroImage).
 
 **Veredito: APROVADO COM 1 PENDÊNCIA ÚNICA** — liberar para AdSense assim que a heroImage for criada e declarada; as correções recomendadas acima (fórmula SOMASE, 1 único marcador AFILIADO, cross-link com `mei-pode-ter-carteira-assinada`, título da conclusão) elevam a nota mas não bloqueiam.
+
+---
+
+# Auditoria 6 — Artigo novo do cluster Cartões/Limite (como-funciona-limite-cartao-de-credito.md)
+
+**Data:** 04/10/2026
+**Escopo:** 1 artigo recém-criado: `como-funciona-limite-cartao-de-credito.md` — auditado com comparação obrigatória de originalidade contra 2 artigos do mesmo cluster: `como-aumentar-limite-cartao.md` (mesmo silo/secundária "Limite de Crédito") e `cartao-para-negativado.md` (silo Cartões), além de checagem de afirmações contra fontes externas (Serasa, Banco Central, STJ, bancos emissor).
+**Critério principal:** originalidade entre artigos do mesmo cluster (motivo histórico da rejeição do AdSense: templates repetidos) + precisão factual das afirmações sobre comportamento do banco (YMYL).
+
+---
+
+## RESUMO EXECUTIVO
+
+| Artigo | Silo | EEAT | SEO | Q. Editorial | Monetiz. | Frontmatter | Originalidade | Resultado |
+|---|---|---|---|---|---|---|---|---|
+| como-funciona-limite-cartao-de-credito.md | Cartões | 6 | 7 | 9 | 9 | Aprovado | 8 | **APROVADO COM RESSALVAS** |
+
+**Nota global: 7,8/10.**
+
+**Veredito geral:** artigo bem escrito, escaneável, com 2.269 palavras (dentro da faixa), 7 perguntas de FAQ, tabela de sinais, blocos AdSense/afiliado corretos e **CTA de afiliado plenamente alinhado ao produto real** (nomeia o Manual do Dinheiro como guia — o padrão exigido desde a reauditoria da Auditoria 5). A originalidade está **acima da média do cluster**: 0,22% de 6-gramas literais vs. `como-aumentar-limite-cartao` e **0% vs. `cartao-para-negativado`**, com H2s e FAQs não sobrepostos. O que segura a nota em 6 no EEAT: (1) **zero fontes externas/autoridade no corpo** (0 URLs) em tema YMYL; (2) a FAQ "O banco é obrigado a avisar quando muda meu limite?" responde **"Não" de forma categórica**, enquanto a Resolução BCB nº 96/2021 (c/c 365/2023) exige comunicação prévia de redução em determinados casos e o **STJ (REsp 2.215.427, out/2025)** reconheceu que reduzir limite sem avisar configura falha na prestação do serviço; (3) meta description com **116 caracteres** (abaixo do mínimo de 140).
+
+---
+
+## 1. ARTIGO: como-funciona-limite-cartao-de-credito.md
+
+KEYWORD PRINCIPAL: como funciona limite do cartão de crédito
+SILO: Cartões
+
+PONTUAÇÃO:
+- EEAT: 6/10
+- SEO ON-PAGE: 7/10
+- QUALIDADE EDITORIAL: 9/10
+- MONETIZAÇÃO: 9/10
+- FRONTMATTER: Aprovado
+- ORIGINALIDADE ENTRE ARTIGOS: 8/10
+
+RESULTADO GERAL: **APROVADO COM RESSALVAS**
+
+### Justificativa EEAT
+Abertura por pergunta do cotidiano com exemplo numérico (R$ 2.000 → R$ 1.200) e promessa clara de escopo (linha 16-20). Profundidade real: framework próprio dos "quatro motores" (score, renda visível, relacionamento, uso/pagamento — linhas 43-71), tabela de sinais de comportamento (63-69), 6 gatilhos de queda de limite (95-117) e 7 perguntas de FAQ — vai bem além do óbvio. Honestidade forte: não promete aumento garantido, desmonta a leitura emocional ("não é recompensa pessoal", linha 87; "quase certamente é isso" para cortes em lote, linha 113) e entrega hábitos acionáveis (print mensal do limite, atualizar renda, Serasa mensal — 123-129). **Porém:** (a) **0 URLs externas no corpo** — nenhuma fonte oficial (bcb.gov.br, Serasa, Febraban, página de ajuda do banco) é citada, mesmo fazendo dezenas de afirmações sobre prática bancária; para tema YMYL isso cai no critério "cita fontes confiáveis" do protocolo; (b) a FAQ da linha 163-165 dá resposta categórica "Não" sobre aviso de mudança de limite, contradizendo parcialmente norma do Banco Central e precedente do STJ (ver tabela de fact-check); (c) sem sinal de experiência pessoal/caso de leitor (abertura é retórica) — os artigos aprovados das Auditorias 1-5 ancoraram em caso real ou número de mercado; (d) "score é recalculado a cada consulta" (linha 49) é formulação flexível (o score muda quando há movimentação/consultas, não "a cada consulta" em si).
+
+### Justificativa SEO
+- H1/título contém a keyword principal ("Como Funciona o Limite do Cartão de Crédito (e Por Que Ele Muda)"). ✔
+- H2/H3 cobrem subtópicos e variações: número inicial, 4 motores, por que sobe sozinho, por que desce sozinho, como acompanhar, FAQ. ✔
+- FAQ com **7 perguntas reais** (mínimo: 4). ✔
+- Meta description: **116 caracteres** — 24 abaixo do mínimo de 140. ✖
+- Links internos do mesmo silo (Cartões): `/blog/como-aumentar-limite-cartao/` (linha 131, âncora contextual perfeita — encaminha o leitor que quer "pedir" após entender "como funciona") e `/blog/cartao-credito-ou-debito/` (linha 173). ✔
+- Link cruzado para outro silo: `/blog/melhor-conta-digital/` (Bancos Digitais, linha 173). ✔ (1 cross-silo, mínimo exigido atendido)
+- Cannibalização: keywords primárias **não se sobrepõem** às de `como-aumentar-limite-cartao` (comparadas lista por lista — intenções distintas: "como funciona/revisão" × "como aumentar/pedir"); nenhuma pergunta de FAQ se repete. ✔
+
+### Justificativa Qualidade Editorial
+**2.269 palavras** no corpo (contagem por script, mesmo método das auditorias anteriores) — dentro da faixa 1.500–2.500. Linguagem simples e direta, sem juridiquês/economês. Texto escaneável: 6 H2 + 7 H3, parágrafos curtos, 2 listas, 1 tabela, perguntas em negrito. Dados numéricos concretos em todo o texto (R$ 2.000→R$ 1.200, 3 a 6 meses, 30%–70%, 20%–30% de oferta espontânea, 3 a 6 meses de inatividade). Nada genérico — o framework dos "4 motores" e a tabela de sinais são exclusivos deste artigo. Ressalvas menores: "tende a **derrubar** para cima" (linha 149) é gafe de linguagem; seção final genérica "Conclusão" (linha 167).
+
+### Justificativa Monetização
+3 blocos AdSense corretamente posicionados: `<!-- ADSENSE TOPO -->` (linha 26), `<!-- ADSENSE MEIO -->` (linha 73), `<!-- ADSENSE FINAL -->` (linha 133) + **1 único** `<!-- AFILIADO -->` (linha 135, após o FINAL — padrão do cluster). ✔
+**CTA de afiliado: ALINHADO** — title/description nomeiam o produto real ("O Manual do Dinheiro é um guia prático pra organizar contas, fatura e limite do cartão"), buttonText "Conhecer o Manual do Dinheiro", URL real do afiliado. Nenhuma promessa de produto que o link não entrega (pendência resolvida aqui, diferente das Auditorias 2/4/5). CTA contextual, não agressivo, após o conteúdo de monitoramento e antes do FAQ. ✔
+
+### Frontmatter
+Todos os campos obrigatórios presentes e preenchidos: title com keyword ✔ | pubDate/updatedDate 2026-10-04 ✔ | tags `["Cartões", "Limite de Crédito", "Finanças Pessoais"]` — primeira tag = "Cartões" (silo exato) ✔ | **6 keywords** (mínimo 5) ✔ | heroImage `../../assets/como-funciona-limite-cartao-de-credito.jpg` — **arquivo existe** em `src/assets/` ✔ | affiliate_cta completo, URL real (não vazia, não "#") ✔.
+**Ressalva (campo presente, faixa incorreta):** `description` com **116 caracteres** (faixa 140–160) — tratada como falha do critério SEO (correção obrigatória nº 1), não como reprovação de frontmatter (campos todos existem e estão preenchidos).
+
+**FRONTMATTER: Aprovado.**
+
+### Verificação de afirmações (fact-check)
+
+| Afirmação (linha) | Verificação externa | Situação |
+|---|---|---|
+| "a maioria dos bancos reavalia o limite a cada 3 a 6 meses" (24, 77, 141) | **Serasa:** "o período médio estipulado para a revisão automática pelos algoritmos dos bancos varia entre **90 e 180 dias**"; **BV:** "esse tempo costuma variar entre **três e seis meses**" | **Correto** ✔ |
+| "aumento automático não gera consulta ao CPF… você solicitando… pode mexer levemente no score" (89) | **Serasa:** após pedido de aumento "pode haver uma consulta ao CPF, que representa 6% da pontuação… queda de no máximo **60 pontos**"; aumentos automáticos partem de dados que o banco já tem | **Correto** ✔ (pode ser enriquecido com o número 60) |
+| "consulta gratuita no Serasa" (129) | Serasa Limpa Nome/Score gratuito | **Correto** ✔ |
+| "Redução a pedido não derruba o score; usar quase todo o limite, sim (alta utilização)" (161) | Lógica de taxa de utilização; comportamento reconhecido pelos birôs | **Correto** ✔ |
+| "De 3 a 6 meses de inatividade já bastam" para redução (97) | Prática de mercado; sem norma pública fixa — texto já usa hedge "em geral" | **Plausível** ✔ (adicionar fonte) |
+| "oferta espontânea de 20% ou 30% a mais" em bloco (87) | Prática comum de bancos em períodos de expansão de crédito | **Plausível** ✔ |
+| FAQ: "O banco é obrigado a avisar quando muda meu limite? — **Não**" (163-165) | **Resolução BCB nº 96/2021 (art. 26, §1º), alterada pela Res. BCB nº 365/2023:** redução de limites de crédito em conta de pagamento pós-paga deve ser precedida de comunicação com **mínimo de 30 dias de antecedência** (sem prazo apenas em deterioração do perfil, com aviso no momento da redução). **STJ, REsp 2.215.427 (3ª Turma, out/2025, rel. Min. Nancy Andrighi):** reduzir limite do cartão sem comunicação prévia **configura falha na prestação do serviço** (art. 14 CDC + Res. 96/2021), embora **não** gere dano moral presumido. **CDC, art. 6º, III:** dever de informação. Contratos de cartão de fato admitem revisão unilateral. | **Incompleto/incorreto no formato categórico** ⚠ → correção obrigatória nº 2 |
+| "O score… é recalculado a cada consulta" (49) | O score muda com eventos (consultas, pagamentos, cadastro); "a cada consulta" é simplificação | **Formulação flexível** ⚠ (recomendada) |
+
+PROBLEMAS ENCONTRADOS:
+- Meta description com **116 caracteres** (24 abaixo do mínimo de 140).
+- FAQ "O banco é obrigado a avisar quando muda meu limite?" (163-165) responde "Não" sem a nuance da Res. BCB nº 96/2021/365/2023 e do STJ (REsp 2.215.427, out/2025) — afirmação categórica em YMYL.
+- **Zero fontes externas/autoridade** (0 URLs no corpo) — critério de autoridade do EEAT não demonstrado.
+- Inconsistência de faixa de uso no cluster: aqui **30%–70%** (linhas 65, 149) × `como-aumentar-limite-cartao` **40%–70%** (linhas 34, 36, 68, 147, 155) × `cartao-para-negativado` **20%–30%** (contexto de reconstrução — este sim justificado).
+- Frase awkward "tende a derrubar para cima" (149).
+- Seção final "Conclusão" genérica (167) — padrão que as Auditorias 1-3 recomendam evitar.
+- `como-aumentar-limite-cartao.md` **não linka de volta** para este artigo (linkagem unidirecional).
+
+CORREÇÕES OBRIGATÓRIAS (antes do commit / submissão ao AdSense):
+1. **Reescrever a meta description para 140–160 caracteres** (hoje 116). Sugestão (~150): "Descubra como o banco calcula o limite do seu cartão, por que ele sobe ou desce sem aviso e o que observar a cada revisão para não ser pego de surpresa."
+2. **Nuancar a FAQ "O banco é obrigado a avisar quando muda meu limite?" (163-165)**: manter que os contratos de cartão admitem revisão unilateral, mas informar que o aviso não é totalmente livre — Res. BCB nº 96/2021 (c/c Res. 365/2023) exige comunicação prévia de redução em conta pós-paga (mínimo 30 dias, ou no momento da redução em caso de piora de risco) e que o **STJ reconheceu (REsp 2.215.427, out/2025)** que reduzir o limite sem avisar é falha na prestação do serviço (sem dano moral automático). Benefício duplo: corrige a factualidade **e** injeta frescor + autoridade (frescor/E-E-A-T).
+3. **Adicionar pelo menos 2 fontes externas com link** no corpo/FAQ: (a) **bcb.gov.br** — FAQ oficial "Limite de cartão de crédito" (`bcb.gov.br/meubc/faqs/p/limite-de-cartao-de-credito`) no bloco dos 4 motores; (b) **Serasa** — artigo sobre revisão automática (90–180 dias) e impacto do pedido de aumento (até 60 pontos) nas linhas 77/89; (c) notícia do **STJ** na FAQ do item 2. Recupera o critério de autoridade do EEAT.
+
+CORREÇÕES RECOMENDADAS (não obrigatórias):
+- **Alinhar a faixa de uso saudável do cluster**: adotar 30%–70% (ou 40%–70%) em `como-aumentar-limite-cartao` e aqui, deixando explícito que 20%–30% é a faixa para reconstrução de score (`cartao-para-negativado`) — hoje o leitor que lê os dois artigos do mesmo silo recebe números conflitantes.
+- Variar a âncora do link `/blog/melhor-conta-digital/` (linha 173): "guia de melhor conta digital **para escolher onde centralizar sua movimentação**" é praticamente o de `como-aumentar-limite-cartao:72` ("…para escolher onde centralizar **suas finanças**") — único 6-grama compartilhado que não é genérico.
+- Pedir (em `como-aumentar-limite-cartao.md`) o link de volta para cá na seção "Estratégias práticas" — fecha a linkagem bidirecional entre os 2 artigos do cluster de limite.
+- Corrigir "tende a derrubar para cima" (149) → "tende a puxar/empurrar o limite para cima".
+- Renomear "Conclusão" (167) por título próprio (ex.: "O limite é um número vivo — e agora você sabe lê-lo").
+- Enriquecer a abertura com um sinal de experiência (caso de leitor ou cenário narrado) — padrão EEAT das Auditorias 1-5; hoje é só pergunta retórica.
+- Corrigir/softening "recalculado a cada consulta" (49) → "recalculado sempre que há novidade no seu CPF (consulta, pagamento, cadastro)".
+
+---
+
+## ANÁLISE DE ORIGINALIDADE (artigo novo × como-aumentar-limite-cartao × cartao-para-negativado)
+
+### Aberturas (2–3 primeiras frases)
+- **como-funciona-limite-cartao (novo):** dupla pergunta retórica com exemplo numérico ("Você já reparou que o limite… aparece maior…? …R$ 2.000 caiu para R$ 1.200?"). ✔ única
+- **como-aumentar-limite-cartao:** frustração vivida pelo leitor ("Nada mais frustrante do que… cartão ser negado na maquininha… Se isso já aconteceu com você"). ✔ única
+- **cartao-para-negativado:** cenário de porta fechada ("Ter o nome negativado já é difícil por si só… a porta parece fechar na sua cara"). ✔ única
+
+3 aberturas estruturalmente distintas (pergunta retórica + número vs. dor da negação vs. cenário de restrição). **Nenhuma frase se repete entre elas.**
+
+### Ordem e títulos dos H2
+| # | como-funciona-limite (novo) | como-aumentar-limite | cartao-para-negativado |
+|---|---|---|---|
+| 1 | De onde vem o número inicial do seu limite | O que os bancos avaliam pra liberar mais limite | Por que negativado tem dificuldade |
+| 2 | Os quatro motores que calculam o seu limite | Estratégias práticas pra aumentar naturalmente | Pré-pago e com garantia — como funcionam |
+| 3 | Por que o limite sobe sozinho | Como pedir aumento diretamente | Cartões que aceitam negativado |
+| 4 | Por que o limite desce sozinho | Erros que travam o aumento | Como usar pra reconstruir o score |
+| 5 | Como acompanhar as mudanças | FAQ | FAQ |
+| 6 | FAQ (7 perguntas) | Conclusão | Conclusão |
+| 7 | Conclusão | — | — |
+
+**Conclusão:** a sequência de H2 **não é clonada**. O novo é o único com "número inicial", "4 motores", "sobe sozinho × desce sozinho" (par explicativo exclusivo) e "como acompanhar". `como-aumentar` é o único com "estratégias", "como pedir" e "erros"; `negativado` é o único com modalidades de produto (pré-pago/garantia/consignado/loja). O novo **não** usa "erros", "passo a passo" nem "estratégias" — blocos-título do artigo vizinho.
+
+**Padrões compartilhados (leves, não bloqueantes):**
+- Caixa de **pergunta em negrito + resposta curta antes do `ADSENSE TOPO`** (novo:22-24; aumento:22-24; negativado:22-24) — padrão de featured snippet do site, infraestrutura editorial, não template clonado.
+- Os 3 encerram com "## Conclusão" (título genérico — recomendado renomear, conforme Auditorias 1-3).
+- Núcleo conceptual "o que o banco avalia" é compartilhado entre o novo ("4 motores", 43-71) e `como-aumentar` ("O que os bancos avaliam", 28-52): mesmos 5 fatores (uso, fatura integral, renda, relacionamento, score). **Ângulos diferentes** (mecanismo vs. como explorar para conseguir aumento) e **profundidades diferentes** (aqui inclui tabela de sinais, renda "invisível" e efeito em cadeia score→confiança→limite), mas é a zona de maior proximidade temática — ver tabela de sobreposição.
+
+### Sobreposição por artigo (medida por 6-gramas, mesmo método das Auditorias 4-5)
+
+| Artigo comparado | 6-gramas literais idênticos | Sobreposição de conteúdo (estimada) | Observações |
+|---|---|---|---|
+| **como-aumentar-limite-cartao.md** | **5 / 2.223 = 0,22%** | **~10–12%** (conceitual) | Os 5 6-gramas: "o limite do cartão de crédito" (frase-tópico inevitável), "o valor total antes do vencimento" (conselho padrão), "de 3 a 6 meses de" (número), e **"melhor conta digital para escolher onde centralizar"** (âncora de link quase idêntica — linha 173 × `aumentar:72`). Sobreposição conceitual: lista de fatores avaliados pelo banco, faixa de uso %, "atualizar renda no app", "pagar fatura integral", revisão 3-6 meses. **Nenhum parágrafo, lista ou FAQ duplicado.** |
+| **cartao-para-negativado.md** | **0 / 2.223 = 0%** | **~2–3%** (conceitual) | Zero coincidência literal. Só o conselho genérico compartilhado de todo o silo ("pague a integral, evite atraso") e a menção final ao mesmo artigo cruzado `/blog/cartao-credito-ou-debito/` (âncoras "nosso comparativo de" × "nosso artigo sobre" — praticamente iguais, mas é link, não conteúdo). Temas, H2s, formatos e FAQs 100% distintos. |
+
+### Perguntas de FAQ
+20 perguntas no total entre os 3 artigos (7 + 6 + 6... conferindo: novo 7, aumento 6, negativado 6 = **19**). **Nenhuma pergunta se repete** entre os 3 artigos.
+- **Adjacência aceitável (1):** novo "Com que frequência o banco **revisa** o limite?" × aumento "Quanto tempo leva para o banco **aumentar automaticamente**?" — mesma faixa 3-6 meses, mas objeto diferente (revisão × aumento) e respostas próprias. Baixo risco de cannibalização; manter assim.
+- Exclusivas do novo (todas as 7): limite cair sem erro, usar todo o limite, atualizar renda na hora, limite baixo mesmo ganhando bem, redução manual × score, obrigação de avisar. ✔
+
+### Frases e trechos
+Nenhuma frase com mais de 6 palavras se repete literalmente entre o novo e `cartao-para-negativado` (0 six-gramas). Entre o novo e `como-aumentar`, apenas os 5 six-gramas listados acima — nenhum deles um parágrafo ou lista copiada (os 3 primeiros são expressões funcionais; o 4º é âncora de link). Marcadores de infraestrutura (`<!-- ADSENSE... -->`, `<!-- AFILIADO... -->`, caixa de snippet) não contam como conteúdo.
+
+### Nota de originalidade
+**8/10.** O artigo **não** reproduz o padrão de rejeição anterior (template "X vale a pena" repetido): abertura, ordem de H2, blocos exclusivos ("4 motores", "sobe × desce sozinho", "como acompanhar"), 7 FAQs próprias e 0% de duplicação literal contra `cartao-para-negativado`. O que segura de 9: (1) ~10-12% de sobreposição **conceitual** com `como-aumentar-limite-cartao` no bloco "o que o banco avalia" (o risco real do cluster é esse par, não o negativado); (2) âncora de link a `melhor-conta-digital` quase idêntica à do artigo vizinho; (3) faixa de uso 30%-70% aqui × 40%-70% lá — mesma afirmação do cluster com números conflitantes; (4) os 3 fecham com "Conclusão".
+
+---
+
+## PROBLEMAS POR PRIORIDADE
+
+### CRÍTICO (0)
+- Nenhum. Sem dado errado destrutivo, sem frontmatter quebrado (heroImage existe), sem bloco AdSense ausente, sem link interno morto (os 3 destinos conferidos: `como-aumentar-limite-cartao`, `cartao-credito-ou-debito`, `melhor-conta-digital` existem).
+
+### ALTO (3)
+1. **FAQ "O banco é obrigado a avisar?" com resposta categórica "Não"** (163-165) — não contempla Res. BCB nº 96/2021/365/2023 nem STJ REsp 2.215.427 (out/2025). Correção obrigatória nº 2.
+2. **Zero fontes externas/autoridade** em YMYL (0 URLs no corpo). Correção obrigatória nº 3.
+3. **Meta description 116 caracteres** (faixa 140–160). Correção obrigatória nº 1.
+
+### MÉDIO (4)
+4. Inconsistência de faixa de uso entre os 2 artigos do cluster de limite (30%-70% × 40%-70%).
+5. Âncora do link `melhor-conta-digital` quase idêntica à de `como-aumentar-limite-cartao:72`.
+6. Sem link de volta em `como-aumentar-limite-cartao` para o artigo novo (linkagem unidirecional do cluster).
+7. Sobreposição conceitual do bloco "fatores que o banco avalia" (~10-12% com `como-aumentar`) — mitigável aprofundando o diferencial (mecanismo em cadeia, renda invisível, tabela) e deixando o "como explorar" para o artigo vizinho.
+
+### BAIXO (4)
+8. "Tende a derrubar para cima" (149) — gafe de linguagem.
+9. "Conclusão" genérica (167).
+10. Abertura sem sinal de experiência/caso (padrão EEAT do cluster).
+11. "Score recalculado a cada consulta" (49) — simplificação a suavizar.
+
+---
+
+## NOTAS FINAIS
+
+| Critério | Nota |
+|---|---|
+| EEAT | 6/10 |
+| SEO ON-PAGE | 7/10 |
+| Qualidade Editorial | 9/10 |
+| Monetização | 9/10 |
+| Frontmatter | Aprovado (ressalva: description 116 chars — critério SEO) |
+| Originalidade entre artigos | 8/10 |
+| **NOTA GLOBAL** | **7,8/10** |
+
+**Checagem de afirmações — resultado:** 6 de 8 afirmações centrais **confirmadas** por fontes externas (revisão 90–180 dias = 3-6 meses: Serasa; pedido de aumento × consulta × score: Serasa; consulta gratuita: Serasa; utilização × score; inatividade × redução; oferta em bloco). **1 afirmação precisa de nuance** (aviso de mudança de limite × Res. BCB 96/2021 + STJ) e **1 formulação flexível** ("recalculado a cada consulta"). Não há números forjados nem promessa de resultado.
+
+**Originalidade vs. cluster — resultado:** vs. `como-aumentar-limite-cartao` = **0,22% literal / ~10-12% conceitual** (par mais próximo; H2s, FAQs e formatos distintos, mas bloco de "fatores do banco" e faixa de uso convergem); vs. `cartao-para-negativado` = **0% literal / ~2-3% conceitual** (temas praticamente disjuntos). Nenhum parágrafo, lista ou pergunta de FAQ duplicada — o cluster **não** está no padrão da rejeição anterior.
+
+**Veredito: APROVADO COM RESSALVAS** (EEAT 6/10 — dimensão entre 5 e 6, sem problema bloqueante). Pode ser commitado **após** as 3 correções obrigatórias (meta description, nuance da FAQ de aviso com fonte, ≥2 links de autoridade); as demais elevam a nota e fecham a consistência do cluster de limite.
+
+---
+
+## RECOMENDAÇÃO FINAL
+
+- **Commit permitido após as 3 correções obrigatórias** deste artigo (description 116 → 140-160; FAQ de aviso com Res. BCB 96/2021 + STJ REsp 2.215.427; ≥2 fontes externas — bcb.gov.br FAQ "Limite de cartão de crédito" e Serasa).
+- **Ações fora deste arquivo (cluster Cartões/Limite):**
+  1. `como-aumentar-limite-cartao.md` — adicionar link de volta para `/blog/como-funciona-limite-cartao-de-credito/` na seção "Estratégias práticas" (linha 54+) e alinhar a faixa de uso (40%-70% → 30%-70%, ou justificar a diferença).
+  2. `como-aumentar-limite-cartao.md` e `cartao-para-negativado.md` — copy de `affiliate_cta` idêntica entre si ("Quer comparar opções de cartão antes de decidir?… Saiba mais") e genérica: alinhar ao produto real (Manual do Dinheiro), conforme padrão já aplicado no artigo novo e na reauditoria da Auditoria 5.
+- **Padrão a manter nos próximos artigos do cluster Cartões:**
+  1. Antes de escrever, comparar o bloco "o que o banco/o mercado avalia" com `como-aumentar-limite-cartao` — esse é o núcleo compartilhado do silo; o artigo novo deve explicar o **mecanismo** e o vizinho a **estratégia**, sem repetir a mesma lista.
+  2. Toda afirmação sobre regra/bancos em YMYL precisa de **1 link de autoridade** (bcb.gov.br, Serasa, STJ, página oficial do banco) — foi o que separou EEAT 6 (este) de EEAT 7-8 (Auditorias 4-5).
+  3. Faixas percentuais (uso de limite, prazos de revisão) devem ser **idênticas entre artigos do mesmo silo**, ou explicitamente justificadas por contexto (ex.: 20-30% só para reconstrução de score).
+  4. Manter o formato de CTA de afiliado deste artigo (nomeia o Manual do Dinheiro como guia) como referência do cluster.
