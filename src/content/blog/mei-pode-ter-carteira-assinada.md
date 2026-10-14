@@ -68,7 +68,7 @@ Ter CNPJ ativo **não tira nenhum direito** que você já tem como CLT. FGTS, 13
 
 O ponto que muda de verdade é outro: **seguro-desemprego**.
 
-Ter CNPJ MEI não cancela automaticamente o seu direito. O benefício do [seguro-desemprego segue a Lei 7.998/1990](https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/perguntas-frequentes/o-que-e-o-microempreendedor-individual-mei/e-possivel-solicitar-a-inscricao) e é analisado caso a caso — a existência de MEI, por si só, nem garante nem suprime o pagamento. O que os sistemas olham é a sua renda declarada: se o MEI já demonstra faturamento suficiente para sustentar você, o pedido pode ser negado por renda própria.
+Ter CNPJ MEI não cancela automaticamente o seu direito. O benefício do [seguro-desemprego segue a Lei 7.998/1990](https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/perguntas-frequentes) e é analisado caso a caso — a existência de MEI, por si só, nem garante nem suprime o pagamento. O que os sistemas olham é a sua renda declarada: se o MEI já demonstra faturamento suficiente para sustentar você, o pedido pode ser negado por renda própria.
 
 O Portal do Empreendedor trata disso na mesma página em que confirma que os dois vínculos podem coexistir: em caso de dispensa sem justa causa, o MEI **poderá** ter o benefício negado — e a saída oficial é recorrer nos postos de atendimento do Ministério do Trabalho.
 
@@ -284,3 +284,4 @@ A pergunta certa, antes de abrir o CNPJ, não é "posso?". É: "minha atividade 
 Com isso resolvido, você mantém todos os direitos do CLT — FGTS, 13º, férias — e ainda constrói uma fonte de renda com o custo mensal mais baixo do Brasil: entre R$ 82 e R$ 87 em 2026, conforme a atividade.
 
 Se a sua dúvida agora é sobre como usar essa dupla contribuição a seu favor, veja o nosso guia de [impostos do MEI](/blog/impostos-do-mei/) para entender o que entra no DAS, e [benefícios do MEI](/blog/beneficios-do-mei/) para ver tudo que o CNPJ garante além do salário. Para começar do zero, o passo a passo completo está em [como abrir um MEI](/blog/como-abrir-um-mei/).
+
