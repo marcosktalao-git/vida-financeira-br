@@ -27,14 +27,14 @@ Sim, o MEI contribui para o INSS todos os meses através do DAS. Essa contribui�
 
 **Quanto vai para o INSS**
 
-Do total do DAS, R$ 75,90 (5% do salário mínimo) são destinados à Previdência Social. Esse valor é fixo, independentemente do seu faturamento mensal.
+Do total do DAS, R$ 81,05 (5% do salário mínimo) são destinados à Previdência Social. Esse valor é fixo, independentemente do seu faturamento mensal.
 
 Compare com outras formas de contribuição:
 
 | Forma de contribuição | Alíquota | Valor mensal (2026) |
 |-----------------------|----------|-------------------|
-| MEI | 5% do salário mínimo | R$ 75,90 |
-| Facultativo 5% (CadÚnico) | 5% do salário mínimo | R$ 75,90 |
+| MEI | 5% do salário mínimo | R$ 81,05 |
+| Facultativo 5% (CadÚnico) | 5% do salário mínimo | R$ 81,05 |
 | Facultativo 11% | 11% do salário mínimo | R$ 166,98 |
 | Autônomo 20% | 20% do salário mínimo ao teto | De R$ 303,60 a R$ 1.631,48 |
 | CLT | 7,5% a 14% (progressivo) | Descontado em folha |
@@ -133,7 +133,7 @@ O código 1910 é a Guia da Previdência Social para complementação do MEI. Fu
 **Exemplo prático**
 
 Você quer contribuir sobre R$ 3.000 por mês:
-- DAS normal: R$ 75,90 (5% de R$ 1.518)
+- DAS normal: R$ 81,05 (5% de R$ 1.518)
 - Complemento: 15% de R$ 1.482 (diferença entre R$ 3.000 e R$ 1.518)
 - Complemento: R$ 222,30 via GPS 1910
 - Total mensal: R$ 298,20
@@ -166,10 +166,10 @@ O teto do INSS em 2026 é R$ 8.157,41. Contribuir sobre valores acima do teto n�
 
 | Valor desejado | INSS do DAS | Complemento 1910 | Total mensal |
 |---------------|-------------|-----------------|-------------|
-| 1 salário mínimo | R$ 75,90 | R$ 0 | R$ 75,90 |
-| R$ 2.000 | R$ 75,90 | R$ 72,30 | R$ 148,20 |
-| R$ 3.000 | R$ 75,90 | R$ 222,30 | R$ 298,20 |
-| R$ 5.000 | R$ 75,90 | R$ 522,30 | R$ 598,20 |
+| 1 salário mínimo | R$ 81,05 | R$ 0 | R$ 81,05 |
+| R$ 2.000 | R$ 81,05 | R$ 72,30 | R$ 148,20 |
+| R$ 3.000 | R$ 81,05 | R$ 222,30 | R$ 298,20 |
+| R$ 5.000 | R$ 81,05 | R$ 522,30 | R$ 598,20 |
 
 ## MEI conta para aposentadoria por tempo de contribuição?
 
@@ -269,3 +269,4 @@ A aposentadoria do MEI é simples: contribuição baixa, benefício de um salár
 O mais importante é manter o DAS em dia e planejar com antecedência. Quanto antes você começar a se preparar, melhor será sua aposentadoria.
 
 Agora que você entende como funciona a aposentadoria do MEI, veja o passo a passo completo para solicitar seu benefício. Leia nosso guia sobre [como se aposentar pelo INSS em 2026](/blog/como-se-aposentar-pelo-inss-em-2026/). E lembre-se: ser MEI já é um grande passo — confira todos os [benefícios do MEI](/blog/beneficios-do-mei/) que você garante com a formalização.
+

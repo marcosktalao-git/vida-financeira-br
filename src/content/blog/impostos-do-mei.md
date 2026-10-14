@@ -1,8 +1,8 @@
----
+﻿---
 title: "Quais Impostos o MEI Paga em 2026: Guia Completo e Atualizado"
 description: "Descubra quais impostos o MEI paga em 2026, os valores atualizados do DAS, como calcular e quando pagar para evitar multas e problemas com a Receita Federal."
 pubDate: "2026-07-04"
-updatedDate: "2026-07-04"
+updatedDate: "2026-10-13"
 tags: ["MEI", "Impostos", "DAS"]
 keywords: ["impostos do mei", "quanto mei paga de imposto", "das mei 2026", "imposto mei mensal", "mei paga imposto"]
 heroImage: "../../assets/impostos-do-mei.jpg"
@@ -15,7 +15,7 @@ affiliate_cta:
 
 Uma das maiores dúvidas de quem pensa em abrir um MEI é sobre os impostos. "Quanto vou pagar por mês?", "É caro?", "O que está incluído nesse valor?". A resposta é mais simples do que parece.
 
-O MEI tem a menor carga tributária entre todos os regimes de empresa no Brasil. Em 2026, o valor mensal fica entre R$ 76,90 e R$ 80,90, e com ele você paga INSS, imposto municipal e imposto estadual em uma guia única. Não existe cálculo complicado, não existe contador obrigatório, não existe surpresa no fim do mês.
+O MEI tem a menor carga tributária entre todos os regimes de empresa no Brasil. Em 2026, o valor mensal fica entre R$ 82,05 e R$ 86,05, e com ele você paga INSS, imposto municipal e imposto estadual em uma guia única. Não existe cálculo complicado, não existe contador obrigatório, não existe surpresa no fim do mês.
 
 Neste guia, vou te mostrar exatamente quais impostos o MEI paga em 2026, como funciona cada um, o que fazer para não atrasar e o que acontece se você esquecer de pagar.
 
@@ -49,25 +49,25 @@ O valor que você paga todo mês depende do tipo de atividade do seu MEI. Existe
 
 **Prestador de serviço**
 
-- INSS: R$ 75,90 (5% do salário mínimo de R$ 1.518,00)
+- INSS: R$ 81,05 (5% do salário mínimo de R$ 1.621,00)
 - ISS: R$ 5,00
-- Total mensal: **R$ 80,90**
+- Total mensal: **R$ 86,05**
 
 Exemplos de atividades: cabeleireiro, manicure, personal trainer, fotógrafo, pedreiro, eletricista, encanador, diarista.
 
 **Comércio (varejo)**
 
-- INSS: R$ 75,90
+- INSS: R$ 81,05
 - ICMS: R$ 1,00
-- Total mensal: **R$ 76,90**
+- Total mensal: **R$ 82,05**
 
 Exemplos de atividades: loja de roupas, mercearia, banca de jornal, venda de artesanato, food truck.
 
 **Indústria**
 
-- INSS: R$ 75,90
+- INSS: R$ 81,05
 - ICMS: R$ 1,00
-- Total mensal: **R$ 76,90**
+- Total mensal: **R$ 82,05**
 
 Exemplos de atividades: fabricação de bolos, produção de móveis, confecção de roupas, fabricação de sabão.
 
@@ -75,10 +75,10 @@ Exemplos de atividades: fabricação de bolos, produção de móveis, confecçã
 
 Se você presta serviço e também vende produtos, pode precisar pagar ISS e ICMS juntos. Nesse caso:
 
-- INSS: R$ 75,90
+- INSS: R$ 81,05
 - ISS: R$ 5,00
 - ICMS: R$ 1,00
-- Total mensal: **R$ 81,90**
+- Total mensal: **R$ 87,05**
 
 Exemplo: salão de beleza que presta serviço de corte e vende produtos de cabelo.
 
@@ -90,10 +90,10 @@ Os valores do DAS são reajustados todo mês de janeiro, quando o salário míni
 
 | Tipo de atividade | INSS | ISS | ICMS | Total |
 |-------------------|------|-----|------|-------|
-| Serviço | R$ 75,90 | R$ 5,00 | — | R$ 80,90 |
-| Comércio | R$ 75,90 | — | R$ 1,00 | R$ 76,90 |
-| Indústria | R$ 75,90 | — | R$ 1,00 | R$ 76,90 |
-| Serviço + comércio | R$ 75,90 | R$ 5,00 | R$ 1,00 | R$ 81,90 |
+| Serviço | R$ 81,05 | R$ 5,00 | — | R$ 86,05 |
+| Comércio | R$ 81,05 | — | R$ 1,00 | R$ 82,05 |
+| Indústria | R$ 81,05 | — | R$ 1,00 | R$ 82,05 |
+| Serviço + comércio | R$ 81,05 | R$ 5,00 | R$ 1,00 | R$ 87,05 |
 
 ## Como calcular e emitir o DAS mensalmente
 
@@ -281,3 +281,4 @@ O MEI paga muito pouco imposto comparado a qualquer outro regime tributário. Me
 A única exigência real é manter o pagamento do DAS em dia e fazer a declaração anual até maio. São duas obrigações simples que garantem seus direitos previdenciários e mantêm seu CNPJ regular.
 
 Agora que você já sabe exatamente quais impostos o MEI paga, entenda também os demais custos envolvidos. Leia nosso guia sobre [quanto custa um MEI](/blog/como-abrir-um-mei/) e veja o panorama completo. Se ainda não abriu o seu, confira o passo a passo para [como abrir um MEI](/blog/como-abrir-um-mei/).
+
